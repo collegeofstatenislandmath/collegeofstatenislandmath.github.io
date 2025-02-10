@@ -251,152 +251,70 @@ window.Quarto = {
 <div class="card-header">
 <p>Course links</p>
 </div>
-<pre class="{julia}"><code>#| echo: false
-#| output: asis
-
-using Mustache
-using Markdown
-
-course_links = [
-(NM="WeBWorK",
- URL="/WeBWorK/courses.html",
- ALT="webwork",
- BI="pencil"),
-
-(NM="WebAssign",
- URL="https://www.webassign.net/",
- ALT="webassign",
- BI="pencil"),
-
-(NM="MyStatLab",
- URL="https://mlm.pearson.com/northamerica/mystatlab/",
- ALT="mystatlab",
- BI="pencil"),
-
-(NM="JuliaBox",
- URL="/juliabox",
- ALT="JuliaBox",
- BI="terminal-fill"),
-
-(NM="Course Materials",
- URL="/Undergraduate/Courses/",
- ALT="Materials",
- BI="pencil"),
-
-(NM="Tutoring",
- URL="/Undergraduate/Tutoring/",
- ALT="Tutoring",
- BI="person-circle")
-]
-
-quick_links = [
-    (NM="Brightspace",
-     URL="https://brightspace.cuny.edu/",
-     ALT="brightspace",
-     BI="journal"),
-
-    (NM="BlackBoard",
-     URL="https://www.cuny.edu/about/administration/offices/cis/core-functions/cuny-blackboard/",
-     ALT="blackboard",
-     BI="journal"),
-
-    (NM="CUNYFirst",
-     URL="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/",
-     ALT="cuny first",
-     BI="tools"),
-
-    (NM="Navigate",
-     URL="https://csi-cuny.campus.eab.com/",
-     ALT="Navigate",
-     BI="tools"),
-
-    (NM="Math major",
-     URL="/Undergraduate/Major/",
-     ALT="Major",
-     BI="ui-checks-grid"),
-
-    (NM="Mathclub",
-     URL="https://math-csi-cuny.github.io/mathclub/",
-     ALT="Major",
-     BI="transparency"),
-
-    (NM="Advisement",
-     URL="/Undergraduate/AdvisingDocuments/",
-     ALT="Advisement",
-     BI="person-check-fill"),
-
-    (NM="Careers",
-     URL="/Undergraduate/Career/",
-     ALT="Careers in mathematics",
-     BI="door-open"),
-
-    (NM="Teacher Education Honors Academy",
-     URL="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy",
-     ALT="Teacher Education Honors Academy",
-     BI="lightbulb"),
-
-    (NM="Course schedule",
-     URL="/Undergraduate/Courses/CUNYFirst/",
-     ALT="Course Schedule",
-     BI="layout-wtf"),
-
-    (NM="Calendar",
-     URL="/calendar.html",
-     ALT="College calendar",
-     BI="calendar-week"),
-
-    (NM="Accessibility",
-     URL="https://mth229.github.io/CSI-Math-ADA/",
-     ALT="Accessibility",
-     BI="pencil"),
-
-    (NM="Transition to Bright Space",
-     URL="/BB2BS/",
-     ALT="Brightspace",
-     BI="pencil"),
-
-]
-
-
-tpl = mt"""
-&lt;div class="d-grid gap-0 col-6 mx-auto"&gt;
-{{#:SIDEBAR}}
-&lt;button class="btn btn-outline-light btn-block" type="button"&gt;
-&lt;a href="{{{:URL}}}"  class="nav-link text-black" aria-current="page"&gt;
-&lt;i class="bi bi-{{:BI}}"&gt;&lt;/i&gt;
-&lt;abbrv aria-details="{{:NM}}" title="{{:NM}}" alt="{{:ALT}}"&gt;
-{{:NM}}
-&lt;/abbrv&gt;
-&lt;/a&gt;
-&lt;/button&gt;
-{{/:SIDEBAR}}
-&lt;/div&gt;
-"""
-
-atpl = mt"""
-&lt;ul class="nav nav-pills flex-column mb-auto"&gt;
-{{#:SIDEBAR}}
-    &lt;li class="nav-item"&gt;
-&lt;a href="{{{:URL}}}"  class="nav-link text-black" aria-current="page"&gt;
-&lt;i class="bi bi-{{:BI}}"&gt;&lt;/i&gt;
-&lt;abbrv aria-details="{{:NM}}" title="{{:NM}}" alt="{{:ALT}}"&gt;
-{{:NM}}
-&lt;/abbrv&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-{{/:SIDEBAR}}
-&lt;/ul&gt;
-
-"""
-
-Markdown.parse(Mustache.render(tpl; SIDEBAR=course_links))</code></pre>
+<div class="d-grid gap-0">
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="./WeBWorK/courses.html" class="btn-outline-light" alt="webwork">WeBWorK</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="https://www.webassign.net/" class="btn-outline-light" alt="webassign">WebAssign</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="https://mlm.pearson.com/northamerica/mystatlab/" class="btn-outline-light" alt="mystatlab">MyStatLab</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-terminal-fill"></i> <a href="./juliabox" class="btn-outline-light" alt="JuliaBox">JuliaBox</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="./Undergraduate/Courses/" class="btn-outline-light" alt="Materials">Course Materials</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-person-circle"></i> <a href="./Undergraduate/Tutoring/" class="btn-outline-light" alt="Tutoring">Tutoring</a></p>
+</div>
+</div>
 <div class="card-header">
 <p>Quick links</p>
 </div>
-<pre class="{julia}"><code>#| echo: false
-#| output: asis
-
-Markdown.parse(Mustache.render(tpl; SIDEBAR=quick_links))</code></pre>
+<div class="d-grid gap-0">
+<div class="btn btn-light">
+<p><i class="bi-journal"></i> <a href="https://brightspace.cuny.edu/" class="btn-outline-light" alt="brightspace">Brightspace</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-journal"></i> <a href="https://www.cuny.edu/about/administration/offices/cis/core-functions/cuny-blackboard/" class="btn-outline-light" alt="blackboard">BlackBoard</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-tools"></i> <a href="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/" class="btn-outline-light" alt="cuny first">CUNYFirst</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-tools"></i> <a href="https://csi-cuny.campus.eab.com/" class="btn-outline-light" alt="Navigate">Navigate</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-ui-checks-grid"></i> <a href="./Undergraduate/Major/" class="btn-outline-light" alt="Major">Math major</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-transparency"></i> <a href="https://math-csi-cuny.github.io/mathclub/" class="btn-outline-light" alt="Major">Mathclub</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-person-check-fill"></i> <a href="./Undergraduate/AdvisingDocuments/" class="btn-outline-light" alt="Advisement">Advisement</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-door-open"></i> <a href="./Undergraduate/Career/" class="btn-outline-light" alt="Careers in mathematics">Careers</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-lightbulb"></i> <a href="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy" class="btn-outline-light" alt="Teacher Education Honors Academy">Teacher Education Honors Academy</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-layout-wtf"></i> <a href="./Undergraduate/Courses/CUNYFirst/" class="btn-outline-light" alt="Course Schedule">Course schedule</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-calendar-week"></i> <a href="./calendar.html" class="btn-outline-light" alt="College calendar">Calendar</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="https://mth229.github.io/CSI-Math-ADA/" class="btn-outline-light" alt="Accessibility">Accessibility</a></p>
+</div>
+<div class="btn btn-light">
+<p><i class="bi-pencil"></i> <a href="./BB2BS/" class="btn-outline-light" alt="Brightspace">Transition to Bright Space</a></p>
+</div>
+</div>
 </div>
 </div>
 <section id="recent-news" class="level2 g-col-6">
@@ -414,7 +332,7 @@ Title
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1739059200000" data-listing-file-modified-sort="1739204139042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Achtung" data-listing-filename-sort="news-item-test.qmd">
+<tr data-index="0" data-listing-date-sort="1739059200000" data-listing-file-modified-sort="1739213118875" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Achtung" data-listing-filename-sort="news-item-test.qmd">
 <td>
 <span class="listing-date">Feb 9, 2025</span>
 </td>
@@ -422,7 +340,7 @@ Title
 <a href="./news/news-item-test.html" class="title listing-title">Achtung</a>
 </td>
 </tr>
-<tr data-index="1" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1739204139042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Attention" data-listing-filename-sort="news-item.qmd">
+<tr data-index="1" data-listing-date-sort="1738368000000" data-listing-file-modified-sort="1739213118875" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="Attention" data-listing-filename-sort="news-item.qmd">
 <td>
 <span class="listing-date">Feb 1, 2025</span>
 </td>
@@ -437,54 +355,9 @@ No matching items
 </div>
 </div>
 </section>
-<section id="calendar" class="level2 g-col-6">
-<h2 class="anchored" data-anchor-id="calendar">Calendar</h2>
-<pre class="{julia}"><code>#| echo: false
-#| output: asis
-
-using CSV
-using Mustache
-using Markdown
-using DataFrames
-using Dates
-
-calendar_tpl = mt"""
-&lt;h3&gt;Upcoming calendar events&lt;/h3&gt;
-{{^:CALENDAR}}No upcoming events listed{{/:CALENDAR}}
-{{@:CALENDAR}}
-&lt;table class="table table-striped"&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th scope="col"&gt;Date&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/th&gt;
-      &lt;th scope="col"&gt;Event&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-&lt;tbody&gt;
-{{/:CALENDAR}}{{#:CALENDAR}}
-    &lt;tr&gt;
-    &lt;th scope="row"&gt;{{{:DATE}}}&lt;/th&gt;
-      &lt;td&gt;{{{:EVENT}}}&lt;/td&gt;
-    &lt;/tr&gt;
-{{/:CALENDAR}}{{@:CALENDAR}}
-  &lt;/tbody&gt;
-&lt;/table&gt;
-{{/:CALENDAR}}
-"""
-function make_calendar()
-    d = CSV.read("calendar.csv", DataFrame)
-    d = d[completecases(d), :]
-    d.DATE = Date.(d[:, 1], d[:, 2], d[:, 3])
-    d.EVENT = d[:, 4]
-    d = filter(:DATE =&gt; x -&gt; x &gt; today(), d)
-    d = d[sortperm(d.DATE), :]
-
-    # we do two things: make a 5-entry page; make a calendar
-    no_calendar_items = 5
-    d[1:min(no_calendar_items, size(d, 1)), :], d
-end
-calendar = make_calendar()[2]
-CALENDAR = Mustache.render(calendar_tpl, CALENDAR=calendar)
-Markdown.parse(CALENDAR)</code></pre>
+<section id="calendar-of-events" class="level2 g-col-6">
+<h2 class="anchored" data-anchor-id="calendar-of-events">Calendar of events</h2>
+<p><em>generate by script?</em></p>
 </section>
 </div>
 <hr>
@@ -594,7 +467,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/collegeofstatenislandmath\.github\.io\/website\/");
+      var filterRegex = new RegExp("https:\/\/collegeofstatenislandmath\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -1,22 +1,9 @@
 [
   {
-    "listing": "/news.html",
+    "listing": "/index.html",
     "items": [
       "/news/news-item-test.html",
       "/news/news-item.html"
-    ]
-  },
-  {
-    "listing": "/classes/classes.html",
-    "items": [
-      "/classes/MTH123/mth123.html",
-      "/classes/MTH102/mth102.html"
-    ]
-  },
-  {
-    "listing": "/People/staff/staff.html",
-    "items": [
-      "/People/staff/michelin-man.html"
     ]
   },
   {
@@ -53,7 +40,20 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/People/staff/staff.html",
+    "items": [
+      "/People/staff/michelin-man.html"
+    ]
+  },
+  {
+    "listing": "/classes/classes.html",
+    "items": [
+      "/classes/MTH123/mth123.html",
+      "/classes/MTH102/mth102.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
     "items": [
       "/news/news-item-test.html",
       "/news/news-item.html"

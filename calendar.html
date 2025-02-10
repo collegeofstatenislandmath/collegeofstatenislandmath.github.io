@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 <script>
   Sa11y.Lang.addI18n(Sa11yLangEn.strings);
   const sa11y = new Sa11y.Sa11y({
@@ -151,73 +151,15 @@ ul.task-list li input[type="checkbox"] {
   });
 </script>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Calendar</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
+<section id="calendar-of-events" class="level2">
+<h2 class="anchored" data-anchor-id="calendar-of-events">Calendar of events</h2>
+<p><em>generate by script?</em></p>
 
 
-</header>
-
-
-<pre class="{julia}"><code>#| echo: false
-#| output: asis
-
-using CSV
-using Mustache
-using Markdown
-using DataFrames
-using Dates
-
-calendar_tpl = mt"""
-&lt;h3&gt;Upcoming calendar events&lt;/h3&gt;
-{{^:CALENDAR}}No upcoming events listed{{/:CALENDAR}}
-{{@:CALENDAR}}
-&lt;table class="table table-striped"&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th scope="col"&gt;Date&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/th&gt;
-      &lt;th scope="col"&gt;Event&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-&lt;tbody&gt;
-{{/:CALENDAR}}{{#:CALENDAR}}
-    &lt;tr&gt;
-    &lt;th scope="row"&gt;{{{:DATE}}}&lt;/th&gt;
-      &lt;td&gt;{{{:EVENT}}}&lt;/td&gt;
-    &lt;/tr&gt;
-{{/:CALENDAR}}{{@:CALENDAR}}
-  &lt;/tbody&gt;
-&lt;/table&gt;
-{{/:CALENDAR}}
-"""
-function make_calendar()
-    d = CSV.read("calendar.csv", DataFrame)
-    d = d[completecases(d), :]
-    d.DATE = Date.(d[:, 1], d[:, 2], d[:, 3])
-    d.EVENT = d[:, 4]
-    d = filter(:DATE =&gt; x -&gt; x &gt; today(), d)
-    d = d[sortperm(d.DATE), :]
-
-    # we do two things: make a 5-entry page; make a calendar
-    no_calendar_items = 5
-    d[1:min(no_calendar_items, size(d, 1)), :], d
-end
-calendar = make_calendar()[2]
-CALENDAR = Mustache.render(calendar_tpl, CALENDAR=calendar)
-Markdown.parse(CALENDAR)</code></pre>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -310,7 +252,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/collegeofstatenislandmath\.github\.io\/website\/");
+      var filterRegex = new RegExp("https:\/\/collegeofstatenislandmath\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
