@@ -1,7 +1,0 @@
-.DS_Store
-/.quarto/
-/_site/
-/_*.local
-*_cache/
-
-requirements.txt
