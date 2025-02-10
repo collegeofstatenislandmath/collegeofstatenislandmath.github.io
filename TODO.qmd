@@ -1,0 +1,9 @@
+# TODO
+
+* github
+* calendar.csv needs updating (where does it come from)
+* staff is a stub
+* Styling
+- about pages are not very nice
+- many errors in nav bar
+- sidebar styling is kinda awful
