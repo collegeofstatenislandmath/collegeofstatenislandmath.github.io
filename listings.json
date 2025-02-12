@@ -1,9 +1,9 @@
 [
   {
-    "listing": "/classes/classes.html",
+    "listing": "/People/staff/index.html",
     "items": [
-      "/classes/MTH123/mth123.html",
-      "/classes/MTH102/mth102.html"
+      "/People/staff/Biagini-Colleen.html",
+      "/People/staff/Carbanaro-Lewis.html"
     ]
   },
   {
@@ -39,17 +39,16 @@
     ]
   },
   {
-    "listing": "/People/staff/index.html",
+    "listing": "/classes/classes.html",
     "items": [
-      "/People/staff/Biagini-Colleen.html",
-      "/People/staff/Carbanaro-Lewis.html"
+      "/classes/MTH123/mth123.html",
+      "/classes/MTH102/mth102.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/news/news-item-test.html",
-      "/news/news-item.html"
+      "/news/math-romance.html"
     ]
   }
 ]
