@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/news/news-item-test.html",
+      "/news/news-item.html"
+    ]
+  },
+  {
     "listing": "/classes/classes.html",
     "items": [
       "/classes/MTH123/mth123.html",
@@ -7,7 +14,7 @@
     ]
   },
   {
-    "listing": "/People/faculty/faculty.html",
+    "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Champanerkar-Abhijit.html",
       "/People/faculty/Tesdall-Allen.html",
@@ -39,17 +46,10 @@
     ]
   },
   {
-    "listing": "/People/staff/staff.html",
+    "listing": "/People/staff/index.html",
     "items": [
       "/People/staff/Biagini-Colleen.html",
       "/People/staff/Carbanaro-Lewis.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/news-item-test.html",
-      "/news/news-item.html"
     ]
   }
 ]
