@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -219,6 +219,40 @@ window.Quarto = {
 <section id="main-title" class="level1">
 <h1>The Department of Mathematics</h1>
 <!-- Main content -->
+<section id="recent-news" class="level2">
+<h2 class="anchored" data-anchor-id="recent-news">Recent news</h2>
+<div id="listing-news" class="container quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+Date
+</th>
+<th>
+Title
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1739404800000" data-listing-file-modified-sort="1739463350435" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14" data-listing-title-sort="The Math of Modern Romance" data-listing-filename-sort="math-romance.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./news/mathclub_valentinesday.jpg" style="height: 200px;"></span>
+</td>
+<td>
+<span class="listing-date">Feb 13, 2025</span>
+</td>
+<td>
+<a href="./news/math-romance.html" class="title listing-title">The Math of Modern Romance</a>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 <div class="grid">
 <div class="g-col-12 g-col-sm-8 g-col-md-9">
 <div class="grid">
@@ -322,40 +356,11 @@ window.Quarto = {
 </div>
 </div>
 <!-- News and Calendar  -->
-<div class="grid">
-<section id="recent-news" class="level2 g-col-12 g-col-md-6">
-<h2 class="anchored" data-anchor-id="recent-news">Recent news</h2>
-<div id="listing-news" class="container quarto-listing quarto-listing-container-table">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1739404800000" data-listing-file-modified-sort="1739461392216" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14" data-listing-title-sort="The Math of Modern Romance" data-listing-filename-sort="math-romance.qmd">
-<td>
-<span class="listing-date">Feb 13, 2025</span>
-</td>
-<td>
-<a href="./news/math-romance.html" class="title listing-title">The Math of Modern Romance</a>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
 </section>
+<div class="grid">
 <section id="academic-calendar" class="level2 g-col-12 g-col-md-6">
 <h2 class="anchored" data-anchor-id="academic-calendar">Academic Calendar</h2>
-<div class="mh-15 vh-15 h-15 overflow-scroll" style="height: 200px">
+<div class="mh-15 vh-15 h-15 overflow-scroll" style="height: 500px">
 <table class="caption-top table">
 <colgroup>
 <col style="width: 32%">
