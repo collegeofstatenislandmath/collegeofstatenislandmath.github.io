@@ -1358,74 +1358,74 @@
     "text": "Student login id’s will be available by first day of class.\nSite Information\nYour username is your first initial, followed by last name, followed by the last four digits of your College ID number. This is also your password by default. Please change it when you log in.\nFor example, John Smith, college id of 12345678 would log in….\nusername: jsmith5678\npassword: jsmith5678 (all lower case.)\nspecial note: if you are a Jr., II, III, etc., please append to your last name without any punctuation characters."
   },
   {
-    "objectID": "WeBWorK/courses.html#spring-2025--",
-    "href": "WeBWorK/courses.html#spring-2025--",
+    "objectID": "WeBWorK/courses.html#spring-2025",
+    "href": "WeBWorK/courses.html#spring-2025",
     "title": "WebWork at CSI",
-    "section": "Spring 2025 ———————————————————-",
-    "text": "Spring 2025 ———————————————————-"
+    "section": "Spring 2025",
+    "text": "Spring 2025"
   },
   {
     "objectID": "WeBWorK/courses.html#mth214",
     "href": "WeBWorK/courses.html#mth214",
     "title": "WebWork at CSI",
     "section": "MTH214",
-    "text": "MTH214\n\n[Schaefer] (http://www.math.csi.cuny.edu/webwork2/Math214_31891_Schaefer_S25/)"
+    "text": "MTH214\n\nSchaefer"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-229-julia-projects",
     "href": "WeBWorK/courses.html#mth-229-julia-projects",
     "title": "WebWork at CSI",
     "section": "MTH 229 – Julia Projects",
-    "text": "MTH 229 – Julia Projects\n\n[Calderon] (http://www.math.csi.cuny.edu/webwork2/Math229_30700_Calderon_S25/)\n[Kofman] (http://www.math.csi.cuny.edu/webwork2/Math229_30697_Kofman_S25/)\n[Kurzweil] (http://www.math.csi.cuny.edu/webwork2/Math229_30694_Kurzweil_S25/)\n[Maher] (http://www.math.csi.cuny.edu/webwork2/Math229_30695_Maher_S25/)\n[O’Bryant] (http://www.math.csi.cuny.edu/webwork2/Math229_30698_OBryant_S25/)\n[Verzani] (http://www.math.csi.cuny.edu/webwork2/Math229_30691_Verzani_S25/)"
+    "text": "MTH 229 – Julia Projects\n\nCalderon\nKofman\nKurzweil\nMaher\nO’Bryant\nVerzani"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-230",
     "href": "WeBWorK/courses.html#mth-230",
     "title": "WebWork at CSI",
     "section": "MTH 230",
-    "text": "MTH 230\n\n[Li, Freda] (http://www.math.csi.cuny.edu/webwork2/Math230_31508_Li_Freda_S25/)\n[Pankratova] (http://www.math.csi.cuny.edu/webwork2/Math230_31507_Pankratova_S25/)\n[Venuto] (http://www.math.csi.cuny.edu/webwork2/Math230_31509_Venuto_S25/)"
+    "text": "MTH 230\n\nLi, Freda\nPankratova\nVenuto"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-231",
     "href": "WeBWorK/courses.html#mth-231",
     "title": "WebWork at CSI",
     "section": "MTH 231",
-    "text": "MTH 231\n\n[Calderon] (http://www.math.csi.cuny.edu/webwork2/Math231_30563_Calderon_S25/)\n[El-Achkar 30562] (http://www.math.csi.cuny.edu/webwork2/Math231_30562_El-Achkar_S25/)\n[El-Achkar 31972] (http://www.math.csi.cuny.edu/webwork2/Math231_31972_El-Achkar_S25/)\n[Fuchs] (http://www.math.csi.cuny.edu/webwork2/Math231_30560_Fuchs_S25/)\n[Konczynski] (http://www.math.csi.cuny.edu/webwork2/Math231_30558_Konczynski_S25/)\n[Lucia] (http://www.math.csi.cuny.edu/webwork2/Math231_30561_Lucia_S25/)\n[O’Bryant] (http://www.math.csi.cuny.edu/webwork2/Math231_30565_OBryant_S25/)"
+    "text": "MTH 231\n\nCalderon\nEl-Achkar 30562\nEl-Achkar 31972\nFuchs\nKonczynski\nLucia\nO’Bryant"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-232",
     "href": "WeBWorK/courses.html#mth-232",
     "title": "WebWork at CSI",
     "section": "MTH 232",
-    "text": "MTH 232\n\n[Gunn 31487] (http://www.math.csi.cuny.edu/webwork2/Math232_31487_Gunn_S25/)\n[Gunn 31488] (http://www.math.csi.cuny.edu/webwork2/Math232_31488_Gunn_S25/)\n[Maher] (http://www.math.csi.cuny.edu/webwork2/Math232_31486_Maher_S25/)\n[Pribitkin] (http://www.math.csi.cuny.edu/webwork2/Math232_31489_Pribitkin_S25/)\n[Tesdall] (http://www.math.csi.cuny.edu/webwork2/Math232_31484_Tesdall_S25/)"
+    "text": "MTH 232\n\nGunn 31487\nGunn 31488\nMaher\nPribitkin\nTesdall"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-233",
     "href": "WeBWorK/courses.html#mth-233",
     "title": "WebWork at CSI",
     "section": "MTH 233",
-    "text": "MTH 233\n\n[Champanerkar] (http://www.math.csi.cuny.edu/webwork2/Math233_31441_Champanerkar_S25/)\n[Quinn] (http://www.math.csi.cuny.edu/webwork2/Math233_31440_Quinn_S25/)\n[Vukadinovic] (http://www.math.csi.cuny.edu/webwork2/Math233_31439_Vukadinovic_S25/)"
+    "text": "MTH 233\n\nChampanerkar\nQuinn\nVukadinovic"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-311",
     "href": "WeBWorK/courses.html#mth-311",
     "title": "WebWork at CSI",
     "section": "MTH 311",
-    "text": "MTH 311\n\n[Rosen] (http://www.math.csi.cuny.edu/webwork2/Math311_31498_Rosen_S25/)\n[Rossi] (http://www.math.csi.cuny.edu/webwork2/Math311_31497_Rossi_S25/)"
+    "text": "MTH 311\n\nRosen\nRossi"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-330",
     "href": "WeBWorK/courses.html#mth-330",
     "title": "WebWork at CSI",
     "section": "MTH 330",
-    "text": "MTH 330\n\n[Gindes] (http://www.math.csi.cuny.edu/webwork2/Math330_31476_Gindes_S25/)\n[Huang] (http://www.math.csi.cuny.edu/webwork2/Math330_31478_Huang_S25/)"
+    "text": "MTH 330\n\nGindes\nHuang"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-338",
     "href": "WeBWorK/courses.html#mth-338",
     "title": "WebWork at CSI",
     "section": "MTH 338",
-    "text": "MTH 338\n\n[Fuchs] (http://www.math.csi.cuny.edu/webwork2/Math338_31345_Fuchs_S25/)\n[Lucia] (http://www.math.csi.cuny.edu/webwork2/Math338_31347_Lucia_S25/)"
+    "text": "MTH 338\n\nFuchs\nLucia"
   },
   {
     "objectID": "Resources/index.html",
