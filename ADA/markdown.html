@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>sidebar – CSI Math</title>
+<title>markdown – CSI Math</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicons/wavelet.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1d3b9f5cea51a29f7c9584d9a641e7c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicons/wavelet.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1d3b9f5cea51a29f7c9584d9a641e7c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,17 +107,17 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-md " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/favicons/wavelet.svg" alt="CSI Math" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/favicons/wavelet.svg" alt="CSI Math" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">CSI Math</span>
     </a>
   </div>
@@ -93,11 +127,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./jobs.html"> 
+    <a class="nav-link" href="../jobs.html"> 
 <span class="menu-text">Jobs</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -106,21 +140,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
         <li>
-    <a class="dropdown-item" href="./People/faculty/index.html">
+    <a class="dropdown-item" href="../People/faculty/index.html">
  <span class="dropdown-text">Faculty in the Math Department</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./People/staff/index.html">
+    <a class="dropdown-item" href="../People/staff/index.html">
  <span class="dropdown-text">Staff in the Math Department</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/index.html"> 
+    <a class="nav-link" href="../Undergraduate/index.html"> 
 <span class="menu-text">Undergraduate</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/Courses/course_list.html"> 
+    <a class="nav-link" href="../Undergraduate/Courses/course_list.html"> 
 <span class="menu-text">Courses</span></a>
   </li>  
   <li class="nav-item">
@@ -128,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">TEHA</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/Courses/Syllabi/index.html"> 
+    <a class="nav-link" href="../Undergraduate/Courses/Syllabi/index.html"> 
 <span class="menu-text">Syllabi</span></a>
   </li>  
 </ul>
@@ -137,6 +171,16 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../ADA/index.html">ADA and the Math Department</a></li><li class="breadcrumb-item"><a href="../ADA/markdown.html">Notes on Markdown</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
   <div id="quarto-announcement" data-announcement-id="447b8f46333a043752ce613731b41225" class="alert alert-primary hidden"><i class="bi bi-newspaper quarto-announcement-icon"></i><div class="quarto-announcement-content">
 <p><a href="Undergraduate/Tutoring">Tutoring schedule is up!</a></p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
@@ -144,10 +188,82 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../ADA/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">ADA and the Math Department</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/achieve.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Achieve</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/ada-tools.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tools to check for ADA compliance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/html.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on HTML/CSS</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/latex.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on LaTeX</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/markdown.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Notes on Markdown</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/ms-word.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Microsoft Word</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/quarto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Quarto</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/webassign.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on WebAssign</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/webwork.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on WeBWork</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../ADA/index.html">ADA and the Math Department</a></li><li class="breadcrumb-item"><a href="../ADA/markdown.html">Notes on Markdown</a></li></ol></nav></header>
 <script>
   Sa11y.Lang.addI18n(Sa11yLangEn.strings);
   const sa11y = new Sa11y.Sa11y({
@@ -158,81 +274,108 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<!-- autogenerated by julia sidebar-links.jl -->
-<div class="d-grid gap-0">
-<div class="card">
-<div class="card-header">
-<p>Class links</p>
+<section id="notes-on-markdown" class="level1">
+<h1>Notes on Markdown</h1>
+<p>Markdown is a lightweight markup language for creating formatted text using a plain-text editor. (<a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia</a>)</p>
+<p>Markdown is standardized by <a href="https://en.wikipedia.org/wiki/Markdown#Standardization">CommonMark</a> but there are many variants.</p>
+<p>There are several means to convert markdown to other formats. A widely used one is <code>pandoc</code>. A newer, but very common one is Quarto, a successor to R’s <code>knitr</code> package for reproducible science that mixex text and code.</p>
+<section id="pandoc" class="level2">
+<h2 class="anchored" data-anchor-id="pandoc">Pandoc</h2>
+<p>Pandoc can be found on <a href="https://pandoc.org/">pandoc.org</a>. Pandoc claims: “If you need to convert files from one markup format into another, pandoc is your swiss-army knife.”</p>
+<p>Pandoc can easily convert markdown formatted files to pdf or html.</p>
+<p>For ADA compliant pdf, the <a href="https://joss.theoj.org/">Journal of Open Source Software</a> uses markdown for paper submissions (with minor adjustments for references) and converts to pdf using <a href="https://wiki.contextgarden.net/Main_Page">ConTeXt</a>, saying</p>
+<blockquote class="blockquote">
+<p>A common method for PDF generation is to go via LaTeX. However, support for tagging – a requirement for accessible PDFs – is not readily available for LaTeX. The current method used ConTeXt, to produce tagged PDF/A-3</p>
+</blockquote>
+<p>The basic command for converting <code>test.md</code> to <code>test.pdf</code> would look like:</p>
+<pre><code>pandoc test.md -o test.pdf -t context</code></pre>
+</section>
+<section id="quarto" class="level2">
+<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<p>One variant is the Markdown supported in <a href="https://quarto.org">Quarto</a>, which is well described on its webpages. Quarto uses pandoc to handle conversions and can output to the three main formats discussed here: PDF, HTML, and MS Word.</p>
+<p>We copy a few pieces of the documentation below:</p>
+<section id="figures" class="level3">
+<h3 class="anchored" data-anchor-id="figures">Figures</h3>
+<p><a href="https://quarto.org/docs/authoring/figures.html">Figures</a> are created with the syntax:</p>
+<pre class="verbatim"><code>![caption](elephant.png){fig-alt="A drawing of an elephant."}</code></pre>
+<p>Which contains the image a caption and an alt tag for screen readers. Many other options are also available for sizing and alignment.</p>
+<p>An alternate syntax that can be used to wrap, say, generated figures is to use the <code>div</code>-block constructs:</p>
+<pre class="verbatim"><code>::: {#fig-label layout-ncol=2}
+
+... figure code, e.g. ![sub-caption](link){fig-alt="alt tab"} ...
+
+Main caption
+:::</code></pre>
+</section>
+</section>
+<section id="tables" class="level2">
+<h2 class="anchored" data-anchor-id="tables">Tables</h2>
+<p><a href="https://quarto.org/docs/authoring/tables.html">Tables</a> can be created in a fairly simple manner with “pipe tables”. The example from the documentation:</p>
+<div>
+
 </div>
-<div class="nav flex-column" aria-current="page">
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./WeBWorK/courses.html" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> WeBWorK</a></p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>| Default | Left | Right | Center |</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>|---------|:-----|------:|:------:|</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>| 12      | 12   |    12 |   12   |</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>| 123     | 123  |   123 |  123   |</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>| 1       | 1    |     1 |   1    |</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>: Demonstration of pipe table syntax</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.webassign.net/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> WebAssign</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://mlm.pearson.com/northamerica/mystatlab/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> MyStatLab</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./juliabox" class="nav-link nav-fill table-hover text-black"><i class="bi bi-terminal-fill"></i> JuliaBox</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Courses/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Course Materials</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Tutoring/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-person-circle"></i> Tutoring</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="d-grid gap-0">
-<div class="card">
-<div class="card-header">
-<p>Quick links</p>
-</div>
-<div class="nav flex-column" aria-current="page">
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://brightspace.cuny.edu/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-journal"></i> Brightspace</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-tools"></i> CUNYFirst</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://csi-cuny.campus.eab.com/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-tools"></i> Navigate</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Major/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-ui-checks-grid"></i> Math major</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://math-csi-cuny.github.io/mathclub/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-transparency"></i> Mathclub</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/AdvisingDocuments/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-person-check-fill"></i> Advisement</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Career/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-door-open"></i> Careers</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy" class="nav-link nav-fill table-hover text-black"><i class="bi bi-lightbulb"></i> Teacher Education Honors Academy</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Courses/CUNYFirst/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-layout-wtf"></i> Course schedule</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./calendar.html" class="nav-link nav-fill table-hover text-black"><i class="bi bi-calendar-week"></i> Calendar</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="ADA" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Accessibility</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./BB2BS/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Transition to Bright Space</a></p>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<table class="caption-top table">
+<caption>Demonstration of pipe table syntax</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Default</th>
+<th style="text-align: left;">Left</th>
+<th style="text-align: right;">Right</th>
+<th style="text-align: center;">Center</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">123</td>
+<td style="text-align: left;">123</td>
+<td style="text-align: right;">123</td>
+<td style="text-align: center;">123</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: center;">1</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 </div>
-</div>
+<p>Tables may also be generated programmatically.</p>
+<section id="equations" class="level3">
+<h3 class="anchored" data-anchor-id="equations">Equations</h3>
+<p>Quarto provides support for <a href="https://quarto.org/docs/visual-editor/technical.html">Technical writing</a> including equations, citations, cross-references, footnotes, embedded code, and LateX.</p>
+<p>LaTeX equations are authored using standard Pandoc markdown syntax, which uses matching dollar signs (one or two) to indicate inline and display math.</p>
+</section>
+<section id="embedded-code" class="level3">
+<h3 class="anchored" data-anchor-id="embedded-code">Embedded code</h3>
+<p>Quarto makes the mix of executable computer code with text quite effortless, allowing for reproducible, dynamic documents.</p>
+<p>The embedded code can have labels, captions, alt tags, etc.</p>
+<p>Embedded code can also have <a href="https://quarto.org/docs/authoring/code-annotation.html">annotations</a>.</p>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -656,7 +799,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="./index.html">CSI Math</a></p>
+<p><a href="../index.html">CSI Math</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

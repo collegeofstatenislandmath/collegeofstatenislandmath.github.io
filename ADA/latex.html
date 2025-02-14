@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>sidebar – CSI Math</title>
+<title>latex – CSI Math</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicons/wavelet.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1d3b9f5cea51a29f7c9584d9a641e7c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicons/wavelet.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1d3b9f5cea51a29f7c9584d9a641e7c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,17 +107,17 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-md " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/favicons/wavelet.svg" alt="CSI Math" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/favicons/wavelet.svg" alt="CSI Math" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">CSI Math</span>
     </a>
   </div>
@@ -93,11 +127,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./jobs.html"> 
+    <a class="nav-link" href="../jobs.html"> 
 <span class="menu-text">Jobs</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -106,21 +140,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
         <li>
-    <a class="dropdown-item" href="./People/faculty/index.html">
+    <a class="dropdown-item" href="../People/faculty/index.html">
  <span class="dropdown-text">Faculty in the Math Department</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./People/staff/index.html">
+    <a class="dropdown-item" href="../People/staff/index.html">
  <span class="dropdown-text">Staff in the Math Department</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/index.html"> 
+    <a class="nav-link" href="../Undergraduate/index.html"> 
 <span class="menu-text">Undergraduate</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/Courses/course_list.html"> 
+    <a class="nav-link" href="../Undergraduate/Courses/course_list.html"> 
 <span class="menu-text">Courses</span></a>
   </li>  
   <li class="nav-item">
@@ -128,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">TEHA</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Undergraduate/Courses/Syllabi/index.html"> 
+    <a class="nav-link" href="../Undergraduate/Courses/Syllabi/index.html"> 
 <span class="menu-text">Syllabi</span></a>
   </li>  
 </ul>
@@ -137,6 +171,16 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../ADA/index.html">ADA and the Math Department</a></li><li class="breadcrumb-item"><a href="../ADA/latex.html">Notes on LaTeX</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
   <div id="quarto-announcement" data-announcement-id="447b8f46333a043752ce613731b41225" class="alert alert-primary hidden"><i class="bi bi-newspaper quarto-announcement-icon"></i><div class="quarto-announcement-content">
 <p><a href="Undergraduate/Tutoring">Tutoring schedule is up!</a></p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
@@ -144,10 +188,82 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../ADA/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">ADA and the Math Department</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/achieve.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Achieve</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/ada-tools.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tools to check for ADA compliance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/html.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on HTML/CSS</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/latex.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Notes on LaTeX</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/markdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Markdown</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/ms-word.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Microsoft Word</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/quarto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on Quarto</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/webassign.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on WebAssign</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ADA/webwork.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes on WeBWork</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../ADA/index.html">ADA and the Math Department</a></li><li class="breadcrumb-item"><a href="../ADA/latex.html">Notes on LaTeX</a></li></ol></nav></header>
 <script>
   Sa11y.Lang.addI18n(Sa11yLangEn.strings);
   const sa11y = new Sa11y.Sa11y({
@@ -158,81 +274,133 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<!-- autogenerated by julia sidebar-links.jl -->
-<div class="d-grid gap-0">
-<div class="card">
-<div class="card-header">
-<p>Class links</p>
+<section id="notes-on-latex" class="level1">
+<h1>Notes on LaTeX</h1>
+<blockquote class="blockquote">
+<p>Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.</p>
+<p>From <a href="https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771">LaTeX Guides</a></p>
+</blockquote>
+<p>The support of tagged PDF within is ongoing. The most up-to-date report is <a href="https://www.latex-project.org/publications/2023-UFi-FMi-TUG-tb137fischer-tagging23.pdf">available here</a>.</p>
+<p>Here is a sample preamble with additions for accessibility:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode tex code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">\DocumentMetadata</span>{</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    testphase=phase-III, <span class="co">% enables tagging</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    pdfstandard=A-2b     <span class="co">% declares that the pdf supports the A-2b standard</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>                         <span class="co">% note: this is only metadata, it does not enforce</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>                         <span class="co">% nor test anything</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="bu">\documentclass</span>{<span class="ex">article</span>}     <span class="co">% unclear if amsart is supported, needs more testing</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>[utf8]{<span class="ex">inputenc</span>} <span class="co">% unrelated to accessibility</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">hyperref</span>}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">\hypersetup</span>{</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    pdflang=en-US,</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    pdftitle={&lt;title of PDF&gt;},</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    pdfauthor={&lt;author&gt;}</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Additional recommendations:</p>
+<ul>
+<li>Use the most up-to-date version of latex/pdflatex available.</li>
+<li>PDFLaTeX or LuaLaTeX support tagging, other engines (e.g.&nbsp;XeTeX) are untested and may not work</li>
+<li>As with HTML, you should write your document using structured tags (<code>\section</code>, <code>\subsection</code>) so that these can be communicated to e-readers.</li>
+<li>Likewise, pictures should include alt-text, e.g.&nbsp;<code>\includegraphic[alt={Rubber Duck}]{ducky.jpg}</code></li>
+<li>There is also an early prototype for tagging formulas. Use <code>\DocumentMetadata{testphase={phase-III,math}}</code> to load.</li>
+<li>See the <a href="https://www.latex-project.org/publications/2023-UFi-FMi-TUG-tb137fischer-tagging23.pdf">LaTeX project’s report</a> for full details</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="nav flex-column" aria-current="page">
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./WeBWorK/courses.html" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> WeBWorK</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.webassign.net/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> WebAssign</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://mlm.pearson.com/northamerica/mystatlab/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> MyStatLab</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./juliabox" class="nav-link nav-fill table-hover text-black"><i class="bi bi-terminal-fill"></i> JuliaBox</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Courses/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Course Materials</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Tutoring/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-person-circle"></i> Tutoring</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="d-grid gap-0">
-<div class="card">
-<div class="card-header">
-<p>Quick links</p>
-</div>
-<div class="nav flex-column" aria-current="page">
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://brightspace.cuny.edu/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-journal"></i> Brightspace</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.cuny.edu/about/administration/offices/cis/cunyfirst/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-tools"></i> CUNYFirst</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://csi-cuny.campus.eab.com/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-tools"></i> Navigate</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Major/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-ui-checks-grid"></i> Math major</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://math-csi-cuny.github.io/mathclub/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-transparency"></i> Mathclub</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/AdvisingDocuments/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-person-check-fill"></i> Advisement</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Career/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-door-open"></i> Careers</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy" class="nav-link nav-fill table-hover text-black"><i class="bi bi-lightbulb"></i> Teacher Education Honors Academy</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./Undergraduate/Courses/CUNYFirst/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-layout-wtf"></i> Course schedule</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./calendar.html" class="nav-link nav-fill table-hover text-black"><i class="bi bi-calendar-week"></i> Calendar</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="ADA" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Accessibility</a></p>
-</div>
-<div class="btn btn-light text-start px-0 mx-0 py-0 my-0">
-<p><a href="./BB2BS/" class="nav-link nav-fill table-hover text-black"><i class="bi bi-pencil"></i> Transition to Bright Space</a></p>
+<div class="callout-title-container flex-fill">
+Note
 </div>
 </div>
+<div class="callout-body-container callout-body">
+<p>Documentation for supported key/values for <code>\DocumentMetadata</code> <a href="https://texdoc.org/serve/documentmetadata-support/0">is given here</a>.</p>
+<p>I (TG) am unable to find more information about what level of the PDF/A standard is supported by LaTeX right now.</p>
+<p>The above recipe scores 100% on Blackboard’s accessibility checker but more in depth testing is needed (and welcome!).</p>
 </div>
 </div>
+<section id="packages" class="level2">
+<h2 class="anchored" data-anchor-id="packages">Packages</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+These may all be outdated
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This package is not meant for direct use for end users.</p>
+</div>
+</div>
+<ul>
+<li><a href="https://ctan.org/pkg/tagpdf?lang=en">tagpdf</a></li>
+</ul>
+<p>The package offers tools to experiment with tagging and accessibility using pdfLATEX and LuaTEX. It isn’t meant for production but allows the user to try out how difficult it is to tag some structures; to try out how much tagging is really needed; to test what else is needed so that a pdf works e.g.&nbsp;with a screen reader. Its goal is to get a feeling for what has to be done, which kernel changes are needed, how packages should be adapted.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Wait!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This package is not actively developed. Please read the <a href="https://github.com/AndyClifton/accessibility">author’s README</a> for more info.</p>
+</div>
+</div>
+<ul>
+<li><a href="https://ctan.org/pkg/accessibility?lang=en">accessibility</a></li>
+</ul>
+<p>The accessibility package is intended to create tagged, structured PDF documents from LATEX source code. It allows to produce tagged PDF output following Adobe’s PDF-1.5 and 1.6 specifications.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Wait!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>As of 2020 the author discourages the use of this package.</p>
+</div>
+</div>
+<ul>
+<li><a href="https://ctan.org/pkg/axessibility?lang=en">axessiblity</a></li>
+</ul>
+<p>PDF documents containing formulas generated by LATEX are usually not accessible by assistive technologies for visually impaired people and people with special educational needs (i.e., by screen readers and braille displays). The axessibility package manages this issue, allowing to create a PDF document where the formulas are read by these assistive technologies, since it automatically generates hidden comments in the PDF document (by means of the /ActualText attribute and/or suitable tags) in correspondence to each formula.</p>
+</section>
+<section id="further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="further-reading">Further reading</h2>
+<p>Some links of interest (re: accessible LaTeX):</p>
+<ul>
+<li><p><a href="https://www.ams.org/journals/notices/202301/rnoti-p68.pdf">https://www.ams.org/journals/notices/202301/rnoti-p68.pdf</a></p></li>
+<li><p><a href="https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771">https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771</a></p></li>
+<li><p><a href="https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files">https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files</a></p></li>
+<li><p><a href="https://shen.hong.io/reproducible-pdfa-compliant-latex/">PDF-A Compliant LaTeX</a></p></li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -656,7 +824,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="./index.html">CSI Math</a></p>
+<p><a href="../index.html">CSI Math</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

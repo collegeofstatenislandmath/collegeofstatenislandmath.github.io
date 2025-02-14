@@ -4,7 +4,95 @@
     "href": "sidebar.html",
     "title": "CSI Math",
     "section": "",
-    "text": "Class links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+    "text": "Class links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+  },
+  {
+    "objectID": "ADA/achieve.html",
+    "href": "ADA/achieve.html",
+    "title": "Notes on Achieve",
+    "section": "",
+    "text": "Notes on Achieve\nAchieve is a course supplement available with MacMillan adoptions.\nhttps://www.macmillanlearning.com/college/us/our-story/accessibility",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Achieve"
+    ]
+  },
+  {
+    "objectID": "ADA/webwork.html",
+    "href": "ADA/webwork.html",
+    "title": "Notes on WeBWork",
+    "section": "",
+    "text": "Notes on WeBWork\nWeBWorK is a system, sponsored by the Mathematical Association of America, using in the department of mathematics for online homework and quizzes.\n\n\nthere is a webwork frontend called “edfinity” that touts their ADA compliance: https://edfinity.com/vpat",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on WeBWork"
+    ]
+  },
+  {
+    "objectID": "ADA/ada-tools.html",
+    "href": "ADA/ada-tools.html",
+    "title": "Tools to check for ADA compliance",
+    "section": "",
+    "text": "The main tool for checking for ADA compliance provided by CUNY is Ally. This is a product of Anthology Inc which is purchased for use within the CUNY LMS (BlackBoard or Brightspace/D2L). This is available through at least Dec. 30, 2028.\nThe following provides some details on it use: All use.\n\n\nAdobe says:\nAn accessible PDF is a document that is universally easy to use and meets established accessibility standards. It enables most people to view, read, or interact with your document. Since your audience may include people whose vision, hearing, mobility, or cognition is impaired, your document must support assistive technology like:\n\nScreen readers\nText-to-speech programs\nBraille displays\nAnd more\n\nThe more accessible your PDF is, for example, the easier it is to hear on a mobile device. Or view it with a screen magnifier. Or fill it out without a keyboard. Actually, this increased ease of use benefits everyone in your audience, regardless of their various abilities.\nAccessible PDFs, as opposed to regular PDFs, prioritize inclusivity and provide a better user experience for individuals with disabilities. Here are the key differences:\n\nStructure. Accessible PDFs have a proper organization with headings, paragraphs, and tables, aiding screen readers in understanding the content flow. Regular PDFs lack this structure.\nTextual accessibility. Accessible PDFs ensure the text is accessible using techniques like text recognition and alternative text for images. Regular PDFs may consist of static images or scanned documents.\nNavigation. Accessible PDFs include bookmarks, a table of contents, and descriptive hyperlinks for easy navigation. Regular PDFs can be challenging to navigate with screen readers.\nColor and contrast. Accessible PDFs prioritize color contrast and provide alternatives for color-coded information. Regular PDFs may have low contrast or rely solely on color.\nForms and interactive elements. Accessible PDFs have properly labeled and accessible form fields and interactive elements. Regular PDFs often lack proper labeling.\nMetadata and language specification. Accessible PDFs include accurate metadata and specify the document’s language. Regular PDFs may lack metadata or language specification.\n\n\n\nFaculty have access to the Adobe Suite of packages called Adobe Creative Cloud. (Students in certain courses do, as well.)\nThe Acrobat Pro program has a tool to verify accessibility https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html.\nThe tool creates a report on a given pdf.\n\n\n\nAt https://openpreservation.org/tools, one can find the verapdf program, an “an industry supported PDF/A validator.”\nFor https://en.wikipedia.org/wiki/PDF/A:\nPDF/A is an ISO-standardized version of the Portable Document Format (PDF) specialized for use in the archiving and long-term preservation of electronic documents. PDF/A differs from PDF by prohibiting features unsuitable for long-term archiving, such as font linking (as opposed to font embedding) and encryption.[1] The ISO requirements for PDF/A file viewers include color management guidelines, support for embedded fonts, and a user interface for reading embedded annotations.\n\n\n\n\n\nhttps://www.w3.org/WAI/standards-guidelines/wcag/\n\nWCAG are guidelines, internationally accepted, describing how to make web content more accessible to people with disabilities.\n\nhttps://wave.webaim.org/ WAVE provides a plugin for a browser making it easy and informative to check for Web Content Accessibility Guideline (WCAG) errors.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Tools to check for ADA compliance"
+    ]
+  },
+  {
+    "objectID": "ADA/ada-tools.html#pdf",
+    "href": "ADA/ada-tools.html#pdf",
+    "title": "Tools to check for ADA compliance",
+    "section": "",
+    "text": "Adobe says:\nAn accessible PDF is a document that is universally easy to use and meets established accessibility standards. It enables most people to view, read, or interact with your document. Since your audience may include people whose vision, hearing, mobility, or cognition is impaired, your document must support assistive technology like:\n\nScreen readers\nText-to-speech programs\nBraille displays\nAnd more\n\nThe more accessible your PDF is, for example, the easier it is to hear on a mobile device. Or view it with a screen magnifier. Or fill it out without a keyboard. Actually, this increased ease of use benefits everyone in your audience, regardless of their various abilities.\nAccessible PDFs, as opposed to regular PDFs, prioritize inclusivity and provide a better user experience for individuals with disabilities. Here are the key differences:\n\nStructure. Accessible PDFs have a proper organization with headings, paragraphs, and tables, aiding screen readers in understanding the content flow. Regular PDFs lack this structure.\nTextual accessibility. Accessible PDFs ensure the text is accessible using techniques like text recognition and alternative text for images. Regular PDFs may consist of static images or scanned documents.\nNavigation. Accessible PDFs include bookmarks, a table of contents, and descriptive hyperlinks for easy navigation. Regular PDFs can be challenging to navigate with screen readers.\nColor and contrast. Accessible PDFs prioritize color contrast and provide alternatives for color-coded information. Regular PDFs may have low contrast or rely solely on color.\nForms and interactive elements. Accessible PDFs have properly labeled and accessible form fields and interactive elements. Regular PDFs often lack proper labeling.\nMetadata and language specification. Accessible PDFs include accurate metadata and specify the document’s language. Regular PDFs may lack metadata or language specification.\n\n\n\nFaculty have access to the Adobe Suite of packages called Adobe Creative Cloud. (Students in certain courses do, as well.)\nThe Acrobat Pro program has a tool to verify accessibility https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html.\nThe tool creates a report on a given pdf.\n\n\n\nAt https://openpreservation.org/tools, one can find the verapdf program, an “an industry supported PDF/A validator.”\nFor https://en.wikipedia.org/wiki/PDF/A:\nPDF/A is an ISO-standardized version of the Portable Document Format (PDF) specialized for use in the archiving and long-term preservation of electronic documents. PDF/A differs from PDF by prohibiting features unsuitable for long-term archiving, such as font linking (as opposed to font embedding) and encryption.[1] The ISO requirements for PDF/A file viewers include color management guidelines, support for embedded fonts, and a user interface for reading embedded annotations.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Tools to check for ADA compliance"
+    ]
+  },
+  {
+    "objectID": "ADA/ada-tools.html#html",
+    "href": "ADA/ada-tools.html#html",
+    "title": "Tools to check for ADA compliance",
+    "section": "",
+    "text": "https://www.w3.org/WAI/standards-guidelines/wcag/\n\nWCAG are guidelines, internationally accepted, describing how to make web content more accessible to people with disabilities.\n\nhttps://wave.webaim.org/ WAVE provides a plugin for a browser making it easy and informative to check for Web Content Accessibility Guideline (WCAG) errors.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Tools to check for ADA compliance"
+    ]
+  },
+  {
+    "objectID": "ADA/quarto.html",
+    "href": "ADA/quarto.html",
+    "title": "Notes on Quarto",
+    "section": "",
+    "text": "Quarto is an open-source scientific and technical publishing system which can be used to publish in HTML, PDF, and other formats. A key feature is easy integration with programming languages like Julia, R, and Python.\n\n\nIt appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\n\nQuarto head’s up\n\n\n\nTG: One issue I’m running into now is Quarto isn’t able to produce tagged PDF/A documents. At least not with what I tried which is just\n(it doesn’t understand how Quarto’s tables are produced and isn’t able to compile).\nQuarto is built on Pandoc which then uses pdflatex so the accessibility information needs to be passed through multiple levels. Pandoc has more info at 1 and 2. The suggestion with Pandoc is to use ConTeXt instead of LaTeX since ConTeXt always produces tagged documents, although Pandoc requires an extension in order to optimize for tagging.\nSummary: Quarto is not suitable for producing tagged PDFs at this time; the best workaround I can find is to use html output. The main drawback is figures in tikz need to be compiled separately.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Quarto"
+    ]
+  },
+  {
+    "objectID": "ADA/quarto.html#quarto-can-use-different-tools",
+    "href": "ADA/quarto.html#quarto-can-use-different-tools",
+    "title": "Notes on Quarto",
+    "section": "",
+    "text": "It appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\n\nQuarto head’s up\n\n\n\nTG: One issue I’m running into now is Quarto isn’t able to produce tagged PDF/A documents. At least not with what I tried which is just\n(it doesn’t understand how Quarto’s tables are produced and isn’t able to compile).\nQuarto is built on Pandoc which then uses pdflatex so the accessibility information needs to be passed through multiple levels. Pandoc has more info at 1 and 2. The suggestion with Pandoc is to use ConTeXt instead of LaTeX since ConTeXt always produces tagged documents, although Pandoc requires an extension in order to optimize for tagging.\nSummary: Quarto is not suitable for producing tagged PDFs at this time; the best workaround I can find is to use html output. The main drawback is figures in tikz need to be compiled separately.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Quarto"
+    ]
+  },
+  {
+    "objectID": "ADA/ms-word.html",
+    "href": "ADA/ms-word.html",
+    "title": "Notes on Microsoft Word",
+    "section": "",
+    "text": "Notes on Microsoft Word\nHere’s a government website for Word Documents: https://www.section508.gov/create/documents/",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Microsoft Word"
+    ]
   },
   {
     "objectID": "Undergraduate/Courses/WeBWorK_Instructions/index.html",
@@ -2163,7 +2251,7 @@
     "href": "index.html",
     "title": "The Department of Mathematics",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nFeb 13, 2025\n\n\nThe Math of Modern Romance\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nWelcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\n\n\n\n\n\nClass links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n BlackBoard\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025-04/20/2025\nSaturday-Sunday\nSpring Recess\n\n\n05/16/2025-05/22/2025\nFriday-Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nFeb 13, 2025\n\n\nThe Math of Modern Romance\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nWelcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.\n\n\n\n\n\n\n\n\n\n\n\nClass links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Math major\n\n\n Mathclub\n\n\n Advisement\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025-04/20/2025\nSaturday-Sunday\nSpring Recess\n\n\n05/16/2025-05/22/2025\nFriday-Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
   },
   {
     "objectID": "index.html#recent-news",
@@ -3081,6 +3169,157 @@
       "Undergraduate",
       "Curriculum details",
       "MTH229"
+    ]
+  },
+  {
+    "objectID": "ADA/webassign.html",
+    "href": "ADA/webassign.html",
+    "title": "Notes on WebAssign",
+    "section": "",
+    "text": "Notes on WebAssign",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on WebAssign"
+    ]
+  },
+  {
+    "objectID": "ADA/latex.html",
+    "href": "ADA/latex.html",
+    "title": "Notes on LaTeX",
+    "section": "",
+    "text": "Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.\nFrom LaTeX Guides\n\nThe support of tagged PDF within is ongoing. The most up-to-date report is available here.\nHere is a sample preamble with additions for accessibility:\n\\DocumentMetadata{\n    testphase=phase-III, % enables tagging\n    pdfstandard=A-2b     % declares that the pdf supports the A-2b standard\n                         % note: this is only metadata, it does not enforce\n                         % nor test anything\n}\n\\documentclass{article}     % unclear if amsart is supported, needs more testing\n\\usepackage[utf8]{inputenc} % unrelated to accessibility\n\\usepackage{hyperref}\n\n\\hypersetup{\n    pdflang=en-US,\n    pdftitle={&lt;title of PDF&gt;},\n    pdfauthor={&lt;author&gt;}\n}\nAdditional recommendations:\n\nUse the most up-to-date version of latex/pdflatex available.\nPDFLaTeX or LuaLaTeX support tagging, other engines (e.g. XeTeX) are untested and may not work\nAs with HTML, you should write your document using structured tags (\\section, \\subsection) so that these can be communicated to e-readers.\nLikewise, pictures should include alt-text, e.g. \\includegraphic[alt={Rubber Duck}]{ducky.jpg}\nThere is also an early prototype for tagging formulas. Use \\DocumentMetadata{testphase={phase-III,math}} to load.\nSee the LaTeX project’s report for full details\n\n\n\n\n\n\n\nNote\n\n\n\nDocumentation for supported key/values for \\DocumentMetadata is given here.\nI (TG) am unable to find more information about what level of the PDF/A standard is supported by LaTeX right now.\nThe above recipe scores 100% on Blackboard’s accessibility checker but more in depth testing is needed (and welcome!).\n\n\n\n\n\n\n\n\n\n\nThese may all be outdated\n\n\n\n\n\n\n\n\n\n\n\n\nCaution\n\n\n\nThis package is not meant for direct use for end users.\n\n\n\ntagpdf\n\nThe package offers tools to experiment with tagging and accessibility using pdfLATEX and LuaTEX. It isn’t meant for production but allows the user to try out how difficult it is to tag some structures; to try out how much tagging is really needed; to test what else is needed so that a pdf works e.g. with a screen reader. Its goal is to get a feeling for what has to be done, which kernel changes are needed, how packages should be adapted.\n\n\n\n\n\n\nWait!\n\n\n\nThis package is not actively developed. Please read the author’s README for more info.\n\n\n\naccessibility\n\nThe accessibility package is intended to create tagged, structured PDF documents from LATEX source code. It allows to produce tagged PDF output following Adobe’s PDF-1.5 and 1.6 specifications.\n\n\n\n\n\n\nWait!\n\n\n\nAs of 2020 the author discourages the use of this package.\n\n\n\naxessiblity\n\nPDF documents containing formulas generated by LATEX are usually not accessible by assistive technologies for visually impaired people and people with special educational needs (i.e., by screen readers and braille displays). The axessibility package manages this issue, allowing to create a PDF document where the formulas are read by these assistive technologies, since it automatically generates hidden comments in the PDF document (by means of the /ActualText attribute and/or suitable tags) in correspondence to each formula.\n\n\n\nSome links of interest (re: accessible LaTeX):\n\nhttps://www.ams.org/journals/notices/202301/rnoti-p68.pdf\nhttps://libguides.lib.msu.edu/c.php?g=995742&p=8207771\nhttps://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files\nPDF-A Compliant LaTeX",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on LaTeX"
+    ]
+  },
+  {
+    "objectID": "ADA/latex.html#packages",
+    "href": "ADA/latex.html#packages",
+    "title": "Notes on LaTeX",
+    "section": "",
+    "text": "These may all be outdated\n\n\n\n\n\n\n\n\n\n\n\n\nCaution\n\n\n\nThis package is not meant for direct use for end users.\n\n\n\ntagpdf\n\nThe package offers tools to experiment with tagging and accessibility using pdfLATEX and LuaTEX. It isn’t meant for production but allows the user to try out how difficult it is to tag some structures; to try out how much tagging is really needed; to test what else is needed so that a pdf works e.g. with a screen reader. Its goal is to get a feeling for what has to be done, which kernel changes are needed, how packages should be adapted.\n\n\n\n\n\n\nWait!\n\n\n\nThis package is not actively developed. Please read the author’s README for more info.\n\n\n\naccessibility\n\nThe accessibility package is intended to create tagged, structured PDF documents from LATEX source code. It allows to produce tagged PDF output following Adobe’s PDF-1.5 and 1.6 specifications.\n\n\n\n\n\n\nWait!\n\n\n\nAs of 2020 the author discourages the use of this package.\n\n\n\naxessiblity\n\nPDF documents containing formulas generated by LATEX are usually not accessible by assistive technologies for visually impaired people and people with special educational needs (i.e., by screen readers and braille displays). The axessibility package manages this issue, allowing to create a PDF document where the formulas are read by these assistive technologies, since it automatically generates hidden comments in the PDF document (by means of the /ActualText attribute and/or suitable tags) in correspondence to each formula.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on LaTeX"
+    ]
+  },
+  {
+    "objectID": "ADA/latex.html#further-reading",
+    "href": "ADA/latex.html#further-reading",
+    "title": "Notes on LaTeX",
+    "section": "",
+    "text": "Some links of interest (re: accessible LaTeX):\n\nhttps://www.ams.org/journals/notices/202301/rnoti-p68.pdf\nhttps://libguides.lib.msu.edu/c.php?g=995742&p=8207771\nhttps://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files\nPDF-A Compliant LaTeX",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on LaTeX"
+    ]
+  },
+  {
+    "objectID": "ADA/html.html",
+    "href": "ADA/html.html",
+    "title": "Notes on HTML/CSS",
+    "section": "",
+    "text": "Adapted from the W3C’s Easy Checks and CUNY Guidance.\n\n\n\nPage title (&lt;title&gt;&lt;/title&gt;)\n\nshould adequately and briefly describe the content of the page\nshould be different from other pages on the same website\n\nImage alternative text (alt-text) (&lt;img alt=\"...\")\n\nEvery functional image (e.g. figures) should have a descriptive alt-text\nDecorative image which do not need description, should have a null alt-text (alt=\"\")\n\nText\n\nUse semantic headings (&lt;h1&gt;, &lt;h2&gt;,…) rather than &lt;div&gt; or &lt;span&gt;\nAim for good contrast between different colors (7:1). Larger text is allowed to have a slightly lower contrast ratio (4.5:1). Test this with tools such as from WebAIM or Mozilla Firefox’s accessibility dev tools (F12).\nText should resize well. Test zooming in to 200%.\n\nStructure\n\nUse semantic tags (e.g. &lt;header&gt;, &lt;main&gt;, &lt;section&gt;) where possible, rather than &lt;div&gt;. Likewise, prefer &lt;em&gt; and &lt;strong&gt; rather than &lt;i&gt;, &lt;b&gt; or &lt;span&gt;.\n\nInteractivity\n\nTabbing order (tab) for links should be visible and follow a logical order through the page\n\n\n\n\n\n\nCUNY guidance on web accessibility\nW3C Web Accessibility Initiative",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on HTML/CSS"
+    ]
+  },
+  {
+    "objectID": "ADA/html.html#guidance",
+    "href": "ADA/html.html#guidance",
+    "title": "Notes on HTML/CSS",
+    "section": "",
+    "text": "Page title (&lt;title&gt;&lt;/title&gt;)\n\nshould adequately and briefly describe the content of the page\nshould be different from other pages on the same website\n\nImage alternative text (alt-text) (&lt;img alt=\"...\")\n\nEvery functional image (e.g. figures) should have a descriptive alt-text\nDecorative image which do not need description, should have a null alt-text (alt=\"\")\n\nText\n\nUse semantic headings (&lt;h1&gt;, &lt;h2&gt;,…) rather than &lt;div&gt; or &lt;span&gt;\nAim for good contrast between different colors (7:1). Larger text is allowed to have a slightly lower contrast ratio (4.5:1). Test this with tools such as from WebAIM or Mozilla Firefox’s accessibility dev tools (F12).\nText should resize well. Test zooming in to 200%.\n\nStructure\n\nUse semantic tags (e.g. &lt;header&gt;, &lt;main&gt;, &lt;section&gt;) where possible, rather than &lt;div&gt;. Likewise, prefer &lt;em&gt; and &lt;strong&gt; rather than &lt;i&gt;, &lt;b&gt; or &lt;span&gt;.\n\nInteractivity\n\nTabbing order (tab) for links should be visible and follow a logical order through the page",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on HTML/CSS"
+    ]
+  },
+  {
+    "objectID": "ADA/html.html#links",
+    "href": "ADA/html.html#links",
+    "title": "Notes on HTML/CSS",
+    "section": "",
+    "text": "CUNY guidance on web accessibility\nW3C Web Accessibility Initiative",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on HTML/CSS"
+    ]
+  },
+  {
+    "objectID": "ADA/index.html",
+    "href": "ADA/index.html",
+    "title": "ADA and the Math Department",
+    "section": "",
+    "text": "The Department of Mathematics takes seriously compliance with the requirements of the ADA.\nIn spring of 2023, CUNY entered into an voluntary agreement with the Southern District of New York. This was in response to a student complaint in 2011 that WebAssign was not accessible given their needs. (“That digital platform was not fully capable of reading out mathematical and scientific symbols and equations.”)\nPart of the settlement included:\n\nThe prompt availability of accessible course materials by the start of the relevant course or as soon as practicable based upon early consultations with affected students;\nInformation Technology accessibility consistent with the latest Web Content Accessibility Guidelines, including via verification of the accessibility of third-party learning products and of instructors’ awareness of accessibility requirements for instructor-created content;\n\nThese pages attempt to make aware the accessibility requirements for instructor-created content, as commonly done in a mathematics class.\n\n\nMath classes at CSI use several different technology stacks. For online homework we use all of WebAssign, Achieve, and WeBWorK.\nTo generate course materials, many instructors use LaTeX to create pdf, many use a markdown variant and Quarto to generate pdf and HTML pages, others use Microsoft Word, and still others have their own solutions.\nThese pages contain working notes on each of these.\n\n\n\nAccessible mathematics herein is concerned with the ability of assistive technologies to read aloud a document so that it can be used without sight. Common areas which needs assistance are:\n\n\n\nBecause LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.\nFrom LaTeX Guides\n\n\n\n\n\nTo make mathematical formulae accessible in you LaTeX document, you will need to load in the axessibility package into the preamble.\n\n\n\n\nData tables are used to organize data with a logical relationship in grids.\nAccessible tables need HTML markup that indicates header cells and data cells and defines their relationship. Assistive technologies use this information to provide context to users. https://www.w3.org/WAI/tutorials/tables/\n\n\n\nImages must have text alternatives that describe the information or function represented by them. This ensures that images can be used by people with various disabilities. This tutorial demonstrates how to provide appropriate text alternatives based on the purpose of the image. https://www.w3.org/WAI/tutorials/images/ s\n\n\n\nEquations may give screen readers difficulty.\n\n\n\nAll of HTML, PDF, and Word formats have the ability to structure a document.\nFor example, HTML has header tags to provide a structure.",
+    "crumbs": [
+      "ADA and the Math Department"
+    ]
+  },
+  {
+    "objectID": "ADA/index.html#the-technology-stack",
+    "href": "ADA/index.html#the-technology-stack",
+    "title": "ADA and the Math Department",
+    "section": "",
+    "text": "Math classes at CSI use several different technology stacks. For online homework we use all of WebAssign, Achieve, and WeBWorK.\nTo generate course materials, many instructors use LaTeX to create pdf, many use a markdown variant and Quarto to generate pdf and HTML pages, others use Microsoft Word, and still others have their own solutions.\nThese pages contain working notes on each of these.",
+    "crumbs": [
+      "ADA and the Math Department"
+    ]
+  },
+  {
+    "objectID": "ADA/index.html#the-main-issues-with-publishing-accessible-mathematics",
+    "href": "ADA/index.html#the-main-issues-with-publishing-accessible-mathematics",
+    "title": "ADA and the Math Department",
+    "section": "",
+    "text": "Accessible mathematics herein is concerned with the ability of assistive technologies to read aloud a document so that it can be used without sight. Common areas which needs assistance are:\n\n\n\nBecause LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.\nFrom LaTeX Guides\n\n\n\n\n\nTo make mathematical formulae accessible in you LaTeX document, you will need to load in the axessibility package into the preamble.\n\n\n\n\nData tables are used to organize data with a logical relationship in grids.\nAccessible tables need HTML markup that indicates header cells and data cells and defines their relationship. Assistive technologies use this information to provide context to users. https://www.w3.org/WAI/tutorials/tables/\n\n\n\nImages must have text alternatives that describe the information or function represented by them. This ensures that images can be used by people with various disabilities. This tutorial demonstrates how to provide appropriate text alternatives based on the purpose of the image. https://www.w3.org/WAI/tutorials/images/ s\n\n\n\nEquations may give screen readers difficulty.\n\n\n\nAll of HTML, PDF, and Word formats have the ability to structure a document.\nFor example, HTML has header tags to provide a structure.",
+    "crumbs": [
+      "ADA and the Math Department"
+    ]
+  },
+  {
+    "objectID": "ADA/markdown.html",
+    "href": "ADA/markdown.html",
+    "title": "Notes on Markdown",
+    "section": "",
+    "text": "Markdown is a lightweight markup language for creating formatted text using a plain-text editor. (Wikipedia)\nMarkdown is standardized by CommonMark but there are many variants.\nThere are several means to convert markdown to other formats. A widely used one is pandoc. A newer, but very common one is Quarto, a successor to R’s knitr package for reproducible science that mixex text and code.\n\n\nPandoc can be found on pandoc.org. Pandoc claims: “If you need to convert files from one markup format into another, pandoc is your swiss-army knife.”\nPandoc can easily convert markdown formatted files to pdf or html.\nFor ADA compliant pdf, the Journal of Open Source Software uses markdown for paper submissions (with minor adjustments for references) and converts to pdf using ConTeXt, saying\n\nA common method for PDF generation is to go via LaTeX. However, support for tagging – a requirement for accessible PDFs – is not readily available for LaTeX. The current method used ConTeXt, to produce tagged PDF/A-3\n\nThe basic command for converting test.md to test.pdf would look like:\npandoc test.md -o test.pdf -t context\n\n\n\nOne variant is the Markdown supported in Quarto, which is well described on its webpages. Quarto uses pandoc to handle conversions and can output to the three main formats discussed here: PDF, HTML, and MS Word.\nWe copy a few pieces of the documentation below:\n\n\nFigures are created with the syntax:\n![caption](elephant.png){fig-alt=\"A drawing of an elephant.\"}\nWhich contains the image a caption and an alt tag for screen readers. Many other options are also available for sizing and alignment.\nAn alternate syntax that can be used to wrap, say, generated figures is to use the div-block constructs:\n::: {#fig-label layout-ncol=2}\n\n... figure code, e.g. ![sub-caption](link){fig-alt=\"alt tab\"} ...\n\nMain caption\n:::\n\n\n\n\nTables can be created in a fairly simple manner with “pipe tables”. The example from the documentation:\n\n\n\n\n\n\n| Default | Left | Right | Center |\n|---------|:-----|------:|:------:|\n| 12      | 12   |    12 |   12   |\n| 123     | 123  |   123 |  123   |\n| 1       | 1    |     1 |   1    |\n\n: Demonstration of pipe table syntax\n\n\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\n\n\n\nTables may also be generated programmatically.\n\n\nQuarto provides support for Technical writing including equations, citations, cross-references, footnotes, embedded code, and LateX.\nLaTeX equations are authored using standard Pandoc markdown syntax, which uses matching dollar signs (one or two) to indicate inline and display math.\n\n\n\nQuarto makes the mix of executable computer code with text quite effortless, allowing for reproducible, dynamic documents.\nThe embedded code can have labels, captions, alt tags, etc.\nEmbedded code can also have annotations.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Markdown"
+    ]
+  },
+  {
+    "objectID": "ADA/markdown.html#pandoc",
+    "href": "ADA/markdown.html#pandoc",
+    "title": "Notes on Markdown",
+    "section": "",
+    "text": "Pandoc can be found on pandoc.org. Pandoc claims: “If you need to convert files from one markup format into another, pandoc is your swiss-army knife.”\nPandoc can easily convert markdown formatted files to pdf or html.\nFor ADA compliant pdf, the Journal of Open Source Software uses markdown for paper submissions (with minor adjustments for references) and converts to pdf using ConTeXt, saying\n\nA common method for PDF generation is to go via LaTeX. However, support for tagging – a requirement for accessible PDFs – is not readily available for LaTeX. The current method used ConTeXt, to produce tagged PDF/A-3\n\nThe basic command for converting test.md to test.pdf would look like:\npandoc test.md -o test.pdf -t context",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Markdown"
+    ]
+  },
+  {
+    "objectID": "ADA/markdown.html#quarto",
+    "href": "ADA/markdown.html#quarto",
+    "title": "Notes on Markdown",
+    "section": "",
+    "text": "One variant is the Markdown supported in Quarto, which is well described on its webpages. Quarto uses pandoc to handle conversions and can output to the three main formats discussed here: PDF, HTML, and MS Word.\nWe copy a few pieces of the documentation below:\n\n\nFigures are created with the syntax:\n![caption](elephant.png){fig-alt=\"A drawing of an elephant.\"}\nWhich contains the image a caption and an alt tag for screen readers. Many other options are also available for sizing and alignment.\nAn alternate syntax that can be used to wrap, say, generated figures is to use the div-block constructs:\n::: {#fig-label layout-ncol=2}\n\n... figure code, e.g. ![sub-caption](link){fig-alt=\"alt tab\"} ...\n\nMain caption\n:::",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Markdown"
+    ]
+  },
+  {
+    "objectID": "ADA/markdown.html#tables",
+    "href": "ADA/markdown.html#tables",
+    "title": "Notes on Markdown",
+    "section": "",
+    "text": "Tables can be created in a fairly simple manner with “pipe tables”. The example from the documentation:\n\n\n\n\n\n\n| Default | Left | Right | Center |\n|---------|:-----|------:|:------:|\n| 12      | 12   |    12 |   12   |\n| 123     | 123  |   123 |  123   |\n| 1       | 1    |     1 |   1    |\n\n: Demonstration of pipe table syntax\n\n\n\nDemonstration of pipe table syntax\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\n\n\n\nTables may also be generated programmatically.\n\n\nQuarto provides support for Technical writing including equations, citations, cross-references, footnotes, embedded code, and LateX.\nLaTeX equations are authored using standard Pandoc markdown syntax, which uses matching dollar signs (one or two) to indicate inline and display math.\n\n\n\nQuarto makes the mix of executable computer code with text quite effortless, allowing for reproducible, dynamic documents.\nThe embedded code can have labels, captions, alt tags, etc.\nEmbedded code can also have annotations.",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on Markdown"
     ]
   }
 ]
