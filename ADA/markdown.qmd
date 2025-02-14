@@ -86,7 +86,7 @@ Main caption
 
 :::
 
-Tables may also be generated programattically.
+Tables may also be generated programmatically.
 
 ### Equations
 

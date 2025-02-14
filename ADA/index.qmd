@@ -30,7 +30,7 @@ Accessible mathematics herein is concerned with the ability of assistive technol
 
 ### Accessible PDF
 
-> Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibilty package in LaTeX can be used to add the structure, tagging, and alt text that PDF's created with LaTeX lack.
+> Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF's created with LaTeX lack.
 >
 > From [LaTeX Guides](https://libguides.lib.msu.edu/c.php?g=995742&p=8207771)
 

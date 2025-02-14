@@ -45,7 +45,7 @@ The tool creates a report on a given pdf.
 
 ### verapdf
 
-At [https://openpreservation.org/tools](https://openpreservation.org/tools), noe can find the verapdf program, an "an industry supported PDF/A validator."
+At [https://openpreservation.org/tools](https://openpreservation.org/tools), one can find the verapdf program, an "an industry supported PDF/A validator."
 
 For [https://en.wikipedia.org/wiki/PDF/A](https://en.wikipedia.org/wiki/PDF/A):
 
