@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "Research/index.html",
-    "href": "Research/index.html",
-    "title": "Research activities in the Department of Mathematics",
-    "section": "",
-    "text": "Members of our department carry out research in a variety of fields of pure and applied math. Many faculty members are also active at the CUNY Graduate Center, where they teach classes, participate in seminars, and supervise graduate students in the Mathematics, Physics, Computer Science, and Data Science programs."
-  },
-  {
-    "objectID": "Research/index.html#professors-by-research-area",
-    "href": "Research/index.html#professors-by-research-area",
-    "title": "Research activities in the Department of Mathematics",
-    "section": "Professors by research area",
-    "text": "Professors by research area\n\nProbability\nTobias Johnson, Jay Rosen"
-  },
-  {
-    "objectID": "Research/index.html#topology",
-    "href": "Research/index.html#topology",
-    "title": "Research activities in the Department of Mathematics",
-    "section": "Topology",
-    "text": "Topology\nAbhijit Champanerkar\n[TBD]\n\nNearby colleges and universities"
-  },
-  {
     "objectID": "sidebar.html",
     "href": "sidebar.html",
     "title": "CSI Math",
@@ -1441,25 +1420,11 @@
     ]
   },
   {
-    "objectID": "classes.html",
-    "href": "classes.html",
+    "objectID": "blurbs.html",
+    "href": "blurbs.html",
     "title": "CSI Math",
     "section": "",
-    "text": "do listing heres # classes"
-  },
-  {
-    "objectID": "classes/classes.html",
-    "href": "classes/classes.html",
-    "title": "classes in the Math Department",
-    "section": "",
-    "text": "MTH 123\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMTH102\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "classes/MTH102/mth102.html",
-    "href": "classes/MTH102/mth102.html",
-    "title": "MTH102",
-    "section": "",
-    "text": "one\ntwo\nthree"
+    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions."
   },
   {
     "objectID": "academic-calendar.html",
@@ -1467,6 +1432,13 @@
     "title": "CSI Math",
     "section": "",
     "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025-04/20/2025\nSaturday-Sunday\nSpring Recess\n\n\n05/16/2025-05/22/2025\nFriday-Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "generate by script?"
   },
   {
     "objectID": "about.html",
@@ -1509,20 +1481,6 @@
     "title": "CSI Math Department",
     "section": "In Service:",
     "text": "In Service:\nSupport faculty governance and participate actively in important departmental, College, and University committees.\nPromote the integration of mathematics into the College curriculum and into interdisciplinary projects and research activity at the College.\nPromote rigorous academic standards in mathematics at the College, emphasizing strong mathematical preparation in the curricula of all disciplines that require a mathematical foundation.\nPromote activities and programs to recruit new students with strong mathematical preparation and an interest in mathematics and science.\nEncourage and facilitate faculty professional development and service to the mathematical community.\n\nLast approved April 2009."
-  },
-  {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
-    "title": "CSI Math",
-    "section": "",
-    "text": "generate by script?"
-  },
-  {
-    "objectID": "Resources/index.html",
-    "href": "Resources/index.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Various resources available through the Mathematics Department or the College.\n\nlink …"
   },
   {
     "objectID": "WeBWorK/courses.html",
@@ -1607,20 +1565,6 @@
     "title": "WebWork at CSI",
     "section": "MTH 338",
     "text": "MTH 338\n\nFuchs\nLucia"
-  },
-  {
-    "objectID": "classes/MTH123/mth123.html",
-    "href": "classes/MTH123/mth123.html",
-    "title": "MTH 123",
-    "section": "",
-    "text": "stuff"
-  },
-  {
-    "objectID": "blurbs.html",
-    "href": "blurbs.html",
-    "title": "CSI Math",
-    "section": "",
-    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions."
   },
   {
     "objectID": "People/faculty/Li-Wenjuan.html",
@@ -3026,12 +2970,5 @@
       "Curriculum details",
       "MTH229"
     ]
-  },
-  {
-    "objectID": "Research/nearby-colleges.md.html",
-    "href": "Research/nearby-colleges.md.html",
-    "title": "Mathematics departments in the vicinity of the College of Staten Island.",
-    "section": "",
-    "text": "The College of Staten Island is centrally located with respect to the New York area mathematics research community. In addition to 7 world class university centers, there are nearly 100 nearby colleges. Moreover, the number of industrial mathematicians in the area is staggering.\nThere are regular seminars at the following major research centers\n\nCUNY Graduate Center (36 minutes drive time from CSI)\nRutgers University, including DIMACS (25 minutes away)\nCourant Institute/New York University (31 minutes away)\nColumbia University (45 minutes away)\nPrinceton University (52 minutes away)\nInstitute for Advanced Study (55 minutes away)\nSUNY Stony Brook (95 minutes away)\n\nThere are nearly 100 additional nearby colleges, and dozens of substantial industry-sponsored research groups in the area. Below is a very incomplete list.\n\nWagner College (9 minutes)\nMontclair State University (38 minutes)\n(CUNY) Lehman College (44 minutes)\n(CUNY) Hunter College (41 minutes)\n(CUNY) New York City College of Technology (23 minutes)\n(CUNY) Baruch (36 minutes)\nThe Cooper Union (30 minutes)\nFordham University (47 minutes)\n\nThis list is dramatically incomplete, and the maintainer (obryant at gmail dot com) would appreciate any additions. The criteria is that the school must be accredited and must have a faculty member with mathematics publications. Drive times were generated by Google maps, and do not account for public transportation, traffic, construction, et cetera."
   }
 ]
