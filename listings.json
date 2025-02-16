@@ -1,9 +1,8 @@
 [
   {
-    "listing": "/People/staff/index.html",
+    "listing": "/index.html",
     "items": [
-      "/People/staff/Biagini-Colleen.html",
-      "/People/staff/Carbanaro-Lewis.html"
+      "/news/math-romance.html"
     ]
   },
   {
@@ -39,9 +38,10 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/People/staff/index.html",
     "items": [
-      "/news/math-romance.html"
+      "/People/staff/Biagini-Colleen.html",
+      "/People/staff/Carbanaro-Lewis.html"
     ]
   }
 ]
