@@ -276,11 +276,25 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="notes-on-latex" class="level1">
 <h1>Notes on LaTeX</h1>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The support of tagged PDF within is ongoing. The most up-to-date report is <a href="https://www.latex-project.org/publications/indexbytopic/pdf/">available here</a> (direct link to <a href="https://www.latex-project.org/publications/2024-FMi-DPC-UFi-JAW-doceng24.pdf">2024 PDF</a>).</p>
+<p>The Overleaf team also has an <a href="https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility#Introducing_tagged_PDF">extensive document</a> on this topic; while they don’t give many concrete suggestions for authors, they do provide a lot of info about the challenges and explanations of the internals and PDF standards.</p>
+<p>We value any testing for the advice on this page. Please open a <a href="https://github.com/collegeofstatenislandmath/collegeofstatenislandmath.github.io/issues">Github issue</a> if you have suggestions.</p>
+</div>
+</div>
 <blockquote class="blockquote">
 <p>Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.</p>
 <p>From <a href="https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771">LaTeX Guides</a></p>
 </blockquote>
-<p>The support of tagged PDF within is ongoing. The most up-to-date report is <a href="https://www.latex-project.org/publications/2023-UFi-FMi-TUG-tb137fischer-tagging23.pdf">available here</a>.</p>
 <p>Here is a sample preamble with additions for accessibility:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode tex code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">\DocumentMetadata</span>{</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    testphase=phase-III, <span class="co">% enables tagging</span></span>
@@ -297,15 +311,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    pdftitle={&lt;title of PDF&gt;},</span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    pdfauthor={&lt;author&gt;}</span>
 <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Additional recommendations:</p>
-<ul>
-<li>Use the most up-to-date version of latex/pdflatex available.</li>
-<li>PDFLaTeX or LuaLaTeX support tagging, other engines (e.g.&nbsp;XeTeX) are untested and may not work</li>
-<li>As with HTML, you should write your document using structured tags (<code>\section</code>, <code>\subsection</code>) so that these can be communicated to e-readers.</li>
-<li>Likewise, pictures should include alt-text, e.g.&nbsp;<code>\includegraphic[alt={Rubber Duck}]{ducky.jpg}</code></li>
-<li>There is also an early prototype for tagging formulas. Use <code>\DocumentMetadata{testphase={phase-III,math}}</code> to load.</li>
-<li>See the <a href="https://www.latex-project.org/publications/2023-UFi-FMi-TUG-tb137fischer-tagging23.pdf">LaTeX project’s report</a> for full details</li>
-</ul>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -317,76 +322,18 @@ Note
 </div>
 <div class="callout-body-container callout-body">
 <p>Documentation for supported key/values for <code>\DocumentMetadata</code> <a href="https://texdoc.org/serve/documentmetadata-support/0">is given here</a>.</p>
-<p>I (TG) am unable to find more information about what level of the PDF/A standard is supported by LaTeX right now.</p>
-<p>The above recipe scores 100% on Blackboard’s accessibility checker but more in depth testing is needed (and welcome!).</p>
 </div>
 </div>
-<section id="packages" class="level2">
-<h2 class="anchored" data-anchor-id="packages">Packages</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-These may all be outdated
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Caution
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This package is not meant for direct use for end users.</p>
-</div>
-</div>
+<section id="additional-recommendations" class="level3">
+<h3 class="anchored" data-anchor-id="additional-recommendations">Additional recommendations:</h3>
 <ul>
-<li><a href="https://ctan.org/pkg/tagpdf?lang=en">tagpdf</a></li>
+<li>Use the most up-to-date version of LuaLaTeX/PDFLaTeX available.</li>
+<li>LuaLaTeX or PDFLaTeX support tagging, other engines (e.g.&nbsp;XeTeX) are untested and may not work</li>
+<li>As with HTML, you should write your document using structured tags (<code>\section</code>, <code>\subsection</code>) so that these can be communicated to e-readers.</li>
+<li>Likewise, pictures should include alt-text, e.g.&nbsp;<code>\includegraphic[alt={Rubber Duck}]{ducky.jpg}</code></li>
+<li>There is also an early prototype for tagging formulas. Use <code>\DocumentMetadata{testphase={phase-III,math}}</code> to load.</li>
+<li>See the <a href="https://www.latex-project.org/publications/indexbytopic/pdf/">LaTeX project’s report</a> for full details</li>
 </ul>
-<p>The package offers tools to experiment with tagging and accessibility using pdfLATEX and LuaTEX. It isn’t meant for production but allows the user to try out how difficult it is to tag some structures; to try out how much tagging is really needed; to test what else is needed so that a pdf works e.g.&nbsp;with a screen reader. Its goal is to get a feeling for what has to be done, which kernel changes are needed, how packages should be adapted.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Wait!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This package is not actively developed. Please read the <a href="https://github.com/AndyClifton/accessibility">author’s README</a> for more info.</p>
-</div>
-</div>
-<ul>
-<li><a href="https://ctan.org/pkg/accessibility?lang=en">accessibility</a></li>
-</ul>
-<p>The accessibility package is intended to create tagged, structured PDF documents from LATEX source code. It allows to produce tagged PDF output following Adobe’s PDF-1.5 and 1.6 specifications.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Wait!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>As of 2020 the author discourages the use of this package.</p>
-</div>
-</div>
-<ul>
-<li><a href="https://ctan.org/pkg/axessibility?lang=en">axessiblity</a></li>
-</ul>
-<p>PDF documents containing formulas generated by LATEX are usually not accessible by assistive technologies for visually impaired people and people with special educational needs (i.e., by screen readers and braille displays). The axessibility package manages this issue, allowing to create a PDF document where the formulas are read by these assistive technologies, since it automatically generates hidden comments in the PDF document (by means of the /ActualText attribute and/or suitable tags) in correspondence to each formula.</p>
 </section>
 <section id="further-reading" class="level2">
 <h2 class="anchored" data-anchor-id="further-reading">Further reading</h2>

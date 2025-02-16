@@ -281,21 +281,18 @@ window.Quarto = {
 <p><code>quarto install tinytex</code></p>
 </blockquote>
 <p>As an aside, there are <code>quarto update tinytex</code> and <code>quarto uninstall tinytex</code> commands.</p>
-<hr>
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Quarto head’s up
+Quarto heads up
 </div>
 </div>
 <div class="callout-body-container callout-body">
-TG: One issue I’m running into now is Quarto isn’t able to produce tagged PDF/A documents. At least not with what I tried which is just
-<p>(it doesn’t understand how Quarto’s tables are produced and isn’t able to compile).</p>
-<p>Quarto is built on Pandoc which then uses pdflatex so the accessibility information needs to be passed through multiple levels. Pandoc has more info at <a href="https://github.com/jgm/pandoc/issues/5409">1</a> and <a href="https://pandoc.org/MANUAL#accessible-pdfs-and-pdf-archiving-standards">2</a>. The suggestion with Pandoc is to use ConTeXt instead of LaTeX since ConTeXt always produces tagged documents, although Pandoc requires an extension in order to optimize for tagging.</p>
-<p>Summary: Quarto is not suitable for producing tagged PDFs at this time; the best workaround I can find is to use html output. The main drawback is figures in tikz need to be compiled separately.</p>
+<p>PDFs produced by Quarto are not tagged and when last tested, no success was found in trying to implement the advice from the <a href="../ADA/latex.html">latex page</a>.</p>
+<p>It’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.</p>
 </div>
 </div>
 
