@@ -66,7 +66,7 @@
     "href": "ADA/quarto.html",
     "title": "Notes on Quarto",
     "section": "",
-    "text": "Quarto is an open-source scientific and technical publishing system which can be used to publish in HTML, PDF, and other formats. A key feature is easy integration with programming languages like Julia, R, and Python.\n\n\nIt appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
+    "text": "Quarto is an open-source scientific and technical publishing system which can be used to publish in HTML, PDF, and other formats. A key feature is easy integration with programming languages like Julia, R, and Python.\n\n\nIt appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
     "crumbs": [
       "ADA and the Math Department",
       "Notes on Quarto"
@@ -77,7 +77,7 @@
     "href": "ADA/quarto.html#quarto-can-use-different-tools",
     "title": "Notes on Quarto",
     "section": "",
-    "text": "It appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
+    "text": "It appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
     "crumbs": [
       "ADA and the Math Department",
       "Notes on Quarto"
@@ -2448,7 +2448,183 @@
     "href": "Undergraduate/Awards/index.html",
     "title": "Graduation and Departmental Awards",
     "section": "",
-    "text": "The Graduation Awards are given to our most outstanding graduates for that year. The Departmental Awards are given to outstanding students in their Sophomore or Junior years.\n\n2023\n\nGraduation Awards\n\nMitchel Kharnak\nJohn Gambale\nJanet Akselrud\nMelissa Sorrentino\nFrederick Spreen\n\nDepartmental Awards\n\nKenny Feng\nJad Ibrahim\nMegan Trapanese\n\n\n\n\n2022\n\nGraduation Awards\n\nAmal Abdelaziz\nStivi Manoku\nJesse Dimino\nVincent Ndokaj\n\nDepartmental Awards\n\nJohn Galindo\nLaura Kaplan\nMathew Keeler\nBhavya Premachandran\n\n\n\n\n2021\n\nGraduation Awards\n\nChukwurado Umeaka\nJustin Peterkin\nJoshua Higgins\n\nDepartmental Awards\n\nStivi Manoku\nSierra Arcuri\nJenna Calderon\nJesse Dimino\n\n\n\n\n2020\n\nGraduation Awards\n\nDajana Avxhi\nSerena Newman\nMitchel Weitzman\n\nDepartmental Awards\n\nIlmi Demirovic\nJoshua Higgins\nChinedu Okoye\n\n\n\n\n2019\n\nGraduation Awards\n\nNicholas Veneziano\nNicholas Borghese\nJing Gian\n\nDepartmental Awards\n\nDajana Avxhi\nChukwurado Umeaka\nMitchell Weitzman\nJinglin Ye\n\n\n\n\n2018\n\nGraduation Awards\n\nRobert Ferrando\nRayan Ibrahime\nConcetta Perito\nIrteza Syed\n\nDepartmental Awards\n\nRocco Fama\nNicholas Veneziano\n\n\n\n\n2017\n\nGraduation Awards\n\nChristopher Pinto\nTimothy Sweeney\nHeather Mak\nSarah Sietz\n\nDepartmental Awards\n\nJing Gian\nBrandon Lei\nSerena Newman\nConcetta Perito\n\n\n\n\n2016\n\nGraduation Awards\n\nKeith Thompson\nBassem Nawar\nQuixia Yang\nLilani Seneviratne\n\nDepartmental Awards\n\nRobert Ferrando\nSarah Sietz\n\n\n\n\n2015\n\nGraduation Awards\n\nArgenta Benis\nDanielle Auriti\nLydia Chung\nAngelo Rago\nJustin Van Wygerden\n\nDepartmental Awards\n\nBassem Nawar\nKeith Thompson\nMichelle Vann\nQiuxia Yang\n\n\n\n\n2014\n\nGraduation Awards\n\nScott Edkins\nYing Yu\nJenna Theuret\nSuzanne Frank\nItiel Cohen (Student Government Award)\n\nDepartmental Awards\n\nArgenta Benis\nLydia Chung\nSuada Hilili\nLinani Sereviratne\n\n\n\n\n2013\n\nGraduation Awards\n\nAnthony DeLuca\nAndrea Cella\nMichel Abdo\nElena Sverdlova\nAngelo Rago\n\nDepartmental Awards\n\nScott Edkins\nSuzanne Frank\nWilliam George\nAntonio Grasso\n\n\n\n\n2012\n\nGraduation Awards\n\nDaniel Kurzweil\nJaclyn Marzella\nSylvanna Salama\nAnnelise Kropp\nKatherine Stone\n\nDepartmental Awards\n\nYing Yu\nDanielle Aruti\n\n\n\n\n2011\n\nGraduation Awards\n\nAnna Theodoropoulos\nEnsela Mema\nIlirjana Duka\nRaechel Strobel\n\nDepartmental Awards\n\nElena Sverdlova\nAnthony DeLuca\nAndrea Cella\n\n\n\n\n2010\n\nGraduation Awards\n\nBernard Adamitey\nJonathan Maltz\nMouwafak Abbas\nMarilyn Schulz\n\nDepartmental Awards\n\nJenna Theuret\nCynthia Murillo\nAnnelise Kropp\nChristine Rivera\n\n\n\n\n2009\n\nGraduation Awards\n\nIsmael Yacabou Djima\nTony Ramirez\nJoseph Zancocchio\nArti Mela\n\nDepartmental Awards\n\nSylvana Salama\nTimothy Mullen\nDaniel Kurzweil\n\n\n\n\n2008\n\nGraduation Awards\n\nKaramatou Yacoubou Djima\nDeena Thengone\nVadim Plaxine\n\n\nGraduation Awards have included:\nThe Louis Blake Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Louis Blake, a member of the Mathematics Department from 1975 to 1985.\nThe Sherry Blackman Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Sherry Blackman, a member of the Mathematics Department from 1970 to 2007.\nThe CSI Auxiliary Services Corporation Award for Academic Excellence in Mathematics is awarded by the faculty to an outstanding graduating student.\nBenedict Carlat Memorial Award for Outstanding Work in Mathematics. Awarded to an outstanding graduating mathematics major selected by the faculty of the Mathematics Department. The award, established by the Carlat family, honors the memory of Benedict Carlat, a member of the Mathematics Department from 1962 to 1976, chairperson from 1968 to 1976, and who taught the first computer course at CSI.",
+    "text": "The Graduation Awards are given to our most outstanding graduates for that year. The Departmental Awards are given to outstanding students in their Sophomore or Junior years.",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section",
+    "href": "Undergraduate/Awards/index.html#section",
+    "title": "Graduation and Departmental Awards",
+    "section": "2023",
+    "text": "2023\n\nGraduation Awards\n\nMitchel Kharnak\nJohn Gambale\nJanet Akselrud\nMelissa Sorrentino\nFrederick Spreen\n\nDepartmental Awards\n\nKenny Feng\nJad Ibrahim\nMegan Trapanese",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-1",
+    "href": "Undergraduate/Awards/index.html#section-1",
+    "title": "Graduation and Departmental Awards",
+    "section": "2022",
+    "text": "2022\n\nGraduation Awards\n\nAmal Abdelaziz\nStivi Manoku\nJesse Dimino\nVincent Ndokaj\n\nDepartmental Awards\n\nJohn Galindo\nLaura Kaplan\nMathew Keeler\nBhavya Premachandran",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-2",
+    "href": "Undergraduate/Awards/index.html#section-2",
+    "title": "Graduation and Departmental Awards",
+    "section": "2021",
+    "text": "2021\n\nGraduation Awards\n\nChukwurado Umeaka\nJustin Peterkin\nJoshua Higgins\n\nDepartmental Awards\n\nStivi Manoku\nSierra Arcuri\nJenna Calderon\nJesse Dimino",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-3",
+    "href": "Undergraduate/Awards/index.html#section-3",
+    "title": "Graduation and Departmental Awards",
+    "section": "2020",
+    "text": "2020\n\nGraduation Awards\n\nDajana Avxhi\nSerena Newman\nMitchel Weitzman\n\nDepartmental Awards\n\nIlmi Demirovic\nJoshua Higgins\nChinedu Okoye",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-4",
+    "href": "Undergraduate/Awards/index.html#section-4",
+    "title": "Graduation and Departmental Awards",
+    "section": "2019",
+    "text": "2019\n\nGraduation Awards\n\nNicholas Veneziano\nNicholas Borghese\nJing Gian\n\nDepartmental Awards\n\nDajana Avxhi\nChukwurado Umeaka\nMitchell Weitzman\nJinglin Ye",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-5",
+    "href": "Undergraduate/Awards/index.html#section-5",
+    "title": "Graduation and Departmental Awards",
+    "section": "2018",
+    "text": "2018\n\nGraduation Awards\n\nRobert Ferrando\nRayan Ibrahime\nConcetta Perito\nIrteza Syed\n\nDepartmental Awards\n\nRocco Fama\nNicholas Veneziano",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-6",
+    "href": "Undergraduate/Awards/index.html#section-6",
+    "title": "Graduation and Departmental Awards",
+    "section": "2017",
+    "text": "2017\n\nGraduation Awards\n\nChristopher Pinto\nTimothy Sweeney\nHeather Mak\nSarah Sietz\n\nDepartmental Awards\n\nJing Gian\nBrandon Lei\nSerena Newman\nConcetta Perito",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-7",
+    "href": "Undergraduate/Awards/index.html#section-7",
+    "title": "Graduation and Departmental Awards",
+    "section": "2016",
+    "text": "2016\n\nGraduation Awards\n\nKeith Thompson\nBassem Nawar\nQuixia Yang\nLilani Seneviratne\n\nDepartmental Awards\n\nRobert Ferrando\nSarah Sietz",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-8",
+    "href": "Undergraduate/Awards/index.html#section-8",
+    "title": "Graduation and Departmental Awards",
+    "section": "2015",
+    "text": "2015\n\nGraduation Awards\n\nArgenta Benis\nDanielle Auriti\nLydia Chung\nAngelo Rago\nJustin Van Wygerden\n\nDepartmental Awards\n\nBassem Nawar\nKeith Thompson\nMichelle Vann\nQiuxia Yang",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-9",
+    "href": "Undergraduate/Awards/index.html#section-9",
+    "title": "Graduation and Departmental Awards",
+    "section": "2014",
+    "text": "2014\n\nGraduation Awards\n\nScott Edkins\nYing Yu\nJenna Theuret\nSuzanne Frank\nItiel Cohen (Student Government Award)\n\nDepartmental Awards\n\nArgenta Benis\nLydia Chung\nSuada Hilili\nLinani Sereviratne",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-10",
+    "href": "Undergraduate/Awards/index.html#section-10",
+    "title": "Graduation and Departmental Awards",
+    "section": "2013",
+    "text": "2013\n\nGraduation Awards\n\nAnthony DeLuca\nAndrea Cella\nMichel Abdo\nElena Sverdlova\nAngelo Rago\n\nDepartmental Awards\n\nScott Edkins\nSuzanne Frank\nWilliam George\nAntonio Grasso",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-11",
+    "href": "Undergraduate/Awards/index.html#section-11",
+    "title": "Graduation and Departmental Awards",
+    "section": "2012",
+    "text": "2012\n\nGraduation Awards\n\nDaniel Kurzweil\nJaclyn Marzella\nSylvanna Salama\nAnnelise Kropp\nKatherine Stone\n\nDepartmental Awards\n\nYing Yu\nDanielle Aruti",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-12",
+    "href": "Undergraduate/Awards/index.html#section-12",
+    "title": "Graduation and Departmental Awards",
+    "section": "2011",
+    "text": "2011\n\nGraduation Awards\n\nAnna Theodoropoulos\nEnsela Mema\nIlirjana Duka\nRaechel Strobel\n\nDepartmental Awards\n\nElena Sverdlova\nAnthony DeLuca\nAndrea Cella",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-13",
+    "href": "Undergraduate/Awards/index.html#section-13",
+    "title": "Graduation and Departmental Awards",
+    "section": "2010",
+    "text": "2010\n\nGraduation Awards\n\nBernard Adamitey\nJonathan Maltz\nMouwafak Abbas\nMarilyn Schulz\n\nDepartmental Awards\n\nJenna Theuret\nCynthia Murillo\nAnnelise Kropp\nChristine Rivera",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-14",
+    "href": "Undergraduate/Awards/index.html#section-14",
+    "title": "Graduation and Departmental Awards",
+    "section": "2009",
+    "text": "2009\n\nGraduation Awards\n\nIsmael Yacabou Djima\nTony Ramirez\nJoseph Zancocchio\nArti Mela\n\nDepartmental Awards\n\nSylvana Salama\nTimothy Mullen\nDaniel Kurzweil",
+    "crumbs": [
+      "Undergraduate",
+      "Graduation and Departmental Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-15",
+    "href": "Undergraduate/Awards/index.html#section-15",
+    "title": "Graduation and Departmental Awards",
+    "section": "2008",
+    "text": "2008\n\nGraduation Awards\n\nKaramatou Yacoubou Djima\nDeena Thengone\nVadim Plaxine\n\n\nGraduation Awards have included:\nThe Louis Blake Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Louis Blake, a member of the Mathematics Department from 1975 to 1985.\nThe Sherry Blackman Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Sherry Blackman, a member of the Mathematics Department from 1970 to 2007.\nThe CSI Auxiliary Services Corporation Award for Academic Excellence in Mathematics is awarded by the faculty to an outstanding graduating student.\nBenedict Carlat Memorial Award for Outstanding Work in Mathematics. Awarded to an outstanding graduating mathematics major selected by the faculty of the Mathematics Department. The award, established by the Carlat family, honors the memory of Benedict Carlat, a member of the Mathematics Department from 1962 to 1976, chairperson from 1968 to 1976, and who taught the first computer course at CSI.",
     "crumbs": [
       "Undergraduate",
       "Graduation and Departmental Awards"
@@ -3152,7 +3328,18 @@
     "href": "Undergraduate/Courses/index.html",
     "title": "Curriculum details",
     "section": "",
-    "text": "Curriculum description\nCUNY First listing of all active courses\nAdvising documents\nWebAssign instructions\nWeBWorK Instructions\nCalculus book guide\nBest practices\n\n\nVarious Course Materials: MTH102 - MTH125\n\nMTH102\nMTH113\nMTH122\nMTH123\nMTH125\nMTH229",
+    "text": "Curriculum description\nCUNY First listing of all active courses\nAdvising documents\nWebAssign instructions\nWeBWorK Instructions\nCalculus book guide\nBest practices",
+    "crumbs": [
+      "Undergraduate",
+      "Curriculum details"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Courses/index.html#various-course-materials-mth102---mth125",
+    "href": "Undergraduate/Courses/index.html#various-course-materials-mth102---mth125",
+    "title": "Curriculum details",
+    "section": "Various Course Materials: MTH102 - MTH125",
+    "text": "Various Course Materials: MTH102 - MTH125\n\nMTH102\nMTH113\nMTH122\nMTH123\nMTH125\nMTH229",
     "crumbs": [
       "Undergraduate",
       "Curriculum details"
@@ -3199,6 +3386,17 @@
     "title": "Notes on LaTeX",
     "section": "",
     "text": "Note\n\n\n\nThe support of tagged PDF within is ongoing. The most up-to-date report is available here (direct link to 2024 PDF).\nThe Overleaf team also has an extensive document on this topic; while they don’t give many concrete suggestions for authors, they do provide a lot of info about the challenges and explanations of the internals and PDF standards.\nWe value any testing for the advice on this page. Please open a Github issue if you have suggestions.\n\n\n\nBecause LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.\nFrom LaTeX Guides\n\nHere is a sample preamble with additions for accessibility:\n\\DocumentMetadata{\n    testphase=phase-III, % enables tagging\n    pdfstandard=A-2b     % declares that the pdf supports the A-2b standard\n                         % note: this is only metadata, it does not enforce\n                         % nor test anything\n}\n\\documentclass{article}     % unclear if amsart is supported, needs more testing\n\\usepackage[utf8]{inputenc} % unrelated to accessibility\n\\usepackage{hyperref}\n\n\\hypersetup{\n    pdflang=en-US,\n    pdftitle={&lt;title of PDF&gt;},\n    pdfauthor={&lt;author&gt;}\n}\n\n\n\n\n\n\nNote\n\n\n\nDocumentation for supported key/values for \\DocumentMetadata is given here.\n\n\n\n\n\nUse the most up-to-date version of LuaLaTeX/PDFLaTeX available.\nLuaLaTeX or PDFLaTeX support tagging, other engines (e.g. XeTeX) are untested and may not work\nAs with HTML, you should write your document using structured tags (\\section, \\subsection) so that these can be communicated to e-readers.\nLikewise, pictures should include alt-text, e.g. \\includegraphic[alt={Rubber Duck}]{ducky.jpg}\nThere is also an early prototype for tagging formulas. Use \\DocumentMetadata{testphase={phase-III,math}} to load.\nSee the LaTeX project’s report for full details\n\n\n\n\nSome links of interest (re: accessible LaTeX):\n\nhttps://www.ams.org/journals/notices/202301/rnoti-p68.pdf\nhttps://libguides.lib.msu.edu/c.php?g=995742&p=8207771\nhttps://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files\nPDF-A Compliant LaTeX",
+    "crumbs": [
+      "ADA and the Math Department",
+      "Notes on LaTeX"
+    ]
+  },
+  {
+    "objectID": "ADA/latex.html#additional-recommendations",
+    "href": "ADA/latex.html#additional-recommendations",
+    "title": "Notes on LaTeX",
+    "section": "",
+    "text": "Use the most up-to-date version of LuaLaTeX/PDFLaTeX available.\nLuaLaTeX or PDFLaTeX support tagging, other engines (e.g. XeTeX) are untested and may not work\nAs with HTML, you should write your document using structured tags (\\section, \\subsection) so that these can be communicated to e-readers.\nLikewise, pictures should include alt-text, e.g. \\includegraphic[alt={Rubber Duck}]{ducky.jpg}\nThere is also an early prototype for tagging formulas. Use \\DocumentMetadata{testphase={phase-III,math}} to load.\nSee the LaTeX project’s report for full details",
     "crumbs": [
       "ADA and the Math Department",
       "Notes on LaTeX"
