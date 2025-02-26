@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/news/math-romance.html"
-    ]
-  },
-  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Champanerkar-Abhijit.html",
@@ -42,6 +36,12 @@
     "items": [
       "/People/staff/Biagini-Colleen.html",
       "/People/staff/Carbanaro-Lewis.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/math-romance.html"
     ]
   }
 ]
