@@ -3426,56 +3426,67 @@
   {
     "objectID": "Undergraduate/AdvisingDocuments/index.html",
     "href": "Undergraduate/AdvisingDocuments/index.html",
-    "title": "Advisement Documents",
+    "title": "Major/Minor requirements and sample schedules",
     "section": "",
     "text": "For advisement please send request to mathadvisor@csi.cuny.edu\nHelpful Advising Links",
     "crumbs": [
       "Undergraduate",
-      "Advisement Documents"
+      "Major/Minor requirements and sample schedules"
     ]
   },
   {
     "objectID": "Undergraduate/AdvisingDocuments/index.html#general-info",
     "href": "Undergraduate/AdvisingDocuments/index.html#general-info",
-    "title": "Advisement Documents",
+    "title": "Major/Minor requirements and sample schedules",
     "section": "",
     "text": "For advisement please send request to mathadvisor@csi.cuny.edu\nHelpful Advising Links",
     "crumbs": [
       "Undergraduate",
-      "Advisement Documents"
+      "Major/Minor requirements and sample schedules"
     ]
   },
   {
     "objectID": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-math",
     "href": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-math",
-    "title": "Advisement Documents",
+    "title": "Major/Minor requirements and sample schedules",
     "section": "B.S. in Math",
-    "text": "B.S. in Math\n\nDegree Requirements for B.S. in Mathematics and Gen Ed recommended courses.\nSample Schedules for Math Majors\nEight semester sample schedule (Math) starting with Calculus.",
+    "text": "B.S. in Math\n\nDegree Requirements for B.S. in Mathematics and Gen Ed recommended courses.\nEight semester sample schedule (Math) starting with Calculus.",
     "crumbs": [
       "Undergraduate",
-      "Advisement Documents"
+      "Major/Minor requirements and sample schedules"
     ]
   },
   {
     "objectID": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-math-7-12-education",
     "href": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-math-7-12-education",
-    "title": "Advisement Documents",
+    "title": "Major/Minor requirements and sample schedules",
     "section": "B.S. in Math (7-12 education)",
     "text": "B.S. in Math (7-12 education)\n\nDegree Requirements for B.S. in Mathematics (7-12 ed.) and Gen Ed recommended courses\nEight semester sample schedule (Math-Ed) starting with Calculus.\nSchedule for Undergraduate EDS sequence",
     "crumbs": [
       "Undergraduate",
-      "Advisement Documents"
+      "Major/Minor requirements and sample schedules"
     ]
   },
   {
     "objectID": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-computer-sciencemath",
     "href": "Undergraduate/AdvisingDocuments/index.html#b.s.-in-computer-sciencemath",
-    "title": "Advisement Documents",
+    "title": "Major/Minor requirements and sample schedules",
     "section": "B.S. in Computer Science/Math",
     "text": "B.S. in Computer Science/Math\n\nDegree Requirements for B.S. in Computer Science Math and Gen Ed Recommended Courses\nEight semester sample schedule (Computer Sci-Math) starting with Calculus.",
     "crumbs": [
       "Undergraduate",
-      "Advisement Documents"
+      "Major/Minor requirements and sample schedules"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/AdvisingDocuments/index.html#mathematics-minor",
+    "href": "Undergraduate/AdvisingDocuments/index.html#mathematics-minor",
+    "title": "Major/Minor requirements and sample schedules",
+    "section": "Mathematics Minor",
+    "text": "Mathematics Minor\nRevised requirements for Fall 2025:\nComplete the following courses with a minimum GPA of 2.0 in these courses:\n\nMTH 229\nMTH 230 or MTH 231\nMTH 232\nMTH 233\nMTH 338\nTwo other 300 or 400 level mathematics courses, at least one of which is not used to satisfy any other major or minor requirements.\n\nFor the Mathematics Minor, three 300 or 400 level mathematics courses must be taken at CSI.",
+    "crumbs": [
+      "Undergraduate",
+      "Major/Minor requirements and sample schedules"
     ]
   }
 ]
