@@ -1226,7 +1226,7 @@
     "href": "footer.html",
     "title": "CSI Math",
     "section": "",
-    "text": "CUNY  College of Staten Island \n\n\nDepartment of Mathematics  1S-215  2800 Victory Boulevard  Staten Island, NY 10314   718-802-3600   email: math@csi.cuny.edu"
+    "text": "CUNY  College of Staten Island \n\n\nDepartment of Mathematics  1S-215  2800 Victory Boulevard  Staten Island, NY 10314   718-802-3600   email: mathematics@csi.cuny.edu"
   },
   {
     "objectID": "WeBWorK/courses.html",
@@ -1782,57 +1782,49 @@
     ]
   },
   {
-    "objectID": "People/staff/index.html",
-    "href": "People/staff/index.html",
-    "title": "Staff in the Math Department",
+    "objectID": "People/staff/Carbanaro-Lewis.html",
+    "href": "People/staff/Carbanaro-Lewis.html",
+    "title": "Lewis Carbonaro",
     "section": "",
-    "text": "Colleen Biagini\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLewis Carbonaro\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc",
     "crumbs": [
       "People",
-      "Staff in the Math Department"
+      "Staff in the Math Department",
+      "Lewis Carbonaro"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "CSI Math Department",
+    "objectID": "People/staff/Carbanaro-Lewis.html#contact",
+    "href": "People/staff/Carbanaro-Lewis.html#contact",
+    "title": "Lewis Carbonaro",
     "section": "",
-    "text": "Carlo Lancellotti Chairperson"
+    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc",
+    "crumbs": [
+      "People",
+      "Staff in the Math Department",
+      "Lewis Carbonaro"
+    ]
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "CSI Math Department",
-    "section": "Contact",
-    "text": "Contact\nCollege of Staten Island  2800 Victory Boulevard  Staten Island, NY 10314  718-982-3600  mathematics@csi.cuny.edu"
+    "objectID": "juliabox/index.html",
+    "href": "juliabox/index.html",
+    "title": "Juliabox links for MTH 229 sections.",
+    "section": "",
+    "text": "Spring 2025\n\nSection 30700   Fr 2:30PM - 4:25PM   Calderon\nSection 30697   Mo 2:30PM - 4:25PM   Kofman\nSection 30694   MoWe 8:20PM - 9:10PM   Kurzweil\nSection 30695   Mo 12:20PM - 2:15PM   Maher\nSection 30698   We 12:20PM - 2:15PM   Obryant\nSection 30691   Th 10:10AM - 12:05PM   Verzani"
   },
   {
-    "objectID": "about.html#mission",
-    "href": "about.html#mission",
-    "title": "CSI Math Department",
-    "section": "Mission",
-    "text": "Mission\n\nThe primary mission of the Department of Mathematics is the discovery, communication, and teaching of mathematics. As part of the City University of New York (CUNY), the department is committed to academic excellence while providing equal access and opportunity.\n\nTo support this broad mission, the department has the following more specific goals."
+    "objectID": "sidebar.html",
+    "href": "sidebar.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Class links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Program/Course Descriptions\n\n\n Program Requirements\n\n\n Mathclub\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
   },
   {
-    "objectID": "about.html#in-teaching",
-    "href": "about.html#in-teaching",
-    "title": "CSI Math Department",
-    "section": "In Teaching:",
-    "text": "In Teaching:\nProvide quality instruction that gives a rigorous and comprehensive foundation for a diverse student body entering a wide variety of professions.\nCreate and maintain a strong undergraduate curriculum, providing a broad program of pure and applied mathematics, which includes courses serving each of the following student populations within the College:\n\nMathematics majors and Computer Science/Mathematics majors, in preparation for careers using mathematics, as well as graduate study in mathematics and related fields;\nStudents majoring in fields that use mathematics extensively, such as physical and life sciences, computer science, and engineering;\nStudents planning careers with special mathematical needs, such as business and elementary education;\nStudents in all fields fulfilling the College’s General Education requirement in mathematics.\n\nCreate and maintain a strong graduate mathematics curriculum and program, both in the Masters degree programs at the college and in doctoral programs at the CUNY Graduate Center including support of CSI faculty initiatives at the CUNY Graduate Center in curriculum development, teaching of Ph.D. courses, mathematics dissertation supervision and the running of research seminars.\nEncourage well-prepared students to continue to study mathematics at all levels, and facilitate extra-curricular projects for qualified students to prepare for careers or graduate study. Provide leadership and supervision for meeting developmental mathematics needs of students at the College."
-  },
-  {
-    "objectID": "about.html#in-research",
-    "href": "about.html#in-research",
-    "title": "CSI Math Department",
-    "section": "In Research:",
-    "text": "In Research:\nFoster high-quality research in pure and applied mathematics by facilitating and promoting the scholarly activities of the department’s faculty members and students.\nPromote policies and priorities within the College and CUNY that support and encourage research.\nRecruit new faculty members with proven or promising research programs\nSupport activities and events that disseminate important new or historical mathematical results."
-  },
-  {
-    "objectID": "about.html#in-service",
-    "href": "about.html#in-service",
-    "title": "CSI Math Department",
-    "section": "In Service:",
-    "text": "In Service:\nSupport faculty governance and participate actively in important departmental, College, and University committees.\nPromote the integration of mathematics into the College curriculum and into interdisciplinary projects and research activity at the College.\nPromote rigorous academic standards in mathematics at the College, emphasizing strong mathematical preparation in the curricula of all disciplines that require a mathematical foundation.\nPromote activities and programs to recruit new students with strong mathematical preparation and an interest in mathematics and science.\nEncourage and facilitate faculty professional development and service to the mathematical community.\n\nLast approved April 2009."
+    "objectID": "academic-calendar.html",
+    "href": "academic-calendar.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025–04/20/2025\nSaturday–Sunday\nSpring Recess\n\n\n05/16/2025–05/22/2025\nFriday–Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
   },
   {
     "objectID": "index.html",
@@ -1856,48 +1848,80 @@
     "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025–04/20/2025\nSaturday–Sunday\nSpring Recess\n\n\n05/16/2025–05/22/2025\nFriday–Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
   },
   {
-    "objectID": "academic-calendar.html",
-    "href": "academic-calendar.html",
-    "title": "CSI Math",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CSI Math Department",
     "section": "",
-    "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025–04/20/2025\nSaturday–Sunday\nSpring Recess\n\n\n05/16/2025–05/22/2025\nFriday–Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
+    "text": "1S-215  2800 Victory Boulevard  Staten Island, NY 10314\n 718-982-3600\n mathematics@csi.cuny.edu\n\n\n\n\n mathchair@csi.cuny.edu\n\n\n\n annette.coniglio at csi.cuny.edu\n\n\n\n colleen.biagini at csi.cuny.edu"
   },
   {
-    "objectID": "sidebar.html",
-    "href": "sidebar.html",
-    "title": "CSI Math",
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "CSI Math Department",
     "section": "",
-    "text": "Class links\n\n\n\n WeBWorK\n\n\n WebAssign\n\n\n MyStatLab\n\n\n JuliaBox\n\n\n Course Materials\n\n\n Tutoring\n\n\n\n\n\n\n\nQuick links\n\n\n\n Brightspace\n\n\n CUNYFirst\n\n\n Navigate\n\n\n Program/Course Descriptions\n\n\n Program Requirements\n\n\n Mathclub\n\n\n Careers\n\n\n Teacher Education Honors Academy\n\n\n Course schedule\n\n\n Calendar\n\n\n Accessibility\n\n\n Transition to Bright Space"
+    "text": "1S-215  2800 Victory Boulevard  Staten Island, NY 10314\n 718-982-3600\n mathematics@csi.cuny.edu\n\n\n\n\n mathchair@csi.cuny.edu\n\n\n\n annette.coniglio at csi.cuny.edu\n\n\n\n colleen.biagini at csi.cuny.edu"
   },
   {
-    "objectID": "juliabox/index.html",
-    "href": "juliabox/index.html",
-    "title": "Juliabox links for MTH 229 sections.",
-    "section": "",
-    "text": "Spring 2025\n\nSection 30700   Fr 2:30PM - 4:25PM   Calderon\nSection 30697   Mo 2:30PM - 4:25PM   Kofman\nSection 30694   MoWe 8:20PM - 9:10PM   Kurzweil\nSection 30695   Mo 12:20PM - 2:15PM   Maher\nSection 30698   We 12:20PM - 2:15PM   Obryant\nSection 30691   Th 10:10AM - 12:05PM   Verzani"
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "CSI Math Department",
+    "section": "Mission",
+    "text": "Mission\nThe primary mission of the Department of Mathematics is the discovery, communication, and teaching of mathematics. As part of the City University of New York (CUNY), the department is committed to academic excellence while providing equal access and opportunity.\nTo support this broad mission, the department has the following more specific goals."
   },
   {
-    "objectID": "People/staff/Carbanaro-Lewis.html",
-    "href": "People/staff/Carbanaro-Lewis.html",
-    "title": "Lewis Carbonaro",
+    "objectID": "about.html#in-teaching",
+    "href": "about.html#in-teaching",
+    "title": "CSI Math Department",
+    "section": "In Teaching:",
+    "text": "In Teaching:\nProvide quality instruction that gives a rigorous and comprehensive foundation for a diverse student body entering a wide variety of professions.\nCreate and maintain a strong undergraduate curriculum, providing a broad program of pure and applied mathematics, which includes courses serving each of the following student populations within the College:\n\nMathematics majors and Computer Science/Mathematics majors, in preparation for careers using mathematics, as well as graduate study in mathematics and related fields;\nStudents majoring in fields that use mathematics extensively, such as physical and life sciences, computer science, and engineering;\nStudents planning careers with special mathematical needs, such as business and elementary education;\nStudents in all fields fulfilling the College’s General Education requirement in mathematics.\n\nCreate and maintain a strong graduate mathematics curriculum and program, both in the Masters degree programs at the college and in doctoral programs at the CUNY Graduate Center including support of CSI faculty initiatives at the CUNY Graduate Center in curriculum development, teaching of Ph.D. courses, mathematics dissertation supervision and the running of research seminars.\nEncourage well-prepared students to continue to study mathematics at all levels, and facilitate extra-curricular projects for qualified students to prepare for careers or graduate study. Provide leadership and supervision for meeting developmental mathematics needs of students at the College."
+  },
+  {
+    "objectID": "about.html#in-research",
+    "href": "about.html#in-research",
+    "title": "CSI Math Department",
+    "section": "In Research:",
+    "text": "In Research:\nFoster high-quality research in pure and applied mathematics by facilitating and promoting the scholarly activities of the department’s faculty members and students.\nPromote policies and priorities within the College and CUNY that support and encourage research.\nRecruit new faculty members with proven or promising research programs\nSupport activities and events that disseminate important new or historical mathematical results."
+  },
+  {
+    "objectID": "about.html#in-service",
+    "href": "about.html#in-service",
+    "title": "CSI Math Department",
+    "section": "In Service:",
+    "text": "In Service:\nSupport faculty governance and participate actively in important departmental, College, and University committees.\nPromote the integration of mathematics into the College curriculum and into interdisciplinary projects and research activity at the College.\nPromote rigorous academic standards in mathematics at the College, emphasizing strong mathematical preparation in the curricula of all disciplines that require a mathematical foundation.\nPromote activities and programs to recruit new students with strong mathematical preparation and an interest in mathematics and science.\nEncourage and facilitate faculty professional development and service to the mathematical community."
+  },
+  {
+    "objectID": "People/staff/index.html",
+    "href": "People/staff/index.html",
+    "title": "Staff in the Math Department",
     "section": "",
-    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc",
+    "text": "Annette Coniglio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColleen Biagini\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLewis Carbonaro\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "People",
-      "Staff in the Math Department",
-      "Lewis Carbonaro"
+      "Staff in the Math Department"
     ]
   },
   {
-    "objectID": "People/staff/Carbanaro-Lewis.html#contact",
-    "href": "People/staff/Carbanaro-Lewis.html#contact",
-    "title": "Lewis Carbonaro",
+    "objectID": "People/staff/Coniglio-Annette.html",
+    "href": "People/staff/Coniglio-Annette.html",
+    "title": "Annette Coniglio",
     "section": "",
-    "text": "Office | 1S-213A  Telephone | x3606   Email | lewis.carbonaro at csi.cuny.edu   url | https://www.math.csi.cuny.edu/lewisc",
+    "text": "Office | 1S-215   telephone | x3600   mailbox | annette.coniglio at csi.cuny.edu",
     "crumbs": [
       "People",
       "Staff in the Math Department",
-      "Lewis Carbonaro"
+      "Annette Coniglio"
+    ]
+  },
+  {
+    "objectID": "People/staff/Coniglio-Annette.html#contact",
+    "href": "People/staff/Coniglio-Annette.html#contact",
+    "title": "Annette Coniglio",
+    "section": "",
+    "text": "Office | 1S-215   telephone | x3600   mailbox | annette.coniglio at csi.cuny.edu",
+    "crumbs": [
+      "People",
+      "Staff in the Math Department",
+      "Annette Coniglio"
     ]
   },
   {
