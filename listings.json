@@ -1,19 +1,5 @@
 [
   {
-    "listing": "/People/staff/index.html",
-    "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html",
-      "/People/staff/Carbanaro-Lewis.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/math-romance.html"
-    ]
-  },
-  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Champanerkar-Abhijit.html",
@@ -43,6 +29,21 @@
       "/People/faculty/Verzani-John.html",
       "/People/faculty/Vukadinovic-Jesenko.html",
       "/People/faculty/Wollman-Stephen.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/teha-pi-day.html",
+      "/news/math-romance.html"
+    ]
+  },
+  {
+    "listing": "/People/staff/index.html",
+    "items": [
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html",
+      "/People/staff/Carbanaro-Lewis.html"
     ]
   }
 ]
