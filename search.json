@@ -3001,32 +3001,32 @@
     "text": "Student login id’s will be available by first day of class.\nSite Information\nYour username is your first initial, followed by last name, followed by the last four digits of your College ID number. This is also your password by default. Please change it when you log in.\nFor example, John Smith, college id of 12345678 would log in….\nusername: jsmith5678\npassword: jsmith5678 (all lower case.)\nspecial note: if you are a Jr., II, III, etc., please append to your last name without any punctuation characters."
   },
   {
-    "objectID": "WeBWorK/courses.html#summer-2025--",
-    "href": "WeBWorK/courses.html#summer-2025--",
+    "objectID": "WeBWorK/courses.html#summer-2025",
+    "href": "WeBWorK/courses.html#summer-2025",
     "title": "WebWork at CSI",
-    "section": "Summer 2025 ———————————————————-",
-    "text": "Summer 2025 ———————————————————-"
+    "section": "Summer 2025",
+    "text": "Summer 2025"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-231",
     "href": "WeBWorK/courses.html#mth-231",
     "title": "WebWork at CSI",
     "section": "MTH 231",
-    "text": "MTH 231\n\n[Talafha] (https://www.math.csi.cuny.edu/webwork2/Math231_6344_Talafha_Su25)"
+    "text": "MTH 231\n\nTalafha"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-232",
     "href": "WeBWorK/courses.html#mth-232",
     "title": "WebWork at CSI",
     "section": "MTH 232",
-    "text": "MTH 232\n\n[Calderon] (https://www.math.csi.cuny.edu/webwork2/Math232_6361_Calderon_Su25)"
+    "text": "MTH 232\n\nCalderon"
   },
   {
     "objectID": "WeBWorK/courses.html#mth-233",
     "href": "WeBWorK/courses.html#mth-233",
     "title": "WebWork at CSI",
     "section": "MTH 233",
-    "text": "MTH 233\n\n[El-Achkar] (https://www.math.csi.cuny.edu/webwork2/Math233_6341_El-Achkar_Su25)"
+    "text": "MTH 233\n\nEl-Achkar"
   },
   {
     "objectID": "WeBWorK/courses.html#spring-2025",
