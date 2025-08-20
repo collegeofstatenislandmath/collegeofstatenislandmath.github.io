@@ -3480,80 +3480,17 @@
     "text": "We offer several different online homework solutions at CSI in the math curriculum. For several courses, the MAA sponsored WebWork program. Among others, this has the big advantage of being free to use.\nThe courses that are WebWork enabled are listed below. Follow the link to your professor’s class."
   },
   {
-    "objectID": "WeBWorK/courses.html#student-login-ids-will-be-available-by-first-day-of-class.",
-    "href": "WeBWorK/courses.html#student-login-ids-will-be-available-by-first-day-of-class.",
+    "objectID": "WeBWorK/courses.html#login-instructions",
+    "href": "WeBWorK/courses.html#login-instructions",
     "title": "WebWork at CSI",
-    "section": "Student login id’s will be available by first day of class.",
-    "text": "Student login id’s will be available by first day of class.\nSite Information\nPLEASE NOTE THE NEW LOGIN INSTRUCTIONS, STARTING IN FALL 2025 semester:\nyour username and password are your 8-digit Student ID.\nFor example, if your student ID is 12345678, you would simply enter….\nusername: 12345678\npassword: 12345678\n(Please change your password upon first logging in, make a note and keep it in a safe place.)"
+    "section": "Login instructions",
+    "text": "Login instructions\nStudent login id’s will be available by first day of class.\n\n\n\n\n\n\nPlease note the new login instructions, starting in Fall 2025 semester:\n\n\n\nYour username and password are your 8-digit Student ID.\nFor example, if your student ID is 12345678, you would simply enter\nusername: 12345678\npassword: 12345678\n\n\nPlease change your password upon first logging in, make a note and keep it in a safe place."
   },
   {
     "objectID": "WeBWorK/courses.html#fall-2025",
     "href": "WeBWorK/courses.html#fall-2025",
     "title": "WebWork at CSI",
     "section": "Fall 2025",
-    "text": "Fall 2025"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-221",
-    "href": "WeBWorK/courses.html#mth-221",
-    "title": "WebWork at CSI",
-    "section": "MTH 221",
-    "text": "MTH 221\n\nKofman"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-229-julia-projects",
-    "href": "WeBWorK/courses.html#mth-229-julia-projects",
-    "title": "WebWork at CSI",
-    "section": "MTH 229 – Julia Projects",
-    "text": "MTH 229 – Julia Projects\n\nBurek\nCalderon 28820\nCalderon 28824\nDimino\nGunn\nO’Bryant\nVerzani"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-230",
-    "href": "WeBWorK/courses.html#mth-230",
-    "title": "WebWork at CSI",
-    "section": "MTH 230",
-    "text": "MTH 230\n\nChester\nGraham\nManoku"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-231",
-    "href": "WeBWorK/courses.html#mth-231",
-    "title": "WebWork at CSI",
-    "section": "MTH 231",
-    "text": "MTH 231\n\nBalogh\nCalderon\nDemartino\nFuchs\nHuang\nKofman\nLi_W\nMaher\nPribitkin\nTalafha\nVenuto\nVukadinovic"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-232",
-    "href": "WeBWorK/courses.html#mth-232",
-    "title": "WebWork at CSI",
-    "section": "MTH 232",
-    "text": "MTH 232\n\nGindes\nGunn\nLucia\nRaychaudhuri\nTesdall"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-233",
-    "href": "WeBWorK/courses.html#mth-233",
-    "title": "WebWork at CSI",
-    "section": "MTH 233",
-    "text": "MTH 233\n\nChampanerkar\nPribitkin\nTesdall\nVukadinovic"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-311",
-    "href": "WeBWorK/courses.html#mth-311",
-    "title": "WebWork at CSI",
-    "section": "MTH 311",
-    "text": "MTH 311\n\nJohnson\nRossi"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-330",
-    "href": "WeBWorK/courses.html#mth-330",
-    "title": "WebWork at CSI",
-    "section": "MTH 330",
-    "text": "MTH 330\n\nHuang\nSchaefer"
-  },
-  {
-    "objectID": "WeBWorK/courses.html#mth-338",
-    "href": "WeBWorK/courses.html#mth-338",
-    "title": "WebWork at CSI",
-    "section": "MTH 338",
-    "text": "MTH 338\n\nFuchs\nLucia"
+    "text": "Fall 2025\n\nMTH 221\n\nKofman\n\n\n\nMTH 229 – Julia Projects\n\nBurek\nCalderon 28820\nCalderon 28824\nDimino\nGunn\nO’Bryant\nVerzani\n\n\n\nMTH 230\n\nChester\nGraham\nManoku\n\n\n\nMTH 231\n\nBalogh\nCalderon\nDemartino\nFuchs\nHuang\nKofman\nLi_W\nMaher\nPribitkin\nTalafha\nVenuto\nVukadinovic\n\n\n\nMTH 232\n\nGindes\nGunn\nLucia\nRaychaudhuri\nTesdall\n\n\n\nMTH 233\n\nChampanerkar\nPribitkin\nTesdall\nVukadinovic\n\n\n\nMTH 311\n\nJohnson\nRossi\n\n\n\nMTH 330\n\nHuang\nSchaefer\n\n\n\nMTH 338\n\nFuchs\nLucia"
   }
 ]
