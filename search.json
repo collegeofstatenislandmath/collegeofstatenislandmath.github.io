@@ -1661,281 +1661,232 @@
     ]
   },
   {
-    "objectID": "People/faculty/Foldes-Antonia.html",
-    "href": "People/faculty/Foldes-Antonia.html",
-    "title": "Antonia Foldes",
+    "objectID": "People/faculty/Lucia-Marcello.html",
+    "href": "People/faculty/Lucia-Marcello.html",
+    "title": "Marcello Lucia",
+    "section": "",
+    "text": "Nonlinear Analysis",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Marcello Lucia"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Lucia-Marcello.html#contacts",
+    "href": "People/faculty/Lucia-Marcello.html#contacts",
+    "title": "Marcello Lucia",
+    "section": "Contacts",
+    "text": "Contacts\n Office | 1S-226   Telephone | x3624   Email | mlucia at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~mlucia",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Marcello Lucia"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Lucia-Marcello.html#biography",
+    "href": "People/faculty/Lucia-Marcello.html#biography",
+    "title": "Marcello Lucia",
+    "section": "Biography",
+    "text": "Biography\nI received a M.Sc. degree in Algebra (Galois Theory) from the University of Lausanne, and then a Ph.D. in nonlinear analysis from the Swiss Federal Institute of Technology. After a short experience as a consultant in a private company, I obtained a grant to do research at the University of Rome II, followed by several postdoc positions: Universitat Politecnica de Catalunya (Barcelona), Rutgers University, Tata Institute of Technology (Bangalore), Chinese Academy of Sciences (Beijing). In 2005 I was visiting assistant professor at National Center of Theoretical Sciences (Taiwan), and obtained then an Alexander von Humboldt grant to pursue my research in Cologne (Germany).\nMy topics of research are the study of nonlinear problems that arise in mathematical physics, differential geometry and in some models of chemotaxis, with emphasis on the question of existence and uniqueness of solutions. Part of these questions are closely related to some optimal exponential Sobolev inequalities.\nFor further information see my website.",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Marcello Lucia"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Poje-Andrew.html",
+    "href": "People/faculty/Poje-Andrew.html",
+    "title": "Andrew Poje",
+    "section": "",
+    "text": "Fluid Dynamics, Applied Mathematics",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Andrew Poje"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Poje-Andrew.html#contacts",
+    "href": "People/faculty/Poje-Andrew.html#contacts",
+    "title": "Andrew Poje",
+    "section": "Contacts",
+    "text": "Contacts\n Office | 1S-205   Telephone | x3611   Email | poje at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/poje",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Andrew Poje"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Poje-Andrew.html#biography",
+    "href": "People/faculty/Poje-Andrew.html#biography",
+    "title": "Andrew Poje",
+    "section": "Biography",
+    "text": "Biography\nDr. Poje has published a number of papers on Lagrangian mixing and transport theory as applied to oceanographic flows. His interests include traditional and Lagrangian turbulence theory, low order modeling, dynamical systems and numerical analysis. His most recent research activity concerns the application of geometric techniques to quantifying non-conservative transport phenomena and designing optimal Lagrangian observational strategies.",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Andrew Poje"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Johnson-Tobias.html",
+    "href": "People/faculty/Johnson-Tobias.html",
+    "title": "Tobias Johnson",
     "section": "",
     "text": "Probability",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Antonia Foldes"
+      "Tobias Johnson"
     ]
   },
   {
-    "objectID": "People/faculty/Foldes-Antonia.html#contacts",
-    "href": "People/faculty/Foldes-Antonia.html#contacts",
-    "title": "Antonia Foldes",
+    "objectID": "People/faculty/Johnson-Tobias.html#contacts",
+    "href": "People/faculty/Johnson-Tobias.html#contacts",
+    "title": "Tobias Johnson",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-206   Telephone | x3612   Email | antonia.foldes at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~foldes",
+    "text": "Contacts\n Office | 1S-225   Telephone | x3694   Email | tobias.johnson at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~tobiasljohnson",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Antonia Foldes"
+      "Tobias Johnson"
     ]
   },
   {
-    "objectID": "People/faculty/Foldes-Antonia.html#biography",
-    "href": "People/faculty/Foldes-Antonia.html#biography",
-    "title": "Antonia Foldes",
-    "section": "Biography",
-    "text": "Biography\nMy favorite topics of interest are the properties of Brownian motion, random walk and their local times. In the last few years I was working on the fine properties of iterated processes, logarithmic averages, some integral functional of certain stochastic processes. One of the main goal of my investigation was to develop a general strong approximation method which allow us to study certain processes through the investigation of the corresponding iterated process. This led to the strong approximation of a wide class of additive functionals.Another related topic of investigation was on the measure of heavily visited points of the Brownian motion.\nRecently I got interested in the fine properties of the maximal local time and occupation time of the simple d-dimensional random walks. Questions about maximal local time on subsets, maximal occupation time of a finite set, multiplicity of the set of points with a given local time, and joint asymptotic behavior of local and occupation times of random walks in higher dimension are the object of my most recent work.",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Antonia Foldes"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Gunn-Sera.html",
-    "href": "People/faculty/Gunn-Sera.html",
-    "title": "Sera Gunn",
+    "objectID": "People/faculty/Schaefer-Tobias.html",
+    "href": "People/faculty/Schaefer-Tobias.html",
+    "title": "Tobias Schaefer",
     "section": "",
-    "text": "Office | 1S-201   Telephone | x3609   Email | sera.gunn at csi.cuny.edu   Website | https://seragunn.github.io/",
+    "text": "Mathematical Physics, nonlinear dynamics",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Sera Gunn"
+      "Tobias Schaefer"
     ]
   },
   {
-    "objectID": "People/faculty/Gunn-Sera.html#contacts",
-    "href": "People/faculty/Gunn-Sera.html#contacts",
-    "title": "Sera Gunn",
-    "section": "",
-    "text": "Office | 1S-201   Telephone | x3609   Email | sera.gunn at csi.cuny.edu   Website | https://seragunn.github.io/",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Sera Gunn"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Li-Freda.html",
-    "href": "People/faculty/Li-Freda.html",
-    "title": "Freda Li",
-    "section": "",
-    "text": "Office | 1S-221   Telephone | x3984   Email | freda.li at csi.cuny.edu",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Freda Li"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Li-Freda.html#contacts",
-    "href": "People/faculty/Li-Freda.html#contacts",
-    "title": "Freda Li",
-    "section": "",
-    "text": "Office | 1S-221   Telephone | x3984   Email | freda.li at csi.cuny.edu",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Freda Li"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Misra-Prabudh.html",
-    "href": "People/faculty/Misra-Prabudh.html",
-    "title": "Prabudh Misra",
-    "section": "",
-    "text": "Topology, Semi-group Theory",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Prabudh Misra"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Misra-Prabudh.html#contacts",
-    "href": "People/faculty/Misra-Prabudh.html#contacts",
-    "title": "Prabudh Misra",
+    "objectID": "People/faculty/Schaefer-Tobias.html#contacts",
+    "href": "People/faculty/Schaefer-Tobias.html#contacts",
+    "title": "Tobias Schaefer",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-227   Telephone | x3626   Email | prabudhram.misra at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~misra",
+    "text": "Contacts\n Office | 1S-209   Telephone | x3616   Email | tobias at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~tobias/",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Prabudh Misra"
+      "Tobias Schaefer"
     ]
   },
   {
-    "objectID": "People/faculty/Misra-Prabudh.html#biography",
-    "href": "People/faculty/Misra-Prabudh.html#biography",
-    "title": "Prabudh Misra",
+    "objectID": "People/faculty/Schaefer-Tobias.html#biography",
+    "href": "People/faculty/Schaefer-Tobias.html#biography",
+    "title": "Tobias Schaefer",
     "section": "Biography",
-    "text": "Biography\nMy research interests are in the fields of Semigroups of Continuous Selfmaps and Rings of Continuous Functions. The former area had considerable growth in the last four decades and my work pertains to studying Peano Continua and their associated semigroups, Near-rings of continuous selfmaps on a topological group - mostly their automorphism groups along with epimorphism and monomorphism theorems for such near-rings. In rings of continuous functions area, an attempt to find algebraic properties on these rings that would characterize metric spaces led me to give a unified proof of some isomorphism theorems and also a local isomorphism theorem for metric spaces.\nI received a Ph.D. from Indian Insitute of Technolology, Kanpur and an M.Sc. degree from Allahabad University, India. After spending about two years at the Tata Institute of Fundamental Research, Mumbai, I spent the late 70’s teaching at the Federal University of Goias and the early 80’s at the Universidade Estadual de Campinas, Brazil. I have been teaching since the Fall of 1984 at The College of Staten Island, The City University of New York. I am actively involved in organizing the weekly New York Seminar on Topology and Topological Algebra after moving to Staten Island. Our seminar group initiated and has organized several *Summer Topology Conferences& and we have edited the proceedings of these conferences.",
+    "text": "Biography\nMy mathematical research interests are nonlinear, nonlocal, and random phenomena, described by ordinary or partial differential equations. In order to solve them, I use exact, approximate, and numerical methods. The practical applications of my research range from nanotechnology, fiber optics, fuel cells, and biology to finance. Recently, I got interested in the question how to quantify the impact of microscopic noise on macroscopic observables. The study of this problem involves the combination multi-scale techniques like renormalization group methods or Lie-transform with stochastic calculus. For more information, please visit my research webpage.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Prabudh Misra"
+      "Tobias Schaefer"
     ]
   },
   {
-    "objectID": "People/faculty/Pribitkin-Wladimir.html",
-    "href": "People/faculty/Pribitkin-Wladimir.html",
-    "title": "Wladimir Pribitkin",
+    "objectID": "People/faculty/Conidis-Chris.html",
+    "href": "People/faculty/Conidis-Chris.html",
+    "title": "Chris Conidis",
     "section": "",
-    "text": "Number Theory and Automorphic Forms",
+    "text": "Mathematical Logic and Computability Theory",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wladimir Pribitkin"
+      "Chris Conidis"
     ]
   },
   {
-    "objectID": "People/faculty/Pribitkin-Wladimir.html#contacts",
-    "href": "People/faculty/Pribitkin-Wladimir.html#contacts",
-    "title": "Wladimir Pribitkin",
+    "objectID": "People/faculty/Conidis-Chris.html#contacts",
+    "href": "People/faculty/Conidis-Chris.html#contacts",
+    "title": "Chris Conidis",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-229   Telephone | x3628   Email | wladimir.pribitkin at csi.cuny.edu",
+    "text": "Contacts\n Office | 1S-224   Telephone | x3622   Email | chris.conidis at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~conidis",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wladimir Pribitkin"
+      "Chris Conidis"
     ]
   },
   {
-    "objectID": "People/faculty/Pribitkin-Wladimir.html#biography",
-    "href": "People/faculty/Pribitkin-Wladimir.html#biography",
-    "title": "Wladimir Pribitkin",
+    "objectID": "People/faculty/Conidis-Chris.html#biography",
+    "href": "People/faculty/Conidis-Chris.html#biography",
+    "title": "Chris Conidis",
     "section": "Biography",
-    "text": "Biography\nWladimir de Azevedo Pribitkin was born near the tropic of Capricorn and grew up in the Sao Paulo-New York-Pennsylvania tri-state area. Prior to arriving at CSI, he conducted postdoctoral research at both Princeton University, where he held a three year postdoc funded by the NSF, and at the Max Planck Institute in Germany. Dr. Pribitkin has taught at small colleges such as Haverford, and at larger universities, including Princeton. He enjoys teaching liberal arts students as well as math majors. His main research interests are number theory and automorphic forms. The former studies how the natural numbers 1, 2, 3, … are related, and the latter investigates functions that obey an infinite set of symmetries. Both fields inform each other, and employ tools from disparate areas such as abstract algebra, analysis and geometry. Furthermore, they provide applications to areas such as statistical mechanics, quantum chaos, knot theory and cryptography. Dr. Pribitkin’s subspecialty focuses on the Fourier coefficients of automorphic integrals. These coefficients often reveal remarkable properties of natural numbers. Pribitkin would like to resolve the Riemann Hypothesis (not for the money, of course!), but wouldn’t mind answering Lehmer’s Question or settling the Linnik-Selberg Conjecture. If you want to know more about this, send him an email or knock on his door.",
+    "text": "Biography\nPrior to joining CSI Chris was a postdoc at Vanderbilt University (Nashville, TN) and the University of Waterloo (Waterloo, ON, Canada). He obtained his PhD in Mathematics at the University of Chicago in 2009 under the advisement of Robert Soare, Denis Hirschfeldt, and Antonio Montalban. His main areas of research are Mathematical Logic and Computability Theory. In particular he is interested in the interaction between Computability Theory and other branches of mathematics and using logical techniques to extract new information and theorems in other branches of mathematics. Very recently he has also acquired an interest in Algorithmic Statistics, Data Mining, and applications.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wladimir Pribitkin"
+      "Chris Conidis"
     ]
   },
   {
-    "objectID": "People/faculty/Li-Wenjuan.html",
-    "href": "People/faculty/Li-Wenjuan.html",
-    "title": "Wenjuan Li",
+    "objectID": "People/faculty/Quinn-Joseph.html",
+    "href": "People/faculty/Quinn-Joseph.html",
+    "title": "Joseph Quinn",
     "section": "",
-    "text": "Mathematics Education",
+    "text": "Geometric Topology",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wenjuan Li"
+      "Joseph Quinn"
     ]
   },
   {
-    "objectID": "People/faculty/Li-Wenjuan.html#contacts",
-    "href": "People/faculty/Li-Wenjuan.html#contacts",
-    "title": "Wenjuan Li",
+    "objectID": "People/faculty/Quinn-Joseph.html#contacts",
+    "href": "People/faculty/Quinn-Joseph.html#contacts",
+    "title": "Joseph Quinn",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-224   Telephone | x3621   Email | wenjuan.li at csi.cuny.edu   Website | https://www.math.csi.cuny.edu/~wli",
+    "text": "Contacts\n Office | 1S-224   Telephone | x3622   Email | joseph.quinn at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~quinn",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wenjuan Li"
+      "Joseph Quinn"
     ]
   },
   {
-    "objectID": "People/faculty/Li-Wenjuan.html#biography",
-    "href": "People/faculty/Li-Wenjuan.html#biography",
-    "title": "Wenjuan Li",
+    "objectID": "People/faculty/Quinn-Joseph.html#biography",
+    "href": "People/faculty/Quinn-Joseph.html#biography",
+    "title": "Joseph Quinn",
     "section": "Biography",
-    "text": "Biography\nDr. Wenjuan Li is a lecturer in the Department of Mathematics at the College of Staten Island, CUNY. Her experiences in research, curriculum design, and assessment development profoundly shaped her teaching practices. She employs a learner-centered approach to promote active learning and student engagement in mathematics. Her research focuses on teacher preparation, professional development, and undergraduate mathematics education.\nDr. Li completed her PhD and postdoctoral research at the University of Illinois at Chicago. Prior to joining CSI, she held positions at the University of Chicago and New York University.",
+    "text": "Biography\nJoe Quinn holds a PhD in pure mathematics from The Graduate Center, CUNY, and publishes in the field of geometric topology. He has taught math at Hunter College, and has taught and designed math curricula for Johns Hopkins Center for Talented Youth, Bronx Community College, Matemorfosis CIMAT (Guanajuato), MoMath, Bridge to Enter Advanced Mathematics, and Columbia University. He is the director of Hypothesis, a New York City based company that creates games based on conceptual math and art. Joe is passionate about transmitting knowledge between the math research community and the rest of the world, for the benefit of both parties.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Wenjuan Li"
+      "Joseph Quinn"
     ]
   },
   {
-    "objectID": "People/faculty/Champanerkar-Abhijit.html",
-    "href": "People/faculty/Champanerkar-Abhijit.html",
-    "title": "Abhijit Champanerkar",
+    "objectID": "People/faculty/Verzani-John.html",
+    "href": "People/faculty/Verzani-John.html",
+    "title": "John Verzani",
     "section": "",
-    "text": "Hyperbolic 3-manifolds and Knot Theory",
+    "text": "Probability Theory",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Abhijit Champanerkar"
+      "John Verzani"
     ]
   },
   {
-    "objectID": "People/faculty/Champanerkar-Abhijit.html#contacts",
-    "href": "People/faculty/Champanerkar-Abhijit.html#contacts",
-    "title": "Abhijit Champanerkar",
+    "objectID": "People/faculty/Verzani-John.html#contacts",
+    "href": "People/faculty/Verzani-John.html#contacts",
+    "title": "John Verzani",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-230   Telephone | x3613   Email | abhijit at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~abhijit",
+    "text": "Contacts\n Office | 1S-220   Telephone | x3653   Email | verzani at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~verzani",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Abhijit Champanerkar"
+      "John Verzani"
     ]
-  },
-  {
-    "objectID": "People/faculty/Champanerkar-Abhijit.html#biography",
-    "href": "People/faculty/Champanerkar-Abhijit.html#biography",
-    "title": "Abhijit Champanerkar",
-    "section": "Biography",
-    "text": "Biography\nMy area of research is hyperbolic 3-manifolds and knot theory. Thurston established the importance of hyperbolic geometry and geometric invariants in the study of 3-manifolds and knot theory. I am interested in the deformations of hyperbolic structures on 3-manifolds and interactions between hyperbolic geometry with number theory. Jones revolutionized knot theory by introducing the Jones polynomial in 1984 which led to families of diagrammatic invariants. My current research is motivated by the problem of relating geometric invariants like hyperbolic volume to diagrammatic invariants like the Jones polynomial. I am also interested in understanding knots from the point of view of graph theory.\nDr Champanerkar earned his Ph.D. at Columbia University in 2003. Before joining CSI he worked for one year at Barnard College, Columbia University as a postdoc and for four years at the University of South Alabama as an Assistant Professor.\nDr. Champanerkar is a member of a Focused Research Group (FRG) that received an NSF-FRG grant for collaborative research on topics in geometric topology. With this funding, Dr. Champanerkar has co-organized two major international conferences, with a special focus on the Volume Conjecture. Dr. Champanerkar is a co-organizer of the Geometry and Topology seminar at the CUNY Graduate Center. For details about his research, see http://www.math.csi.cuny.edu/~abhijit/",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Abhijit Champanerkar"
-    ]
-  },
-  {
-    "objectID": "blurbs.html",
-    "href": "blurbs.html",
-    "title": "CSI Math",
-    "section": "",
-    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions."
-  },
-  {
-    "objectID": "news/pi-day-2025.html",
-    "href": "news/pi-day-2025.html",
-    "title": "Pi Day 2025",
-    "section": "",
-    "text": "It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of 3.1415…, and the joy of discovery. Let’s celebrate with creativity, curiosity, and maybe even dessert!\nFOOD AND REFRESHMENTS PROVIDED!"
-  },
-  {
-    "objectID": "jobs.html",
-    "href": "jobs.html",
-    "title": "Current job opportunities",
-    "section": "",
-    "text": "Adjunct instructors\n\nPlease send an email with an up-to-date résumé to mathchair@csi.cuny.edu"
-  },
-  {
-    "objectID": "jobs.html#part-time",
-    "href": "jobs.html#part-time",
-    "title": "Current job opportunities",
-    "section": "",
-    "text": "Adjunct instructors\n\nPlease send an email with an up-to-date résumé to mathchair@csi.cuny.edu"
-  },
-  {
-    "objectID": "academic-calendar.html",
-    "href": "academic-calendar.html",
-    "title": "CSI Math",
-    "section": "",
-    "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025–04/20/2025\nSaturday–Sunday\nSpring Recess\n\n\n05/16/2025–05/22/2025\nFriday–Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
-  },
-  {
-    "objectID": "news/teha-pi-day.html",
-    "href": "news/teha-pi-day.html",
-    "title": "Effective Interventions for Students with Mathematics Learning Disabilities",
-    "section": "",
-    "text": "Thursday March 13, 3:30-4:30pm Math Conference Room (1S-213)\nPresented by Dr. Sridhar Nagubandi\nThis event is brought to you by the Teacher Education Honors Academy."
-  },
-  {
-    "objectID": "news/math-romance.html",
-    "href": "news/math-romance.html",
-    "title": "The Math of Modern Romance",
-    "section": "",
-    "text": "Math of Modern Romance MathClub event. Thursday, February 13 @ 3 pm in 1S-119"
   },
   {
     "objectID": "readme.html",
@@ -1980,231 +1931,316 @@
     "text": "Create an index.qmd landing page and link to files"
   },
   {
-    "objectID": "People/faculty/Verzani-John.html",
-    "href": "People/faculty/Verzani-John.html",
-    "title": "John Verzani",
+    "objectID": "news/math-romance.html",
+    "href": "news/math-romance.html",
+    "title": "The Math of Modern Romance",
     "section": "",
-    "text": "Probability Theory",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "John Verzani"
-    ]
+    "text": "Math of Modern Romance MathClub event. Thursday, February 13 @ 3 pm in 1S-119"
   },
   {
-    "objectID": "People/faculty/Verzani-John.html#contacts",
-    "href": "People/faculty/Verzani-John.html#contacts",
-    "title": "John Verzani",
-    "section": "Contacts",
-    "text": "Contacts\n Office | 1S-220   Telephone | x3653   Email | verzani at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~verzani",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "John Verzani"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Quinn-Joseph.html",
-    "href": "People/faculty/Quinn-Joseph.html",
-    "title": "Joseph Quinn",
+    "objectID": "news/teha-pi-day.html",
+    "href": "news/teha-pi-day.html",
+    "title": "Effective Interventions for Students with Mathematics Learning Disabilities",
     "section": "",
-    "text": "Geometric Topology",
+    "text": "Thursday March 13, 3:30-4:30pm Math Conference Room (1S-213)\nPresented by Dr. Sridhar Nagubandi\nThis event is brought to you by the Teacher Education Honors Academy."
+  },
+  {
+    "objectID": "academic-calendar.html",
+    "href": "academic-calendar.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Dates\nDays\nDescription\n\n\n\n\n01/18/2025\nSaturday\nLast day to file Permit request\n\n\n01/24/2025\nFriday\nLast day to drop for 100% tuition refund\n\n\n01/25/2025\nSaturday\nStart of Spring Term\nClasses Begin\n\n\n01/29/2025\nWednesday\nNo Classes Scheduled\n\n\n01/31/2025\nFriday\nLast day to add a course\nLast day to drop for 75% tuition refund\nFinancial Aid Certification Enrollment Status Date\n\n\n02/01/2025\nSaturday\nVerification of Enrollment Rosters Available to faculty\nGrade of WD is assigned to students who officially drop a course\n\n\n02/07/2025\nFriday\nLast day to drop for 50% tuition refund\n\n\n02/12/2025\nWednesday\nCollege Closed\n\n\n02/14/2025\nFriday\nLast day to drop for 25% tuition refund\nLast day to Change or Declare a Major/Minor to be effective Spring 2025\nCensus date\nVerification of Enrollment Rosters Due from faculty\n\n\n02/15/2025\nSaturday\nWN Grades assigned\nGrade of W is assigned to students who officially withdraw from a course\n\n\n02/17/2025\nMonday\nCollege Closed\n\n\n02/18/2025\nTuesday\nClasses follow a Monday schedule\n\n\n02/24/2025\nMonday\nWA Grades Assigned – Immunization non-compliance\n\n\n03/06/2025\nThursday\nClasses follow Wednesday schedule\n\n\n03/31/2025\nMonday\nR2T4 60% Date for the Session\nNo Classes Scheduled\n\n\n04/01/2025\nTuesday\nLast day to withdraw from course with a grade of W\n\n\n04/12/2025–04/20/2025\nSaturday–Sunday\nSpring Recess\n\n\n05/16/2025–05/22/2025\nFriday–Thursday\nFinal Examinations\n\n\n05/22/2025\nThursday\nEnd of Spring Term\n\n\n05/26/2025\nMonday\nCollege Closed\n\n\n05/27/2025\nTuesday\nFinal Grade Submission Deadline*\n\n\n06/01/2025\nSunday\nSpring 2025 Degree Conferral Date"
+  },
+  {
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Current job opportunities",
+    "section": "",
+    "text": "Adjunct instructors\n\nPlease send an email with an up-to-date résumé to mathchair@csi.cuny.edu"
+  },
+  {
+    "objectID": "jobs.html#part-time",
+    "href": "jobs.html#part-time",
+    "title": "Current job opportunities",
+    "section": "",
+    "text": "Adjunct instructors\n\nPlease send an email with an up-to-date résumé to mathchair@csi.cuny.edu"
+  },
+  {
+    "objectID": "news/pi-day-2025.html",
+    "href": "news/pi-day-2025.html",
+    "title": "Pi Day 2025",
+    "section": "",
+    "text": "It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of 3.1415…, and the joy of discovery. Let’s celebrate with creativity, curiosity, and maybe even dessert!\nFOOD AND REFRESHMENTS PROVIDED!"
+  },
+  {
+    "objectID": "blurbs.html",
+    "href": "blurbs.html",
+    "title": "CSI Math",
+    "section": "",
+    "text": "Welcome to CSI Mathematics. With approximately 25 full-time faculty members representing a number of the major fields of current research, the department offers courses for mathematics, engineering, and science students, as well as service courses for the general student body (see the full list of courses). We offer Bachelor of Science degrees with an emphasis on graduate school preparation, secondary school teaching, and a joint degree with computer science.\n\n\n\n\nMany of our majors become involved in faculty-mentored undergraduate research projects. Our full-time faculty conduct research in a variety of areas of pure and applied mathematics (MathSciNet). Research areas include applied mathematics, differential geometry, discrete mathematics, geometric analysis, hyperbolic conservation laws, knot theory, logic, nonlinear analysis, number theory, probability, and topology.\n\n\n\n\n\n\n\n\n\n\nThe College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions."
+  },
+  {
+    "objectID": "People/faculty/Champanerkar-Abhijit.html",
+    "href": "People/faculty/Champanerkar-Abhijit.html",
+    "title": "Abhijit Champanerkar",
+    "section": "",
+    "text": "Hyperbolic 3-manifolds and Knot Theory",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Joseph Quinn"
+      "Abhijit Champanerkar"
     ]
   },
   {
-    "objectID": "People/faculty/Quinn-Joseph.html#contacts",
-    "href": "People/faculty/Quinn-Joseph.html#contacts",
-    "title": "Joseph Quinn",
+    "objectID": "People/faculty/Champanerkar-Abhijit.html#contacts",
+    "href": "People/faculty/Champanerkar-Abhijit.html#contacts",
+    "title": "Abhijit Champanerkar",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-224   Telephone | x3622   Email | joseph.quinn at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~quinn",
+    "text": "Contacts\n Office | 1S-230   Telephone | x3613   Email | abhijit at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~abhijit",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Joseph Quinn"
+      "Abhijit Champanerkar"
     ]
   },
   {
-    "objectID": "People/faculty/Quinn-Joseph.html#biography",
-    "href": "People/faculty/Quinn-Joseph.html#biography",
-    "title": "Joseph Quinn",
+    "objectID": "People/faculty/Champanerkar-Abhijit.html#biography",
+    "href": "People/faculty/Champanerkar-Abhijit.html#biography",
+    "title": "Abhijit Champanerkar",
     "section": "Biography",
-    "text": "Biography\nJoe Quinn holds a PhD in pure mathematics from The Graduate Center, CUNY, and publishes in the field of geometric topology. He has taught math at Hunter College, and has taught and designed math curricula for Johns Hopkins Center for Talented Youth, Bronx Community College, Matemorfosis CIMAT (Guanajuato), MoMath, Bridge to Enter Advanced Mathematics, and Columbia University. He is the director of Hypothesis, a New York City based company that creates games based on conceptual math and art. Joe is passionate about transmitting knowledge between the math research community and the rest of the world, for the benefit of both parties.",
+    "text": "Biography\nMy area of research is hyperbolic 3-manifolds and knot theory. Thurston established the importance of hyperbolic geometry and geometric invariants in the study of 3-manifolds and knot theory. I am interested in the deformations of hyperbolic structures on 3-manifolds and interactions between hyperbolic geometry with number theory. Jones revolutionized knot theory by introducing the Jones polynomial in 1984 which led to families of diagrammatic invariants. My current research is motivated by the problem of relating geometric invariants like hyperbolic volume to diagrammatic invariants like the Jones polynomial. I am also interested in understanding knots from the point of view of graph theory.\nDr Champanerkar earned his Ph.D. at Columbia University in 2003. Before joining CSI he worked for one year at Barnard College, Columbia University as a postdoc and for four years at the University of South Alabama as an Assistant Professor.\nDr. Champanerkar is a member of a Focused Research Group (FRG) that received an NSF-FRG grant for collaborative research on topics in geometric topology. With this funding, Dr. Champanerkar has co-organized two major international conferences, with a special focus on the Volume Conjecture. Dr. Champanerkar is a co-organizer of the Geometry and Topology seminar at the CUNY Graduate Center. For details about his research, see http://www.math.csi.cuny.edu/~abhijit/",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Joseph Quinn"
+      "Abhijit Champanerkar"
     ]
   },
   {
-    "objectID": "People/faculty/Conidis-Chris.html",
-    "href": "People/faculty/Conidis-Chris.html",
-    "title": "Chris Conidis",
+    "objectID": "People/faculty/Li-Wenjuan.html",
+    "href": "People/faculty/Li-Wenjuan.html",
+    "title": "Wenjuan Li",
     "section": "",
-    "text": "Mathematical Logic and Computability Theory",
+    "text": "Mathematics Education",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Chris Conidis"
+      "Wenjuan Li"
     ]
   },
   {
-    "objectID": "People/faculty/Conidis-Chris.html#contacts",
-    "href": "People/faculty/Conidis-Chris.html#contacts",
-    "title": "Chris Conidis",
+    "objectID": "People/faculty/Li-Wenjuan.html#contacts",
+    "href": "People/faculty/Li-Wenjuan.html#contacts",
+    "title": "Wenjuan Li",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-224   Telephone | x3622   Email | chris.conidis at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~conidis",
+    "text": "Contacts\n Office | 1S-224   Telephone | x3621   Email | wenjuan.li at csi.cuny.edu   Website | https://www.math.csi.cuny.edu/~wli",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Chris Conidis"
+      "Wenjuan Li"
     ]
   },
   {
-    "objectID": "People/faculty/Conidis-Chris.html#biography",
-    "href": "People/faculty/Conidis-Chris.html#biography",
-    "title": "Chris Conidis",
+    "objectID": "People/faculty/Li-Wenjuan.html#biography",
+    "href": "People/faculty/Li-Wenjuan.html#biography",
+    "title": "Wenjuan Li",
     "section": "Biography",
-    "text": "Biography\nPrior to joining CSI Chris was a postdoc at Vanderbilt University (Nashville, TN) and the University of Waterloo (Waterloo, ON, Canada). He obtained his PhD in Mathematics at the University of Chicago in 2009 under the advisement of Robert Soare, Denis Hirschfeldt, and Antonio Montalban. His main areas of research are Mathematical Logic and Computability Theory. In particular he is interested in the interaction between Computability Theory and other branches of mathematics and using logical techniques to extract new information and theorems in other branches of mathematics. Very recently he has also acquired an interest in Algorithmic Statistics, Data Mining, and applications.",
+    "text": "Biography\nDr. Wenjuan Li is a lecturer in the Department of Mathematics at the College of Staten Island, CUNY. Her experiences in research, curriculum design, and assessment development profoundly shaped her teaching practices. She employs a learner-centered approach to promote active learning and student engagement in mathematics. Her research focuses on teacher preparation, professional development, and undergraduate mathematics education.\nDr. Li completed her PhD and postdoctoral research at the University of Illinois at Chicago. Prior to joining CSI, she held positions at the University of Chicago and New York University.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Chris Conidis"
+      "Wenjuan Li"
     ]
   },
   {
-    "objectID": "People/faculty/Schaefer-Tobias.html",
-    "href": "People/faculty/Schaefer-Tobias.html",
-    "title": "Tobias Schaefer",
+    "objectID": "People/faculty/Pribitkin-Wladimir.html",
+    "href": "People/faculty/Pribitkin-Wladimir.html",
+    "title": "Wladimir Pribitkin",
     "section": "",
-    "text": "Mathematical Physics, nonlinear dynamics",
+    "text": "Number Theory and Automorphic Forms",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Tobias Schaefer"
+      "Wladimir Pribitkin"
     ]
   },
   {
-    "objectID": "People/faculty/Schaefer-Tobias.html#contacts",
-    "href": "People/faculty/Schaefer-Tobias.html#contacts",
-    "title": "Tobias Schaefer",
+    "objectID": "People/faculty/Pribitkin-Wladimir.html#contacts",
+    "href": "People/faculty/Pribitkin-Wladimir.html#contacts",
+    "title": "Wladimir Pribitkin",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-209   Telephone | x3616   Email | tobias at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~tobias/",
+    "text": "Contacts\n Office | 1S-229   Telephone | x3628   Email | wladimir.pribitkin at csi.cuny.edu",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Tobias Schaefer"
+      "Wladimir Pribitkin"
     ]
   },
   {
-    "objectID": "People/faculty/Schaefer-Tobias.html#biography",
-    "href": "People/faculty/Schaefer-Tobias.html#biography",
-    "title": "Tobias Schaefer",
+    "objectID": "People/faculty/Pribitkin-Wladimir.html#biography",
+    "href": "People/faculty/Pribitkin-Wladimir.html#biography",
+    "title": "Wladimir Pribitkin",
     "section": "Biography",
-    "text": "Biography\nMy mathematical research interests are nonlinear, nonlocal, and random phenomena, described by ordinary or partial differential equations. In order to solve them, I use exact, approximate, and numerical methods. The practical applications of my research range from nanotechnology, fiber optics, fuel cells, and biology to finance. Recently, I got interested in the question how to quantify the impact of microscopic noise on macroscopic observables. The study of this problem involves the combination multi-scale techniques like renormalization group methods or Lie-transform with stochastic calculus. For more information, please visit my research webpage.",
+    "text": "Biography\nWladimir de Azevedo Pribitkin was born near the tropic of Capricorn and grew up in the Sao Paulo-New York-Pennsylvania tri-state area. Prior to arriving at CSI, he conducted postdoctoral research at both Princeton University, where he held a three year postdoc funded by the NSF, and at the Max Planck Institute in Germany. Dr. Pribitkin has taught at small colleges such as Haverford, and at larger universities, including Princeton. He enjoys teaching liberal arts students as well as math majors. His main research interests are number theory and automorphic forms. The former studies how the natural numbers 1, 2, 3, … are related, and the latter investigates functions that obey an infinite set of symmetries. Both fields inform each other, and employ tools from disparate areas such as abstract algebra, analysis and geometry. Furthermore, they provide applications to areas such as statistical mechanics, quantum chaos, knot theory and cryptography. Dr. Pribitkin’s subspecialty focuses on the Fourier coefficients of automorphic integrals. These coefficients often reveal remarkable properties of natural numbers. Pribitkin would like to resolve the Riemann Hypothesis (not for the money, of course!), but wouldn’t mind answering Lehmer’s Question or settling the Linnik-Selberg Conjecture. If you want to know more about this, send him an email or knock on his door.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Tobias Schaefer"
+      "Wladimir Pribitkin"
     ]
   },
   {
-    "objectID": "People/faculty/Johnson-Tobias.html",
-    "href": "People/faculty/Johnson-Tobias.html",
-    "title": "Tobias Johnson",
+    "objectID": "People/faculty/Misra-Prabudh.html",
+    "href": "People/faculty/Misra-Prabudh.html",
+    "title": "Prabudh Misra",
+    "section": "",
+    "text": "Topology, Semi-group Theory",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Prabudh Misra"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Misra-Prabudh.html#contacts",
+    "href": "People/faculty/Misra-Prabudh.html#contacts",
+    "title": "Prabudh Misra",
+    "section": "Contacts",
+    "text": "Contacts\n Office | 1S-227   Telephone | x3626   Email | prabudhram.misra at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~misra",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Prabudh Misra"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Misra-Prabudh.html#biography",
+    "href": "People/faculty/Misra-Prabudh.html#biography",
+    "title": "Prabudh Misra",
+    "section": "Biography",
+    "text": "Biography\nMy research interests are in the fields of Semigroups of Continuous Selfmaps and Rings of Continuous Functions. The former area had considerable growth in the last four decades and my work pertains to studying Peano Continua and their associated semigroups, Near-rings of continuous selfmaps on a topological group - mostly their automorphism groups along with epimorphism and monomorphism theorems for such near-rings. In rings of continuous functions area, an attempt to find algebraic properties on these rings that would characterize metric spaces led me to give a unified proof of some isomorphism theorems and also a local isomorphism theorem for metric spaces.\nI received a Ph.D. from Indian Insitute of Technolology, Kanpur and an M.Sc. degree from Allahabad University, India. After spending about two years at the Tata Institute of Fundamental Research, Mumbai, I spent the late 70’s teaching at the Federal University of Goias and the early 80’s at the Universidade Estadual de Campinas, Brazil. I have been teaching since the Fall of 1984 at The College of Staten Island, The City University of New York. I am actively involved in organizing the weekly New York Seminar on Topology and Topological Algebra after moving to Staten Island. Our seminar group initiated and has organized several *Summer Topology Conferences& and we have edited the proceedings of these conferences.",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Prabudh Misra"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Li-Freda.html",
+    "href": "People/faculty/Li-Freda.html",
+    "title": "Freda Li",
+    "section": "",
+    "text": "Office | 1S-221   Telephone | x3984   Email | freda.li at csi.cuny.edu",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Freda Li"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Li-Freda.html#contacts",
+    "href": "People/faculty/Li-Freda.html#contacts",
+    "title": "Freda Li",
+    "section": "",
+    "text": "Office | 1S-221   Telephone | x3984   Email | freda.li at csi.cuny.edu",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Freda Li"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Gunn-Sera.html",
+    "href": "People/faculty/Gunn-Sera.html",
+    "title": "Sera Gunn",
+    "section": "",
+    "text": "Office | 1S-201   Telephone | x3609   Email | sera.gunn at csi.cuny.edu   Website | https://seragunn.github.io/",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Sera Gunn"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Gunn-Sera.html#contacts",
+    "href": "People/faculty/Gunn-Sera.html#contacts",
+    "title": "Sera Gunn",
+    "section": "",
+    "text": "Office | 1S-201   Telephone | x3609   Email | sera.gunn at csi.cuny.edu   Website | https://seragunn.github.io/",
+    "crumbs": [
+      "People",
+      "Faculty in the Math Department",
+      "Sera Gunn"
+    ]
+  },
+  {
+    "objectID": "People/faculty/Foldes-Antonia.html",
+    "href": "People/faculty/Foldes-Antonia.html",
+    "title": "Antonia Foldes",
     "section": "",
     "text": "Probability",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Tobias Johnson"
+      "Antonia Foldes"
     ]
   },
   {
-    "objectID": "People/faculty/Johnson-Tobias.html#contacts",
-    "href": "People/faculty/Johnson-Tobias.html#contacts",
-    "title": "Tobias Johnson",
+    "objectID": "People/faculty/Foldes-Antonia.html#contacts",
+    "href": "People/faculty/Foldes-Antonia.html#contacts",
+    "title": "Antonia Foldes",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-225   Telephone | x3694   Email | tobias.johnson at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~tobiasljohnson",
+    "text": "Contacts\n Office | 1S-206   Telephone | x3612   Email | antonia.foldes at csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~foldes",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Tobias Johnson"
+      "Antonia Foldes"
     ]
   },
   {
-    "objectID": "People/faculty/Poje-Andrew.html",
-    "href": "People/faculty/Poje-Andrew.html",
-    "title": "Andrew Poje",
-    "section": "",
-    "text": "Fluid Dynamics, Applied Mathematics",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Andrew Poje"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Poje-Andrew.html#contacts",
-    "href": "People/faculty/Poje-Andrew.html#contacts",
-    "title": "Andrew Poje",
-    "section": "Contacts",
-    "text": "Contacts\n Office | 1S-205   Telephone | x3611   Email | poje at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/poje",
-    "crumbs": [
-      "People",
-      "Faculty in the Math Department",
-      "Andrew Poje"
-    ]
-  },
-  {
-    "objectID": "People/faculty/Poje-Andrew.html#biography",
-    "href": "People/faculty/Poje-Andrew.html#biography",
-    "title": "Andrew Poje",
+    "objectID": "People/faculty/Foldes-Antonia.html#biography",
+    "href": "People/faculty/Foldes-Antonia.html#biography",
+    "title": "Antonia Foldes",
     "section": "Biography",
-    "text": "Biography\nDr. Poje has published a number of papers on Lagrangian mixing and transport theory as applied to oceanographic flows. His interests include traditional and Lagrangian turbulence theory, low order modeling, dynamical systems and numerical analysis. His most recent research activity concerns the application of geometric techniques to quantifying non-conservative transport phenomena and designing optimal Lagrangian observational strategies.",
+    "text": "Biography\nMy favorite topics of interest are the properties of Brownian motion, random walk and their local times. In the last few years I was working on the fine properties of iterated processes, logarithmic averages, some integral functional of certain stochastic processes. One of the main goal of my investigation was to develop a general strong approximation method which allow us to study certain processes through the investigation of the corresponding iterated process. This led to the strong approximation of a wide class of additive functionals.Another related topic of investigation was on the measure of heavily visited points of the Brownian motion.\nRecently I got interested in the fine properties of the maximal local time and occupation time of the simple d-dimensional random walks. Questions about maximal local time on subsets, maximal occupation time of a finite set, multiplicity of the set of points with a given local time, and joint asymptotic behavior of local and occupation times of random walks in higher dimension are the object of my most recent work.",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Andrew Poje"
+      "Antonia Foldes"
     ]
   },
   {
-    "objectID": "People/faculty/Lucia-Marcello.html",
-    "href": "People/faculty/Lucia-Marcello.html",
-    "title": "Marcello Lucia",
+    "objectID": "People/faculty/Balogh-Andras.html",
+    "href": "People/faculty/Balogh-Andras.html",
+    "title": "Andras Balogh",
     "section": "",
-    "text": "Nonlinear Analysis",
+    "text": "–research interests go here—",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Marcello Lucia"
+      "Andras Balogh"
     ]
   },
   {
-    "objectID": "People/faculty/Lucia-Marcello.html#contacts",
-    "href": "People/faculty/Lucia-Marcello.html#contacts",
-    "title": "Marcello Lucia",
+    "objectID": "People/faculty/Balogh-Andras.html#contacts",
+    "href": "People/faculty/Balogh-Andras.html#contacts",
+    "title": "Andras Balogh",
     "section": "Contacts",
-    "text": "Contacts\n Office | 1S-226   Telephone | x3624   Email | mlucia at math.csi.cuny.edu   Website | http://www.math.csi.cuny.edu/~mlucia",
+    "text": "Contacts\n Office | 1S-215   Telephone | x3600   Email | andras.balogh at csi.cuny.edu   Website | https://www.math.csi.cuny.edu/~balogh",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Marcello Lucia"
+      "Andras Balogh"
     ]
   },
   {
-    "objectID": "People/faculty/Lucia-Marcello.html#biography",
-    "href": "People/faculty/Lucia-Marcello.html#biography",
-    "title": "Marcello Lucia",
+    "objectID": "People/faculty/Balogh-Andras.html#biography",
+    "href": "People/faculty/Balogh-Andras.html#biography",
+    "title": "Andras Balogh",
     "section": "Biography",
-    "text": "Biography\nI received a M.Sc. degree in Algebra (Galois Theory) from the University of Lausanne, and then a Ph.D. in nonlinear analysis from the Swiss Federal Institute of Technology. After a short experience as a consultant in a private company, I obtained a grant to do research at the University of Rome II, followed by several postdoc positions: Universitat Politecnica de Catalunya (Barcelona), Rutgers University, Tata Institute of Technology (Bangalore), Chinese Academy of Sciences (Beijing). In 2005 I was visiting assistant professor at National Center of Theoretical Sciences (Taiwan), and obtained then an Alexander von Humboldt grant to pursue my research in Cologne (Germany).\nMy topics of research are the study of nonlinear problems that arise in mathematical physics, differential geometry and in some models of chemotaxis, with emphasis on the question of existence and uniqueness of solutions. Part of these questions are closely related to some optimal exponential Sobolev inequalities.\nFor further information see my website.",
+    "text": "Biography\n–under construction–",
     "crumbs": [
       "People",
       "Faculty in the Math Department",
-      "Marcello Lucia"
+      "Andras Balogh"
     ]
   },
   {
@@ -2248,7 +2284,7 @@
     "href": "People/faculty/index.html",
     "title": "Faculty in the Math Department",
     "section": "",
-    "text": "Abhijit Champanerkar\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nChris Conidis\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\nAntonia Foldes\n\n\nEmeritus Professor\n\n\n\n\n\n\n\n\n\n\n\n\nGunter Fuchs\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSera Gunn\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nZheng Huang\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nTobias Johnson\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nIlya Kofman\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nCarlo Lancellotti\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nWenjuan Li\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nFreda Li\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nMarcello Lucia\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJoseph Maher\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nPrabudh Misra\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nKevin O’Bryant\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAndrew Poje\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nWladimir Pribitkin\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJoseph Quinn\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nArundhati Raychaudhuri\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJay Rosen\n\n\nDistinguished Professor\n\n\n\n\n\n\n\n\n\n\n\n\nTobias Schaefer\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nMohammad Talafha\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nAllen Tesdall\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nMikael Vejdemo-Johansson\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Verzani\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJesenko Vukadinovic\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nStephen Wollman\n\n\nEmeritus Professor\n\n\n\n\n\nNo matching items",
+    "text": "Andras Balogh\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nAbhijit Champanerkar\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nChris Conidis\n\n\nAssistant Professor\n\n\n\n\n\n\n\n\n\n\n\n\nAntonia Foldes\n\n\nEmeritus Professor\n\n\n\n\n\n\n\n\n\n\n\n\nGunter Fuchs\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nSera Gunn\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nZheng Huang\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nTobias Johnson\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nIlya Kofman\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nCarlo Lancellotti\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nWenjuan Li\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nFreda Li\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nMarcello Lucia\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJoseph Maher\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nPrabudh Misra\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nKevin O’Bryant\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nAndrew Poje\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nWladimir Pribitkin\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJoseph Quinn\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nArundhati Raychaudhuri\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJay Rosen\n\n\nDistinguished Professor\n\n\n\n\n\n\n\n\n\n\n\n\nTobias Schaefer\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nMohammad Talafha\n\n\nDoctoral Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\nAllen Tesdall\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nMikael Vejdemo-Johansson\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Verzani\n\n\nProfessor\n\n\n\n\n\n\n\n\n\n\n\n\nJesenko Vukadinovic\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\nStephen Wollman\n\n\nEmeritus Professor\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "People",
       "Faculty in the Math Department"
