@@ -409,7 +409,7 @@
     "href": "Undergraduate/Courses/course_list.html#graduate-courses",
     "title": "Course List",
     "section": "Graduate courses",
-    "text": "Graduate courses\nThe Department of Mathematics offers a few graduate-credit courses. Primarily these are designed as content courses for students pursuing a Masters degree in Education, although not exclusively.\nSee http://csicuny.smartcatalogiq.com/Current/Graduate-Catalog/Graduate-Courses/MTH-Mathematics for an online listing.",
+    "text": "Graduate courses\nThe Department of Mathematics offers a few graduate-credit courses. Primarily these are designed as content courses for students pursuing a Masters degree in Education, although not exclusively.\nSee https://csi-graduate.catalog.cuny.edu/departments/MATH-CSI/courses for an online listing.",
     "crumbs": [
       "Undergraduate",
       "Curriculum details",
@@ -1211,7 +1211,7 @@
     "href": "WeBWorK/courses.html#login-instructions",
     "title": "WebWork at CSI",
     "section": "Login instructions",
-    "text": "Login instructions\nStudent login id’s will be available by first day of class.\n\n\n\n\n\n\nPlease note the new login instructions, starting in Fall 2025 semester:\n\n\n\nYour username and password are your 8-digit Student ID.\nFor example, if your student ID is 12345678, you would simply enter\nusername: 12345678\npassword: 12345678\n\n\nPlease change your password upon first logging in, make a note and keep it in a safe place."
+    "text": "Login instructions\nStudent login id’s will be available by first day of class.\n\n\n\n\n\n\nImportantPlease note the new login instructions, starting in Fall 2025 semester:\n\n\n\nYour username and password are your 8-digit Student ID.\nFor example, if your student ID is 12345678, you would simply enter\nusername: 12345678\npassword: 12345678\n\n\nPlease change your password upon first logging in, make a note and keep it in a safe place."
   },
   {
     "objectID": "WeBWorK/courses.html#fall-2025",
@@ -2578,7 +2578,7 @@
     "href": "ADA/quarto.html",
     "title": "Notes on Quarto",
     "section": "",
-    "text": "Quarto is an open-source scientific and technical publishing system which can be used to publish in HTML, PDF, and other formats. A key feature is easy integration with programming languages like Julia, R, and Python.\n\n\nIt appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
+    "text": "Quarto is an open-source scientific and technical publishing system which can be used to publish in HTML, PDF, and other formats. A key feature is easy integration with programming languages like Julia, R, and Python.\n\n\nIt appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nWarningQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
     "crumbs": [
       "ADA and the Math Department",
       "Notes on Quarto"
@@ -2589,7 +2589,7 @@
     "href": "ADA/quarto.html#quarto-can-use-different-tools",
     "title": "Notes on Quarto",
     "section": "",
-    "text": "It appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
+    "text": "It appears that \\(\\LaTeX\\) will evolve to have more support for tagging of PDF documents. See tagpdf for some details.\nThe tinytex installation is very current. The name implies it is small, but how? It downloads packages on demand, so unlike other TeX installations, you need not have everything on your hard drive.\nTo install tinytex is easy\n\nquarto install tinytex\n\nAs an aside, there are quarto update tinytex and quarto uninstall tinytex commands.\n\n\n\n\n\n\nWarningQuarto heads up\n\n\n\nPDFs produced by Quarto are not tagged and, when last tested, no success was found in trying to implement the advice from the latex page.\nIt’s possible that this changes as changes are made to Pandoc, but until then, when accessibility is a must, it is recommended to provide both HTML and PDF output.",
     "crumbs": [
       "ADA and the Math Department",
       "Notes on Quarto"
