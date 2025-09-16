@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicons/wavelet.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -67,8 +69,66 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-Note',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-news'] = new List('listing-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 </head>
@@ -169,8 +229,92 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <!-- Main content -->
 <div class="grid">
-<div class="g-col-12 g-col-sm-8 g-col-md-9">
-<!-- {{< include news.qmd >}} -->
+<section id="recent-news" class="level2 home-heading g-col-12 g-col-sm-8 g-col-md-9">
+<h2 class="home-heading" data-anchor-id="recent-news">Recent news</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-8 order-2 order-md-1">
+<div id="listing-news" class="quarto-listing quarto-listing-container-table">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Title
+</th>
+
+<th>
+Note
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-date-sort="1758153600000" data-listing-file-modified-sort="1758046997242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="88" data-listing-title-sort="Principles of Generative Diffusion Models" data-listing-filename-sort="roberttalk.qmd">
+<td>
+<span class="listing-date">Sep 18, 2025</span>
+</td>
+<td>
+<a href="./news/roberttalk.html" class="title listing-title">Principles of Generative Diffusion Models</a>
+</td>
+<td>
+<span class="listing-Note">2:30 pm in 1S-219</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-date-sort="1741824000000" data-listing-file-modified-sort="1758046997242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22" data-listing-title-sort="Effective Interventions for Students with Mathematics Learning Disabilities" data-listing-filename-sort="teha-pi-day.qmd">
+<td>
+<span class="listing-date">Mar 13, 2025</span>
+</td>
+<td>
+<a href="./news/teha-pi-day.html" class="title listing-title">Effective Interventions for Students with Mathematics Learning Disabilities</a>
+</td>
+<td>
+<span class="listing-Note">3:30 pm in 1S-213</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-date-sort="1741824000000" data-listing-file-modified-sort="1758046997242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Pi Day 2025" data-listing-filename-sort="pi-day-2025.qmd">
+<td>
+<span class="listing-date">Mar 13, 2025</span>
+</td>
+<td>
+<a href="./news/pi-day-2025.html" class="title listing-title">Pi Day 2025</a>
+</td>
+<td>
+<span class="listing-Note">2:45 pm in 1S-214</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-date-sort="1739404800000" data-listing-file-modified-sort="1758046997239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14" data-listing-title-sort="The Math of Modern Romance" data-listing-filename-sort="math-romance.qmd">
+<td>
+<span class="listing-date">Feb 13, 2025</span>
+</td>
+<td>
+<a href="./news/math-romance.html" class="title listing-title">The Math of Modern Romance</a>
+</td>
+<td>
+<span class="listing-Note">3:00 pm in 1S-119</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</div>
+<div class="g-col-8 g-col-md-4 order-1 order-md-2">
+<p><a href="./news/roberttalk.html"><img src="./news/RobertTalk.png" class="img-fluid" alt="Advertisement poster for Sept 18 talk at 2:30"></a></p>
+</div>
+</div>
 <div class="grid">
 <div class="g-col-6 g-col-sm-5 g-col-xl-3">
 <p><img src="images/square/Babel-escher2.jpg" class="img-fluid" alt="Escher's Tower of Babel"></p>
@@ -195,7 +339,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The College is conveniently located at the nexus of the vibrant New York City area research community. Many faculty in the Department of Mathematics contribute to, and organize, research activities at the CUNY Graduate Center in Manhattan. Our faculty also supervise doctoral students at the Graduate Center, and participate in research seminars and colloquia with neighboring institutions.</p>
 </div>
 </div>
-</div>
+</section>
 <div class="g-col-12 g-col-sm-4 g-col-md-3">
 <!-- autogenerated by julia sidebar-links.jl -->
 <div class="d-grid gap-0">
@@ -383,6 +527,7 @@ ul.task-list li input[type="checkbox"] {
 -->
 </section>
 </div>
+
 
 
 

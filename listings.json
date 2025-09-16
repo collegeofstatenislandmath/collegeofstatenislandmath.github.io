@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/news/roberttalk.html",
+      "/news/teha-pi-day.html",
+      "/news/pi-day-2025.html",
+      "/news/math-romance.html"
+    ]
+  },
+  {
     "listing": "/People/staff/index.html",
     "items": [
       "/People/staff/Coniglio-Annette.html",
