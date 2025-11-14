@@ -71,7 +71,7 @@
     "href": "Undergraduate/AdvisingDocuments/index.html",
     "title": "Program requirements and sample schedules",
     "section": "",
-    "text": "For advisement please send request to mathadvisor@csi.cuny.edu\nHelpful Advising Links\nRegistrar forms for students (e.g. Add/Drop request form)",
+    "text": "Registrar forms for students (e.g. Add/Drop request form)",
     "crumbs": [
       "Undergraduate",
       "Program requirements and sample schedules"
@@ -82,7 +82,7 @@
     "href": "Undergraduate/AdvisingDocuments/index.html#general-info",
     "title": "Program requirements and sample schedules",
     "section": "",
-    "text": "For advisement please send request to mathadvisor@csi.cuny.edu\nHelpful Advising Links\nRegistrar forms for students (e.g. Add/Drop request form)",
+    "text": "Registrar forms for students (e.g. Add/Drop request form)",
     "crumbs": [
       "Undergraduate",
       "Program requirements and sample schedules"
@@ -144,14 +144,190 @@
     ]
   },
   {
-    "objectID": "Undergraduate/math-advisor.html",
-    "href": "Undergraduate/math-advisor.html",
-    "title": "Math Advisor",
+    "objectID": "Undergraduate/Awards/index.html",
+    "href": "Undergraduate/Awards/index.html",
+    "title": "Math Department Awards",
     "section": "",
-    "text": "Please contact Andras Balogh at mathadvisor@csi.cuny.edu",
+    "text": "The Graduation Awards are given to our most outstanding graduates for that year. The Departmental Awards are given to outstanding students in their Sophomore or Junior years.",
     "crumbs": [
       "Undergraduate",
-      "Math Advisor"
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section",
+    "href": "Undergraduate/Awards/index.html#section",
+    "title": "Math Department Awards",
+    "section": "2023",
+    "text": "2023\n\nGraduation Awards\n\nMitchel Kharnak\nJohn Gambale\nJanet Akselrud\nMelissa Sorrentino\nFrederick Spreen\n\nDepartmental Awards\n\nKenny Feng\nJad Ibrahim\nMegan Trapanese",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-1",
+    "href": "Undergraduate/Awards/index.html#section-1",
+    "title": "Math Department Awards",
+    "section": "2022",
+    "text": "2022\n\nGraduation Awards\n\nAmal Abdelaziz\nStivi Manoku\nJesse Dimino\nVincent Ndokaj\n\nDepartmental Awards\n\nJohn Galindo\nLaura Kaplan\nMathew Keeler\nBhavya Premachandran",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-2",
+    "href": "Undergraduate/Awards/index.html#section-2",
+    "title": "Math Department Awards",
+    "section": "2021",
+    "text": "2021\n\nGraduation Awards\n\nChukwurado Umeaka\nJustin Peterkin\nJoshua Higgins\n\nDepartmental Awards\n\nStivi Manoku\nSierra Arcuri\nJenna Calderon\nJesse Dimino",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-3",
+    "href": "Undergraduate/Awards/index.html#section-3",
+    "title": "Math Department Awards",
+    "section": "2020",
+    "text": "2020\n\nGraduation Awards\n\nDajana Avxhi\nSerena Newman\nMitchel Weitzman\n\nDepartmental Awards\n\nIlmi Demirovic\nJoshua Higgins\nChinedu Okoye",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-4",
+    "href": "Undergraduate/Awards/index.html#section-4",
+    "title": "Math Department Awards",
+    "section": "2019",
+    "text": "2019\n\nGraduation Awards\n\nNicholas Veneziano\nNicholas Borghese\nJing Gian\n\nDepartmental Awards\n\nDajana Avxhi\nChukwurado Umeaka\nMitchell Weitzman\nJinglin Ye",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-5",
+    "href": "Undergraduate/Awards/index.html#section-5",
+    "title": "Math Department Awards",
+    "section": "2018",
+    "text": "2018\n\nGraduation Awards\n\nRobert Ferrando\nRayan Ibrahime\nConcetta Perito\nIrteza Syed\n\nDepartmental Awards\n\nRocco Fama\nNicholas Veneziano",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-6",
+    "href": "Undergraduate/Awards/index.html#section-6",
+    "title": "Math Department Awards",
+    "section": "2017",
+    "text": "2017\n\nGraduation Awards\n\nChristopher Pinto\nTimothy Sweeney\nHeather Mak\nSarah Sietz\n\nDepartmental Awards\n\nJing Gian\nBrandon Lei\nSerena Newman\nConcetta Perito",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-7",
+    "href": "Undergraduate/Awards/index.html#section-7",
+    "title": "Math Department Awards",
+    "section": "2016",
+    "text": "2016\n\nGraduation Awards\n\nKeith Thompson\nBassem Nawar\nQuixia Yang\nLilani Seneviratne\n\nDepartmental Awards\n\nRobert Ferrando\nSarah Sietz",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-8",
+    "href": "Undergraduate/Awards/index.html#section-8",
+    "title": "Math Department Awards",
+    "section": "2015",
+    "text": "2015\n\nGraduation Awards\n\nArgenta Benis\nDanielle Auriti\nLydia Chung\nAngelo Rago\nJustin Van Wygerden\n\nDepartmental Awards\n\nBassem Nawar\nKeith Thompson\nMichelle Vann\nQiuxia Yang",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-9",
+    "href": "Undergraduate/Awards/index.html#section-9",
+    "title": "Math Department Awards",
+    "section": "2014",
+    "text": "2014\n\nGraduation Awards\n\nScott Edkins\nYing Yu\nJenna Theuret\nSuzanne Frank\nItiel Cohen (Student Government Award)\n\nDepartmental Awards\n\nArgenta Benis\nLydia Chung\nSuada Hilili\nLinani Sereviratne",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-10",
+    "href": "Undergraduate/Awards/index.html#section-10",
+    "title": "Math Department Awards",
+    "section": "2013",
+    "text": "2013\n\nGraduation Awards\n\nAnthony DeLuca\nAndrea Cella\nMichel Abdo\nElena Sverdlova\nAngelo Rago\n\nDepartmental Awards\n\nScott Edkins\nSuzanne Frank\nWilliam George\nAntonio Grasso",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-11",
+    "href": "Undergraduate/Awards/index.html#section-11",
+    "title": "Math Department Awards",
+    "section": "2012",
+    "text": "2012\n\nGraduation Awards\n\nDaniel Kurzweil\nJaclyn Marzella\nSylvanna Salama\nAnnelise Kropp\nKatherine Stone\n\nDepartmental Awards\n\nYing Yu\nDanielle Aruti",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-12",
+    "href": "Undergraduate/Awards/index.html#section-12",
+    "title": "Math Department Awards",
+    "section": "2011",
+    "text": "2011\n\nGraduation Awards\n\nAnna Theodoropoulos\nEnsela Mema\nIlirjana Duka\nRaechel Strobel\n\nDepartmental Awards\n\nElena Sverdlova\nAnthony DeLuca\nAndrea Cella",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-13",
+    "href": "Undergraduate/Awards/index.html#section-13",
+    "title": "Math Department Awards",
+    "section": "2010",
+    "text": "2010\n\nGraduation Awards\n\nBernard Adamitey\nJonathan Maltz\nMouwafak Abbas\nMarilyn Schulz\n\nDepartmental Awards\n\nJenna Theuret\nCynthia Murillo\nAnnelise Kropp\nChristine Rivera",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-14",
+    "href": "Undergraduate/Awards/index.html#section-14",
+    "title": "Math Department Awards",
+    "section": "2009",
+    "text": "2009\n\nGraduation Awards\n\nIsmael Yacabou Djima\nTony Ramirez\nJoseph Zancocchio\nArti Mela\n\nDepartmental Awards\n\nSylvana Salama\nTimothy Mullen\nDaniel Kurzweil",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Awards/index.html#section-15",
+    "href": "Undergraduate/Awards/index.html#section-15",
+    "title": "Math Department Awards",
+    "section": "2008",
+    "text": "2008\n\nGraduation Awards\n\nKaramatou Yacoubou Djima\nDeena Thengone\nVadim Plaxine\n\n\nGraduation Awards have included:\nThe Louis Blake Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Louis Blake, a member of the Mathematics Department from 1975 to 1985.\nThe Sherry Blackman Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Sherry Blackman, a member of the Mathematics Department from 1970 to 2007.\nThe CSI Auxiliary Services Corporation Award for Academic Excellence in Mathematics is awarded by the faculty to an outstanding graduating student.\nBenedict Carlat Memorial Award for Outstanding Work in Mathematics. Awarded to an outstanding graduating mathematics major selected by the faculty of the Mathematics Department. The award, established by the Carlat family, honors the memory of Benedict Carlat, a member of the Mathematics Department from 1962 to 1976, chairperson from 1968 to 1976, and who taught the first computer course at CSI.",
+    "crumbs": [
+      "Undergraduate",
+      "Math Department Awards"
     ]
   },
   {
@@ -192,7 +368,37 @@
     "href": "Undergraduate/index.html",
     "title": "Undergraduate",
     "section": "",
-    "text": "The Department of Mathematics has around 70 declared majors at any given time and offers around 100 courses each semester for the students of the college.\n\nSome topics of interest for our students:\n\nAdvising documents\nCSI Major Exploration Tools\nCareer opportunities\nCourses and accompanying materials\nTutoring in Mathematics at CSI\nIndependent study courses (MTH594)\nThe Teacher Academy A program to support students interested in pursuing a teaching career in the secondary school system of New York City.\nThe Math Club\nMath Department Awards\nAlumni\nHonors Theses",
+    "text": "The Department of Mathematics has around 70 declared majors at any given time and offers around 100 courses each semester for the students of the college.",
+    "crumbs": [
+      "Undergraduate"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/index.html#for-current-students",
+    "href": "Undergraduate/index.html#for-current-students",
+    "title": "Undergraduate",
+    "section": "For Current Students",
+    "text": "For Current Students\n\nProgram requirements and sample schedules\nProgram and Course Description\nCourses and accompanying materials\nTutoring in Mathematics at CSI\nIndependent study courses (MTH594)\nAdvising documents",
+    "crumbs": [
+      "Undergraduate"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/index.html#opportunities-resources",
+    "href": "Undergraduate/index.html#opportunities-resources",
+    "title": "Undergraduate",
+    "section": "Opportunities & Resources",
+    "text": "Opportunities & Resources\n\nCareer opportunities\nSimons Undergraduate Lecture Series\nMath Department Awards\nHonors Theses\nAlumni",
+    "crumbs": [
+      "Undergraduate"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/index.html#college-resources",
+    "href": "Undergraduate/index.html#college-resources",
+    "title": "Undergraduate",
+    "section": "College Resources",
+    "text": "College Resources\n\nCSI Major Exploration Tools\nThe Teacher Academy\n\nThe Math Club",
     "crumbs": [
       "Undergraduate"
     ]
@@ -227,7 +433,7 @@
     "text": "StatCrunch labs:\n\nLab1\nLab2\nLab3\nLab4\nLab5\nLab6\nLab7\nLab8\nLab9\n\n\n\nMTH113\nStudentInstructionsGeneral",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH113"
     ]
   },
@@ -239,7 +445,7 @@
     "text": "MTH123_Orientation_Online\nMTH123_Orientation_Sp23_InPerson\nMTH123_Outline_InPerson\nMTH123_Outline_Online",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH123"
     ]
   },
@@ -251,7 +457,7 @@
     "text": "Mth123 and Mth130 Student Online Homework Registration/Enrollment Process for the www.webassign.net website. This is a Self-enrollment system:\nYou need two things",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Webassign instructions"
     ]
   },
@@ -263,7 +469,7 @@
     "text": "ClASS KEY\nYour instructor should have this information by the first week of class. Every section has its own key. It will have 3 ‘fields’ or parts: csi.cuny #### #### – “csi.cuny” followed by 2 four-digit numbers.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Webassign instructions"
     ]
   },
@@ -275,7 +481,7 @@
     "text": "ACCESS CODE\nYou purchase your Access Code (consists of a bunch of numbers & letters) from the publisher.\nTo obtain the Access Code, do one of the following:\n\nFor an online-only option (no paper book) you can do an online credit card purchase during part II of the process, below. The full contents of the Textbook along with many other features are included. Recommendation: If you plan to use a credit card, do not do so on campus.\nPurchase the Textbook from the CSI bookstore, it is shrink- wrapped along with the Access Code.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Webassign instructions"
     ]
   },
@@ -287,7 +493,7 @@
     "text": "Part I: Create your logon ID and register in the appropriate section\n\nGo to www.webassign.net\nClick on “Have a class key?”\nEnter the class key and click Submit.\nIf the correct class and section is listed, click “Yes,this is my class.\nRegistration:\n\ni.- First-Time Users: Select “I need to create WebAssign account”. Enter requested information and click “Create My Account.” Remember to write down the username and password you just created!\n\nReturning Users: Select “I already have a Webassign account”. Enter your account information and click “Continue.”",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Webassign instructions"
     ]
   },
@@ -299,7 +505,7 @@
     "text": "Part II: Log in, provide access code and do homework\n\nContinuing from part I, click the login button. You will be redirected to the main page. Now you can log in. Please note that your “Institution Code” is csi.cuny\nYou are then prompted to\n\n\nPurchase an Access Code\nEnter the Code Purchased with the Text at Bookstore.\nContinue using 5 day trial period. (You have 5 days to purchase the book or online credit card purchase.) Select one of these options, follow the prompts and you’re ready to start doing your homework. (Access Codes are good for one semester only.)\n\n\nProblems with the Website? There is plenty of help available from the main site at www.webassign.net, and also phone support toll free: (800) 955-8275",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Webassign instructions"
     ]
   },
@@ -311,7 +517,7 @@
     "text": "Calculus instructors have an option of using Achieve or Webworks for their Calculus sections.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Calculus Book/Software Guidelines for Calculus courses"
     ]
   },
@@ -323,7 +529,7 @@
     "text": "Instructors using Achieve\nStudents are required to buy Achieve which comes with a homework system and an online book. Here are the available options to buy Achieve:\nAchieve (1-term): (Bookstore ISBN: 9781319411657)\nAchieve (4-term): (Bookstore ISBN: 9781319438333)\nLoose-leaf + Achieve (1-term): (Bookstore ISBN: 9781319411671)\nLoose-leaf + Achieve (4-term): (Bookstore ISBN: 9781319438357)\n\nStudent Options:\n\nStudents taking only one semester of Calculus are suggested to buy the 1- term access to Achieve.\n\n& Students planning on taking more than one semester of Calculus are sug- gested to buy the 4-term access to Achieve, irrespective of whether students will enroll in Achieve sections or Webwork section in subsequent semesters.\n\n\nNote:\n\nAccess to the online book expires after Achieve subscription expires. If stu- dents want to have a hard copy of the book, students can choose the “Loose- leaf” option above.\nStudents planning on taking more than one semester of Calculus and en- rolled in an Achieve section can use their online book if they enroll in a Calculus Webwork section in subsequent semesters.\nStudents who are taking more than one semester of Calculus, and who have bought a 1-term access to Achieve, will be able to upgrade their Achieve subscriptions to 4-term access by paying the difference. Please contact Alex Markle directly at alex.markle@macmillan.com.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Calculus Book/Software Guidelines for Calculus courses"
     ]
   },
@@ -335,30 +541,30 @@
     "text": "Instructors using WeBWorK:\nSince WeBWorK is free, students do not need to buy any homework system. However students are required to obtain the text book either through Achieve (as above) or a used book or rent a book.\note: Students planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.\n\nNote:\nStudents planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Calculus Book/Software Guidelines for Calculus courses"
     ]
   },
   {
     "objectID": "Undergraduate/Courses/index.html",
     "href": "Undergraduate/Courses/index.html",
-    "title": "Curriculum details",
+    "title": "Course Materials",
     "section": "",
     "text": "Curriculum description\nCUNY First listing of all active courses\nAdvising documents\nWebAssign instructions\nWeBWorK Instructions\nCalculus book guide\nBest practices",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details"
+      "Course Materials"
     ]
   },
   {
     "objectID": "Undergraduate/Courses/index.html#various-course-materials-mth102---mth125",
     "href": "Undergraduate/Courses/index.html#various-course-materials-mth102---mth125",
-    "title": "Curriculum details",
+    "title": "Course Materials",
     "section": "Various Course Materials: MTH102 - MTH125",
     "text": "Various Course Materials: MTH102 - MTH125\n\nMTH102\nMTH113\nMTH122\nMTH123\nMTH125\nMTH229",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details"
+      "Course Materials"
     ]
   },
   {
@@ -369,7 +575,7 @@
     "text": "Elective for mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH445"
     ]
@@ -382,7 +588,7 @@
     "text": "Elective for mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH445"
     ]
@@ -395,7 +601,7 @@
     "text": "Learning Goals and Assessment Plans\nLearning Goal\nAssessment\n\nThe student will be able to show whether or not a subset of the Euclidean space is a submanifold.\n\nWhen the class is being assessed, the exams will include embedded questions to assess whether the students have sufficiently mastered the topic-specific learning goals.\n\nThe student will be able to compute the first and second fundamental form of a surface.\n\nSame\n\nThe student will be able to compute the Gaussian curvature of a surface.\n\nSame\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping\npurposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to\nimprove teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH445"
     ]
@@ -408,7 +614,7 @@
     "text": "Learning Goals and Assessment Plans\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH102"
     ]
@@ -421,7 +627,7 @@
     "text": "An introduction to statistical inference",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH113"
     ]
@@ -434,7 +640,7 @@
     "text": "An introduction to statistical inference",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH113"
     ]
@@ -447,7 +653,7 @@
     "text": "Learning Goals and Assessment Plans\n\n\n\nLearning Goal\nAssessment\n\n\n\n\nStudents will know measures of central tendency and spread.\nWhen the class is being assessed, the final exams will include embedded questions to evaluate student performance on these topic-specific learning goals.\n\n\nStudents will understand the normal curve and will be able to recognize situations in which the normal distribution applies.\nsame\n\n\nStudents will have a basic understanding of the concepts of probability and relative frequency. They will know how these concepts are related.\nsame\n\n\nStudents will learn the basics on hypothesis testing.\nsame\n\n\nStudents will be able to use computer packages in order to visualize data by producing bar charts, histograms, pie charts, etc.\nsame\n\n\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping\npurposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to\nimprove teaching and learning effectiveness.\n\nLast updated 2/6/2021",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH113"
     ]
@@ -460,7 +666,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH331"
     ]
@@ -473,7 +679,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH337"
     ]
@@ -486,7 +692,7 @@
     "text": "Required course for the mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH341"
     ]
@@ -499,7 +705,7 @@
     "text": "Required course for the mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH341"
     ]
@@ -512,7 +718,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to determine whether a given function is continuous, and prove the result using the definition of a limit.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to use the definition of a derivative to determine, with proof, whether a given function is differentiable.\n\nsame\n\nThe student will be able to determine the convergence or divergence of a given sequence or series, and prove that a sequence converges by proving that it is monotone and bounded.\n\nsame\n\nThe student be able to use the definition of the integral as a Riemann Sum to determine, with proof, whether a given function is Riemann integrable.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH341"
     ]
@@ -525,7 +731,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH440"
     ]
@@ -538,7 +744,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH437"
     ]
@@ -551,7 +757,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH416"
     ]
@@ -564,7 +770,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH350"
     ]
@@ -577,7 +783,7 @@
     "text": "One of MTH 330 and 334 required for the mathematics major. Required for the Engineering Science major and the Physics major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH330"
     ]
@@ -590,7 +796,7 @@
     "text": "One of MTH 330 and 334 required for the mathematics major. Required for the Engineering Science major and the Physics major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH330"
     ]
@@ -603,7 +809,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to apply standard techniques for solving first-order ordinary differential equations (ODEs).\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will learn the theory of second- order linear ODE’s and be able to solve second- order constant-coefficient ODEs\n\nsame\n\nThe student will learn fundmental concepts of linear algebra and matrix theory and be able to apply them to solve linear systems of differential equations with constant coefficients.\n\nsame\n\nThe student will learn introductory Laplace transform theory and be able to apply it to solve linear constant-coefficient ODEs\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH330"
     ]
@@ -616,7 +822,7 @@
     "text": "Enhancing the prospective teacher’s understanding of fundamental concepts for the instruction of geometry and statistical concepts",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH218"
     ]
@@ -629,7 +835,7 @@
     "text": "Enhancing the prospective teacher’s understanding of fundamental concepts for the instruction of geometry and statistical concepts",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH218"
     ]
@@ -642,7 +848,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to understand and explain the geometric properties of and relationships between various types of polygons, with special emphasis on triangles and quadrilaterals.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to find the area of a given geometric shape through its decomposition into simpler shapes such as triangles and rectangles. The student will be able to find the volume of simple geometric solids.\n\nsame\n\nThe student will be able to perform conversions within and between various English and metric units of length, area, and volume.\n\nsame\n\nThe student will be able to read, understand and construct the visual representation of data and exhibit an understanding of the mean, median, and mode.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH218"
     ]
@@ -655,7 +861,7 @@
     "text": "This course gives math majors a background to a body of mathematics beyond that offered by the required math courses. This course is an elective for all math majors, but is required for math majors with a specialization in adolescent education",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH329"
     ]
@@ -668,7 +874,7 @@
     "text": "This course gives math majors a background to a body of mathematics beyond that offered by the required math courses. This course is an elective for all math majors, but is required for math majors with a specialization in adolescent education",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH329"
     ]
@@ -681,7 +887,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will use Euclidean axioms, coordinates, vectors, and/or transformations to verify a given geometric result.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will prove a given geometric statement by writing a concise but complete mathematical argument\n\nsame\n\nThe student will use compass and straightedge to perform a given Euclidean construction.\n\nsame\n\nThe student will be familiar with a geometry that does not satisfy all Euclidean axioms.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH329"
     ]
@@ -694,7 +900,7 @@
     "text": "Provides important tools to study and analyze multivariable functions",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH342"
     ]
@@ -707,7 +913,7 @@
     "text": "Provides important tools to study and analyze multivariable functions",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH342"
     ]
@@ -720,7 +926,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to prove that a multivariable map is continuous or differentiable.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to compute the Jacobian matrix of a given differentiable map.\n\nsame\n\nThe student will be able to apply the Lagrange multiplier Theorem to find maximum or minimum values of a function subjected to a constraint.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH342"
     ]
@@ -733,7 +939,7 @@
     "text": "Required course for the math major. At least one of MTH 338 and 311 required for the computer science major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH338"
     ]
@@ -746,7 +952,7 @@
     "text": "Required course for the math major. At least one of MTH 338 and 311 required for the computer science major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH338"
     ]
@@ -759,7 +965,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to solve a system of linear equations.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to construct a basis for any appropriate vector space.\n\nsame\n\nThe student will be able to diagonalize a matrix when possible.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH338"
     ]
@@ -772,7 +978,7 @@
     "text": "MTH 230 is the first course of a three-semester sequence in calculus. Students may instead take both MTH 130 and MTH 231",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH230"
     ]
@@ -785,7 +991,7 @@
     "text": "MTH 230 is the first course of a three-semester sequence in calculus. Students may instead take both MTH 130 and MTH 231",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH230"
     ]
@@ -798,7 +1004,7 @@
     "text": "Learning Goals and Assessment Plans\n\nSolve equations and manipulate expressions with trigonometric, inverse trigonometric, polynomial and rational functions.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nCompute by hand limits, derivatives and integrals of simple combinations of algebraic and transcendental functions\n\nsame\n\nUnderstand the geometric meaning of derivatives and anti-derivatives\n\nsame\n\nSolve applied optimization problems.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH230"
     ]
@@ -811,7 +1017,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH335"
     ]
@@ -824,7 +1030,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH518"
     ]
@@ -837,7 +1043,7 @@
     "text": "Machine learning and statistical learning is spreading widely throughout society and throughout the career opportunities for students in both Mathematics, Computer Science and Business Analytics. Proficiency in the current toolkits develops generalized machine learning skills and provides access to current state of the art techniques. A project-focused learning approach is particularly well suited for building practical skills with applied statistics and machine learning.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH372"
     ]
@@ -850,7 +1056,7 @@
     "text": "Machine learning and statistical learning is spreading widely throughout society and throughout the career opportunities for students in both Mathematics, Computer Science and Business Analytics. Proficiency in the current toolkits develops generalized machine learning skills and provides access to current state of the art techniques. A project-focused learning approach is particularly well suited for building practical skills with applied statistics and machine learning.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH372"
     ]
@@ -863,7 +1069,7 @@
     "text": "Learning Goals and Assessment\n\nStudents will learn to use machine learning tools to meet modeling and prediction needs\n\nStudents will examine different types of large data sets, and perform modeling and prediction based on these data sets\n\nStudents will learn to evaluate and make trade-offs to pick appropriate tools for modeling and prediction\n\nStudents will perform model selection and evaluation when examining different types of large data sets\n\nStudents will learn to use machine learning tools to meet modeling and prediction needs\n\nStudents will examine different types of large data sets, and perform modeling and prediction based on these data sets\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH372"
     ]
@@ -876,7 +1082,7 @@
     "text": "Calculus course for business and economics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH221"
     ]
@@ -889,7 +1095,7 @@
     "text": "Calculus course for business and economics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH221"
     ]
@@ -902,7 +1108,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to calculate derivatives of polynomial, logarithmic and exponential functions\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to apply knowledge of derivatives to maximum/minimum problems in business context.\n\nsame\n\nThe student will be able to calculate integrals of polynomial, exponential and logarithmic functions.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH221"
     ]
@@ -915,7 +1121,7 @@
     "text": "Operationd Research or OR is widely used in industry and large organizations for planning and decision making. The course is important for students who plan to work in finance, government, business, or manufacturing, since it covers optimization problems which arise in practice. It is also important for those preparing to take actuarial exams (actuaries usually work in insurance and related fields). It is a useful elective for students from Business, Computer Science, or Engineering, as well as Mathematics. Aspiring teachers will also find nice applications using linear inequalities which are usually taught at the high-school level.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH370"
     ]
@@ -928,7 +1134,7 @@
     "text": "Operationd Research or OR is widely used in industry and large organizations for planning and decision making. The course is important for students who plan to work in finance, government, business, or manufacturing, since it covers optimization problems which arise in practice. It is also important for those preparing to take actuarial exams (actuaries usually work in insurance and related fields). It is a useful elective for students from Business, Computer Science, or Engineering, as well as Mathematics. Aspiring teachers will also find nice applications using linear inequalities which are usually taught at the high-school level.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH370"
     ]
@@ -941,7 +1147,7 @@
     "text": "Learning Goals and Assessment\n\nStudents will be able to formulate optimization problems using Linear Programming models.\n\nA special section in the Final examination will be devoted to test this learning goal. Student performance in this section will be graded and recorded.\n\nStudents will be able to solve LP problems by hand or computer as appropriate.\n\nThese learning goals will be assessed with a special homework and a project. Individual student performance will be graded and recorded\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH370"
     ]
@@ -954,7 +1160,7 @@
     "text": "Learning Goals and Assessment Plans\n\nCompute by hand limits, derivatives and integrals of simple combinations of algebraic and transcendental functions.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nUnderstand the geometric meaning of derivatives and anti-derivatives\n\nsame\n\nSolve applied optimization problems.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH231"
     ]
@@ -967,7 +1173,7 @@
     "text": "Required course for math major. At least one of MTH 311 and 338 is required for computer science majors",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH311"
     ]
@@ -980,7 +1186,7 @@
     "text": "Required course for math major. At least one of MTH 311 and 338 is required for computer science majors",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH311"
     ]
@@ -993,7 +1199,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will calculate distributions, expectation, and variance for standard probability models\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will apply the central limit theorem to given problems.\n\nsame\n\nThe student will apply probabilistic models to analyze given problems\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH311"
     ]
@@ -2469,7 +2675,7 @@
     "text": "122Exam_1_Practice.pdf\n122Exam_2_Practice.pdf\n122_review_for_exam_3.pdf\n401k_invest.xlsx\nFinal_Review.pdf\nlecture_10ab.pptx\nLecture_11abc.pptx\nLecture_12a.pptx\nLecture_12b.pptx\nLecture_1AB.pdf\nLecture_1AB.pptx\nLecture_1C1D.pptx\nLecture_2A.pptx\nLecture_2B.pptx\nLecture_2C3A.pptx\nLecture_3B.pptx\nLecture_3C.pptx\nLecture_4ab.pptx\nLecture_5b.pptx\nLecture_6a_.pptx\nLecture_6b.pptx\nLecture_7a.pptx\nLecture_7b.pptx\nLecture_8abc.pptx\nLOGS_SUPPLEMENT.pptx\nMth122_Orientation.pdf\nMTH122.pdf",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH122"
     ]
   },
@@ -2481,7 +2687,7 @@
     "text": "Serves as both an introduction to statistics and an introduction to using computer software to solve problems in statistics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH214"
     ]
@@ -2494,7 +2700,7 @@
     "text": "Serves as both an introduction to statistics and an introduction to using computer software to solve problems in statistics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH214"
     ]
@@ -2507,7 +2713,7 @@
     "text": "Learning Goals and Assessment Plans\n\nLearn to summarize data numerically and graphically for exploratory data analysis\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nLearn about issues involving non-normal data, data collection, and design of experiments\n\nsame\n\nLearn the fundamentals of probability to be able to describe a random sample using proper mathematical language and to compute values related to random samples, especially Binomial data and normal data.\n\nsame\n\nLearn inferential techniques for univariate tests, linear regression, and other models, including an understanding of the importance of assumptions and proper interpretation of results. May include discussion on non-parametric alternatives and computational approaches.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH214"
     ]
@@ -2520,7 +2726,7 @@
     "text": "MTH 233 is the third course of a three-semester sequence in calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH233"
     ]
@@ -2533,7 +2739,7 @@
     "text": "MTH 233 is the third course of a three-semester sequence in calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH233"
     ]
@@ -2546,7 +2752,7 @@
     "text": "Learning Goals and Assessment Plans\n\nDifferentiate and integrate functions of several variables.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nUnderstand the geometric meaning of differentiation for functions of several variables.\n\nsame\n\nApply Stokes’ Theorem to solve related problems.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH233"
     ]
@@ -2559,7 +2765,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH410"
     ]
@@ -2572,7 +2778,7 @@
     "text": "Enhancing the prospective teacher’s understanding of fundamental concepts for the instruction of arithmetic",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH217"
     ]
@@ -2585,7 +2791,7 @@
     "text": "Enhancing the prospective teacher’s understanding of fundamental concepts for the instruction of arithmetic",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH217"
     ]
@@ -2598,7 +2804,7 @@
     "text": "Learning Goals and Assessment Plans\nLearning Goal\nAssessment\n\nStudents will be able to perform the standard algorithms for arithmetic operations and explain the meaning behind them.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nStudents will be able to identify incorrect procedures and the misconceptions that lead to them. They will be able to recognize and explain why a solution is reasonable.\n\nsame\n\nStudents will be able to perform these operations using a variety of illustrative methods involving visual representations and diagrams.\n\nsame\n\nStudents will be able to solve and create a wide variety of word problems relevant to each of the topics covered throughout the course.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH217"
     ]
@@ -2611,7 +2817,7 @@
     "text": "The course will be a mathematics elective for undergraduates interested in applied mathematics.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH4XX_Was_MTH517"
     ]
@@ -2624,7 +2830,7 @@
     "text": "The course will be a mathematics elective for undergraduates interested in applied mathematics.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH4XX_Was_MTH517"
     ]
@@ -2637,7 +2843,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe students will learn basic theory and techniques for solving first order linear and quasilinear PDE’s in two Independent variables.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will learn the theory of classification of second order, linear, PDE’s in two independent variables and how solve equations by putting them into canonical form.\n\nsame\n\nThe student will learn some basic theory and methods of solution for the heat equation, wave equation, and the Laplace equation.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH4XX_Was_MTH517"
     ]
@@ -2650,7 +2856,7 @@
     "text": "Required course for the math major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH339"
     ]
@@ -2663,7 +2869,7 @@
     "text": "Required course for the math major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH339"
     ]
@@ -2676,7 +2882,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to determine, with proof, whether a given set and operation is a group.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to determine, with proof, whether a given subset of a group is a subgroup\n\nsame\n\nThe student will be able to determine, with proof, whether a given map is a homomorphism.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH339"
     ]
@@ -2689,7 +2895,7 @@
     "text": "Elective for mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH431"
     ]
@@ -2702,7 +2908,7 @@
     "text": "Elective for mathematics major",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH431"
     ]
@@ -2715,7 +2921,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to discuss whether or not a complex function is analytic\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to verify the Cauchy-Riemann equation.\n\nsame\n\nThe student will be able to compute Cauchy integrals over a domain in the complex plane.\n\nsame\n\nThe student will be able to apply the residue theorem and find power series expansion for elementary functions.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH431"
     ]
@@ -2728,7 +2934,7 @@
     "text": "This course provides an introduction to Topology and prepares students to write precise mathematical proofs.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH441"
     ]
@@ -2741,7 +2947,7 @@
     "text": "This course provides an introduction to Topology and prepares students to write precise mathematical proofs.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH441"
     ]
@@ -2754,7 +2960,7 @@
     "text": "Learning Goals and Assessment Plans\n\nLearn about open, closed sets and determine whether a subset of given topological space is open and/or closed.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nLearn about open, closed sets and determine whether a subset of given topological space is open and/or closed.\n\nsame\n\nLearn about compactness and determine whether a given topological space is compact.\n\nsame\n\nLearn about connectedness and determine whether a given topological space is connected.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH441"
     ]
@@ -2767,7 +2973,7 @@
     "text": "MTH 130 is a pre-calculus class that provides mathematical skills necessary for calculus. Students may instead take MTH 230, which includes the material in both MTH 130 and MTH 231",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH130"
     ]
@@ -2780,7 +2986,7 @@
     "text": "MTH 130 is a pre-calculus class that provides mathematical skills necessary for calculus. Students may instead take MTH 230, which includes the material in both MTH 130 and MTH 231",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH130"
     ]
@@ -2793,7 +2999,7 @@
     "text": "Learning Goals and Assessment Plans\n\nSolve equations and manipulate expressions with trigonometric, inverse trigonometric, polynomial and rational functions.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nAnalyze graphs of trigonometric, inverse trigonometric, polynomial and rational functions.\n\nsame\n\nSolve application problems using these functions.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH130"
     ]
@@ -2806,7 +3012,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH435"
     ]
@@ -2819,7 +3025,7 @@
     "text": "Learning Goals and Assessment Plans\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH306"
     ]
@@ -2832,7 +3038,7 @@
     "text": "MTH 229 is a required laboratory for MTH 230 and MTH 231. It provides students experience with using computer software, such as Julia or MATLAB, to solve problems of first-semester calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH229"
     ]
@@ -2845,7 +3051,7 @@
     "text": "MTH 229 is a required laboratory for MTH 230 and MTH 231. It provides students experience with using computer software, such as Julia or MATLAB, to solve problems of first-semester calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH229"
     ]
@@ -2858,7 +3064,7 @@
     "text": "Learning Goals and Assessment Plans\n\nSolve and manipulate calculus-related expressions using computer software such as Julia or MATLAB.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nAnalyze and produce calculus-related graphs using computer software.\n\nsame\n\nSolve calculus-related applied problems using computer software.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH229"
     ]
@@ -2871,7 +3077,7 @@
     "text": "MTH 232 is the second course of a three-semester sequence in calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH232"
     ]
@@ -2884,7 +3090,7 @@
     "text": "MTH 232 is the second course of a three-semester sequence in calculus.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH232"
     ]
@@ -2897,7 +3103,7 @@
     "text": "Learning Goals and Assessment Plans\n\nFind areas between curves and volumes of solids of revolution using definite integrals.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nDetermine whether a given infinite series converges or diverges.\n\nsame\n\nSolve applied problems using calculus of vector-valued functions.\n\nsame\n\n\n\n\n\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\n\n\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\n\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH232"
     ]
@@ -2910,7 +3116,7 @@
     "text": "This course will introduce math majors to proof techniques and working on open ended problems, as a foundation for other proof based 300/400 level math courses, and as a preparation for undergraduate research projects. This is a required course for mathematics majors",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH301"
     ]
@@ -2923,7 +3129,7 @@
     "text": "This course will introduce math majors to proof techniques and working on open ended problems, as a foundation for other proof based 300/400 level math courses, and as a preparation for undergraduate research projects. This is a required course for mathematics majors",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH301"
     ]
@@ -2936,7 +3142,7 @@
     "text": "Learning Goals and Assessment Plans\n\n\n\nLearning Goal\nAssessment\n\n\n\n\nUse basic set notation and quantifiers.\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students' scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\n\nWrite out careful and correct proofs, using proof techniques including induction.\nsame\n\n\nWrite out careful and correct proofs, using proof techniques including contrapositives and proof by contradiction.\nsame\n\n\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated 2/6/2021",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH301"
     ]
@@ -2949,7 +3155,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH442"
     ]
@@ -2962,7 +3168,7 @@
     "text": "Introductory mathematics course for business and economics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH121"
     ]
@@ -2975,7 +3181,7 @@
     "text": "Introductory mathematics course for business and economics",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH121"
     ]
@@ -2988,7 +3194,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to understand the concept of a function, find its domain,solving linear and quadratic equations and inequalities.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nThe student will learn to solve applied problems like finding minimum or maximum of a quadratic function, problems involve interest rate calculations.\n\nsame\n\nThe student will learn the concepts of exponential and logarithmic functions and solve simple exponential and logarithmic equations.\n\nsame\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH121"
     ]
@@ -3001,7 +3207,7 @@
     "text": "MTH 123 is a college algebra / trigonometry class that provides mathematical skills necessary for further success in STEM (science, technology, engineering and mathematics), business and teaching majors. It satisfies the general education requirement. Moreover, MTH 123 prepares the students for the next level of courses in mathematics, usually pre-calculus. The prerequisite is MTH 030 or an appropriate score on the CUNY proficiency/placement exam taken by many students who stop at Regents A",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH123"
     ]
@@ -3014,7 +3220,7 @@
     "text": "MTH 123 is a college algebra / trigonometry class that provides mathematical skills necessary for further success in STEM (science, technology, engineering and mathematics), business and teaching majors. It satisfies the general education requirement. Moreover, MTH 123 prepares the students for the next level of courses in mathematics, usually pre-calculus. The prerequisite is MTH 030 or an appropriate score on the CUNY proficiency/placement exam taken by many students who stop at Regents A",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH123"
     ]
@@ -3027,7 +3233,7 @@
     "text": "Learning Goals and Assessment Plans\n\nSolve equations and manipulate expressions with linear, quadratic, exponential, logarithmic and trigonometric functions.\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors will tally their students’ scores on these questions, and will forward this data to the chair of the department pre-major curriculum committee\n\nAnalyze graphs of linear, quadratic, exponential, logarithmic and trigonometric functions.\n\nsame\n\nSolve application problems using these functions.\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH123"
     ]
@@ -3040,7 +3246,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH411"
     ]
@@ -3053,7 +3259,7 @@
     "text": "Required for the mathematics major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH334"
     ]
@@ -3066,7 +3272,7 @@
     "text": "Required for the mathematics major.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH334"
     ]
@@ -3079,7 +3285,7 @@
     "text": "Learning Goals and Assessment Plans\n\nThe student will be able to apply standard techniques for solving first-order ordinary differential equations (ODEs).\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nThe student will be able to apply ODEs to simple examples in mechanics (e.g., a harmonic oscillator) and biology (e.g., population dynamics).\n\nsame\n\nThe student will be able to represent a higher-order ODE as a system of lower-order ODEs\n\nsame\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH334"
     ]
@@ -3092,7 +3298,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:08 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH415"
     ]
@@ -3105,7 +3311,7 @@
     "text": "Test preparation for first Actuarial Exam",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH360"
     ]
@@ -3118,7 +3324,7 @@
     "text": "Test preparation for first Actuarial Exam",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH360"
     ]
@@ -3131,7 +3337,7 @@
     "text": "Learning Goals and Assessment Plans\n\nPrepare students to take exam 1\n\nWhen the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals. Instructors are responsible for tallying their students scores.\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH360"
     ]
@@ -3144,7 +3350,7 @@
     "text": "Learning Goals and Assessment Plans\n\nWhen assessment activities are done, the results will be summarized in memorandum form and filed with the department chairperson for record keeping purposes.\nInformation obtained from assessment will be used to assess and self-reflect on the success of the course and to make any necessary changes to improve teaching and learning effectiveness.\n\nLast updated Mon May 24 14:48:07 2010",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "LearningGoals",
       "Learning goals for MTH347"
     ]
@@ -3157,7 +3363,7 @@
     "text": "MTH 034 Elements of Intermediate Algebra [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 035 Intermediate Algebra [Catalog] [Syllabus] [Role/Learning Goals]\n\nA co-requisite course for MTH 123 students",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3169,7 +3375,7 @@
     "text": "MTH 034 Elements of Intermediate Algebra [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 035 Intermediate Algebra [Catalog] [Syllabus] [Role/Learning Goals]\n\nA co-requisite course for MTH 123 students",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3181,7 +3387,7 @@
     "text": "General education offerings\nThe College of Staten Island has general education requirements that have, among many others, a math component. The following courses are designed to satisfy this requirement for non-science majors. They are not intended as courses to prepare for the next level of study in mathematics. Most other 100-level math courses also satisfy this requirement.\n\nMTH 102 Mathematics for Liberal Arts Students [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 103 Mathematical Ideas [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 104 Thinking Mathematically [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 111 Introduction to Probability and Statistics with Integrated Review [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 113 Introduction to Probability and Statistics [Catalog] [Syllabus] [Role/Learning Goals]\nThis statistics course is taken for general education purposes by many students, including intended majors in nursing.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3193,7 +3399,7 @@
     "text": "Service courses\nThese courses are taught by the math class, but intended as a service for students intending to major in other disciplines.\n\nMTH 108 Medical Dosage Calculations [Catalog] [Syllabus] [Role/Learning Goals]\nThis course in only intended for nursing students.\nMTH 121 Finite Mathematics [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 122 Functions and Models in College Algebra [Catalog] [Syllabus] [Role/Learning Goals]\nThe course is intended primarily for students in social sciences or humanities; those planning to major in Science, Letters, and Society, or in business or STEM fields should consult the Catalog for the appropriate course.\nMTH 221 Applied Finite Mathematics and Business Calculus [Catalog] [Syllabus] [Role/Learning Goals]\nTogether, MTH 121 and MTH 221 are math courses intended to prepare Business students for their studies.\nMTH 217 Fundamentals of Mathematics I [Catalog] [Syllabus and Role/Learning Goals]\nMTH 218 Fundamentals of Mathematics II [Catalog] [Syllabus and Role/Learning Goals]\nTogether, MTH 217 and MTH 218 instruct potential SLS teachers in methods to teach mathematics.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3205,7 +3411,7 @@
     "text": "Pre-major math track\nThese courses are considered pre-major math course for math majors. They also are essential for non-math majors pursuing a degree in the sciences or perhaps business.\n\nMTH 123 College Algebra and Trigonometry [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 125 College Algebra and Trigonomety [Catalog] [Syllabus] [Role/Learning Goals]\n(A version of MTH 123 with more time on task.)\nMTH 130 Pre-Calculus Mathematics [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 214 Applied Statistics Using Computers [Catalog] [Syllabus] [Role/Learning Goals]\nThis course has many roles in the curriculum. For Biology students, it is an alternative to BIO 272. For Math majors it may be used as an alternate to CSC 126.\nMTH 230 Calculus I with Pre-Calculus [Catalog] [Syllabus] [Role/Learning Goals]\nA one-semester alternate to MTH 130 and 231 for students who receive an A or B in MTH 123.\nMTH 231 Analytic Geometry and Calculus I [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 229 Calculus Computer Laboratory [Catalog] [Syllabus] M-files [Role/Learning Goals]\nA computer lab accompanying MTH 230 or MTH 231. This is a stand-alone course and required for all students to graduate who need to earn credit in calculus, even transfer students.\nMTH 232 Analytic Geometry and Calculus II [Catalog] [Syllabus] [Role/Learning Goals] [Videos]\nMTH 233 Analytic Geometry and Calculus III [Catalog] Syllabus [Role/Learning Goals]\nMTH 235 Accelerated Calculus I [Catalog] [Syllabus]\n\nThe math major also has a computer requirement that may be satisfied by taking MTH 214 or\n\nCSC 126\nCSC/MTH 228",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3217,7 +3423,7 @@
     "text": "Required 300+ level math courses for math majors\nThe math major requires 6 non-elective, 300-level math courses.\n\nMTH 301 Introduction to Mathematical Proofs [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 311 Probability Theory and An Introduction to Mathematical Statistics [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 330 Applied Mathematical Analysis I [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 334 Differential Equations [Catalog] [Syllabus] [Role/Learning Goals]\nThe math major requires either MTH 330 or MTH 334; students cannot receive credit for both courses. MTH 330 is a six-credit course, as it also has a linear algebra component.\nMTH 338 Linear Algebra [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 339 Abstract Algebra I [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 341 Advanced Calculus I [Catalog] [Syllabus] [Role/Learning Goals]",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3229,7 +3435,7 @@
     "text": "Elective math courses\nThe math major also requires four 300-400 level courses to be chosen from the following list.\n\n300-level courses\n\nMTH 306 History of Mathematical Thought [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 329 Geometry [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 331 Applied Mathematical Analysis II [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 335 Numerical Analysis [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 337 Applied Combinatorics & Graph Theory [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 342 Advanced Calculus II [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 347 Number Theory [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 349 Cryptology [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 350 Mathematical Logic [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 370 Operations Research [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 372 Practical Machine Learning [Catalog] [Syllabus] [Role/Learning Goals]\n\n\n\n400-level courses\n\nMTH 410 Mathematical Statistics I [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 411 Mathematical Statistics II [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 415 Mathematical Biology [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 416 Mathematics of Finance [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 430 Partial Differential Equations [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 431 Complex Analysis [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 435 Nonlinear Dynamics and Chaos [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 437 Introduction to Mathematical Modeling [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 440 Foundations of Mathematics [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 441 Topology [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 442 Abstract Algebra [Catalog] [Syllabus] [Role/Learning Goals]\nMTH 445 Intro to Differential Geometry [Catalog] [Syllabus] [Role/Learning Goals]",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3241,7 +3447,7 @@
     "text": "500-level courses\nNew courses are given a 500-level designation until they have been regularized. The 500 designation does not indicate that the course is intended solely for math majors or is harder than a 400-level course.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3253,7 +3459,7 @@
     "text": "Graduate courses\nThe Department of Mathematics offers a few graduate-credit courses. Primarily these are designed as content courses for students pursuing a Masters degree in Education, although not exclusively.\nSee https://csi-graduate.catalog.cuny.edu/departments/MATH-CSI/courses for an online listing.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course List"
     ]
   },
@@ -3265,7 +3471,7 @@
     "text": "MTH020\nMTH030\nMTH034\nMTH035\nMTH102\nMTH103\nMTH104\nMTH108\nMTH109\nMTH111\nMTH113\nMTH121\nMTH122\nMTH123\nMTH125\nMTH130\nMTH214\nMTH217\nMTH218\nMTH221\nMTH223\nMTH229\nMTH230\nMTH231\nMTH232\nMTH233\nMTH301\nMTH311\nMTH329\nMTH330\nMTH331\nMTH335, MTH335alt\nMTH337\nMTH338\nMTH339\nMTH341\nMTH342\nMTH347\nMTH350\nMTH370\nMTH415\nMTH416\nMTH441\nMTH445\nMTH623\nTI82 Supplement",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "Course Syllabi"
     ]
   },
@@ -3277,7 +3483,7 @@
     "text": "There is a link to WeBWorK within the links\nPS: to gain access to lab computers on campus, see CSI’s helpdesk for information.\nRead how to enter answers in WeBWorK.",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "WeBWorK Comments"
     ]
   },
@@ -3289,7 +3495,7 @@
     "text": "csimovie.m",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH229"
     ]
   },
@@ -3301,7 +3507,7 @@
     "text": "MTH125_Sp22_Orientation\nMTH125_Sp22_Outline",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH125"
     ]
   },
@@ -3313,7 +3519,7 @@
     "text": "Course materials.\n\nOutline\nMth102-Supplmt-Mat.pdf\nMth102ExamReviews.pdf\nMth102Quiz-for-Supplmt-Mat.pdf",
     "crumbs": [
       "Undergraduate",
-      "Curriculum details",
+      "Course Materials",
       "MTH102"
     ]
   },
@@ -3386,210 +3592,56 @@
   {
     "objectID": "Undergraduate/independent-study.html",
     "href": "Undergraduate/independent-study.html",
-    "title": "Independent Study/MTH594",
+    "title": "Independent Study (MTH594)",
     "section": "",
     "text": "From the CSI catalog:\n\nTo arrange for such courses, students must take the initiative in approaching faculty sponsors and in defining the project.\n\n\nIndependent studies can be up to 4 credit hours.\nFaculty members will need to write a syllabus and evaluation criteria in consultation with the student.\n\nThe form for independent studies is located here and in general, such forms are found on the Faculty/Staff Resources page",
     "crumbs": [
       "Undergraduate",
-      "Independent Study/MTH594"
+      "Independent Study (MTH594)"
     ]
   },
   {
     "objectID": "Undergraduate/Career/index.html",
     "href": "Undergraduate/Career/index.html",
-    "title": "Career Resources for Math Undergrads",
+    "title": "Career Resources",
     "section": "",
     "text": "101 Careers in Mathematics edited by Andrew Stewart is an excellent resource containing essays describing the career paths of over 100 real people in a variety of industries. Access provided through the CSI library.\nWhat Can I Do With This Major. Another great online resource the college subscribes to. Information about broad industries and specific positions for math majors along with lists of potential employers and skills to develop.\n20 Best Jobs for Math Majors - Indeed including national averages and career advice.\nSome data from the Bureau of Labor Statistics about median pay, number of jobs, and employment change from year to year.\nThe AMS also has resources for undergraduates in mathematics.\n\nFeature column\nMath in the media\nMathematical moments\nAssistantships and graduate fellowships",
     "crumbs": [
       "Undergraduate",
-      "Career Resources for Math Undergrads"
+      "Career Resources"
     ]
   },
   {
-    "objectID": "Undergraduate/Awards/index.html",
-    "href": "Undergraduate/Awards/index.html",
-    "title": "Graduation and Departmental Awards",
+    "objectID": "Undergraduate/advising-resources.html",
+    "href": "Undergraduate/advising-resources.html",
+    "title": "Advising Resources",
     "section": "",
-    "text": "The Graduation Awards are given to our most outstanding graduates for that year. The Departmental Awards are given to outstanding students in their Sophomore or Junior years.",
+    "text": "This page provides contact information for math advisors and links to essential academic resources for planning your degree, tracking your progress, and exploring program options.",
     "crumbs": [
       "Undergraduate",
-      "Graduation and Departmental Awards"
+      "Advising Resources"
     ]
   },
   {
-    "objectID": "Undergraduate/Awards/index.html#section",
-    "href": "Undergraduate/Awards/index.html#section",
-    "title": "Graduation and Departmental Awards",
-    "section": "2023",
-    "text": "2023\n\nGraduation Awards\n\nMitchel Kharnak\nJohn Gambale\nJanet Akselrud\nMelissa Sorrentino\nFrederick Spreen\n\nDepartmental Awards\n\nKenny Feng\nJad Ibrahim\nMegan Trapanese",
+    "objectID": "Undergraduate/advising-resources.html#math-advisors",
+    "href": "Undergraduate/advising-resources.html#math-advisors",
+    "title": "Advising Resources",
+    "section": "Math Advisors",
+    "text": "Math Advisors\n\nAndras Balogh\nMath Advisor\nContact: mathadvisor@csi.cuny.edu\n\n\nJennifer Durando\nDirector of The Center for Advising and Academic Success (CASS)\nContact: Jennifer.Durando@csi.cuny.edu",
     "crumbs": [
       "Undergraduate",
-      "Graduation and Departmental Awards"
+      "Advising Resources"
     ]
   },
   {
-    "objectID": "Undergraduate/Awards/index.html#section-1",
-    "href": "Undergraduate/Awards/index.html#section-1",
-    "title": "Graduation and Departmental Awards",
-    "section": "2022",
-    "text": "2022\n\nGraduation Awards\n\nAmal Abdelaziz\nStivi Manoku\nJesse Dimino\nVincent Ndokaj\n\nDepartmental Awards\n\nJohn Galindo\nLaura Kaplan\nMathew Keeler\nBhavya Premachandran",
+    "objectID": "Undergraduate/advising-resources.html#useful-advising-links",
+    "href": "Undergraduate/advising-resources.html#useful-advising-links",
+    "title": "Advising Resources",
+    "section": "Useful Advising Links",
+    "text": "Useful Advising Links\nEssential online resources for academic planning, degree tracking, and program exploration.\n\nCUNYfirst\nCUNY’s student information system for course registration, grades, financial aid, and academic records.\n\n\nNavigate\nSchedule appointments with advisors, access academic planning tools, and connect with campus resources.\n\n\nDegreeWorks\nTrack your degree progress, see which requirements you’ve completed, and plan remaining courses for graduation.\n\n\nMajor Exploration Toolbox\nExplore different majors, career paths, and find resources to help you choose the right program for your goals.\n\n\nMath Department Programs\nBrowse all mathematics programs, degrees, and minors offered by the Department of Mathematics.\n\n\nCS-MTH Double Major\nRequirements and information for students pursuing a double major in Computer Science and Mathematics.\n\n\nFaculty Resources for Advising\nResources and information for faculty members who provide academic advising to students.",
     "crumbs": [
       "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-2",
-    "href": "Undergraduate/Awards/index.html#section-2",
-    "title": "Graduation and Departmental Awards",
-    "section": "2021",
-    "text": "2021\n\nGraduation Awards\n\nChukwurado Umeaka\nJustin Peterkin\nJoshua Higgins\n\nDepartmental Awards\n\nStivi Manoku\nSierra Arcuri\nJenna Calderon\nJesse Dimino",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-3",
-    "href": "Undergraduate/Awards/index.html#section-3",
-    "title": "Graduation and Departmental Awards",
-    "section": "2020",
-    "text": "2020\n\nGraduation Awards\n\nDajana Avxhi\nSerena Newman\nMitchel Weitzman\n\nDepartmental Awards\n\nIlmi Demirovic\nJoshua Higgins\nChinedu Okoye",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-4",
-    "href": "Undergraduate/Awards/index.html#section-4",
-    "title": "Graduation and Departmental Awards",
-    "section": "2019",
-    "text": "2019\n\nGraduation Awards\n\nNicholas Veneziano\nNicholas Borghese\nJing Gian\n\nDepartmental Awards\n\nDajana Avxhi\nChukwurado Umeaka\nMitchell Weitzman\nJinglin Ye",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-5",
-    "href": "Undergraduate/Awards/index.html#section-5",
-    "title": "Graduation and Departmental Awards",
-    "section": "2018",
-    "text": "2018\n\nGraduation Awards\n\nRobert Ferrando\nRayan Ibrahime\nConcetta Perito\nIrteza Syed\n\nDepartmental Awards\n\nRocco Fama\nNicholas Veneziano",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-6",
-    "href": "Undergraduate/Awards/index.html#section-6",
-    "title": "Graduation and Departmental Awards",
-    "section": "2017",
-    "text": "2017\n\nGraduation Awards\n\nChristopher Pinto\nTimothy Sweeney\nHeather Mak\nSarah Sietz\n\nDepartmental Awards\n\nJing Gian\nBrandon Lei\nSerena Newman\nConcetta Perito",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-7",
-    "href": "Undergraduate/Awards/index.html#section-7",
-    "title": "Graduation and Departmental Awards",
-    "section": "2016",
-    "text": "2016\n\nGraduation Awards\n\nKeith Thompson\nBassem Nawar\nQuixia Yang\nLilani Seneviratne\n\nDepartmental Awards\n\nRobert Ferrando\nSarah Sietz",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-8",
-    "href": "Undergraduate/Awards/index.html#section-8",
-    "title": "Graduation and Departmental Awards",
-    "section": "2015",
-    "text": "2015\n\nGraduation Awards\n\nArgenta Benis\nDanielle Auriti\nLydia Chung\nAngelo Rago\nJustin Van Wygerden\n\nDepartmental Awards\n\nBassem Nawar\nKeith Thompson\nMichelle Vann\nQiuxia Yang",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-9",
-    "href": "Undergraduate/Awards/index.html#section-9",
-    "title": "Graduation and Departmental Awards",
-    "section": "2014",
-    "text": "2014\n\nGraduation Awards\n\nScott Edkins\nYing Yu\nJenna Theuret\nSuzanne Frank\nItiel Cohen (Student Government Award)\n\nDepartmental Awards\n\nArgenta Benis\nLydia Chung\nSuada Hilili\nLinani Sereviratne",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-10",
-    "href": "Undergraduate/Awards/index.html#section-10",
-    "title": "Graduation and Departmental Awards",
-    "section": "2013",
-    "text": "2013\n\nGraduation Awards\n\nAnthony DeLuca\nAndrea Cella\nMichel Abdo\nElena Sverdlova\nAngelo Rago\n\nDepartmental Awards\n\nScott Edkins\nSuzanne Frank\nWilliam George\nAntonio Grasso",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-11",
-    "href": "Undergraduate/Awards/index.html#section-11",
-    "title": "Graduation and Departmental Awards",
-    "section": "2012",
-    "text": "2012\n\nGraduation Awards\n\nDaniel Kurzweil\nJaclyn Marzella\nSylvanna Salama\nAnnelise Kropp\nKatherine Stone\n\nDepartmental Awards\n\nYing Yu\nDanielle Aruti",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-12",
-    "href": "Undergraduate/Awards/index.html#section-12",
-    "title": "Graduation and Departmental Awards",
-    "section": "2011",
-    "text": "2011\n\nGraduation Awards\n\nAnna Theodoropoulos\nEnsela Mema\nIlirjana Duka\nRaechel Strobel\n\nDepartmental Awards\n\nElena Sverdlova\nAnthony DeLuca\nAndrea Cella",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-13",
-    "href": "Undergraduate/Awards/index.html#section-13",
-    "title": "Graduation and Departmental Awards",
-    "section": "2010",
-    "text": "2010\n\nGraduation Awards\n\nBernard Adamitey\nJonathan Maltz\nMouwafak Abbas\nMarilyn Schulz\n\nDepartmental Awards\n\nJenna Theuret\nCynthia Murillo\nAnnelise Kropp\nChristine Rivera",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-14",
-    "href": "Undergraduate/Awards/index.html#section-14",
-    "title": "Graduation and Departmental Awards",
-    "section": "2009",
-    "text": "2009\n\nGraduation Awards\n\nIsmael Yacabou Djima\nTony Ramirez\nJoseph Zancocchio\nArti Mela\n\nDepartmental Awards\n\nSylvana Salama\nTimothy Mullen\nDaniel Kurzweil",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
-    ]
-  },
-  {
-    "objectID": "Undergraduate/Awards/index.html#section-15",
-    "href": "Undergraduate/Awards/index.html#section-15",
-    "title": "Graduation and Departmental Awards",
-    "section": "2008",
-    "text": "2008\n\nGraduation Awards\n\nKaramatou Yacoubou Djima\nDeena Thengone\nVadim Plaxine\n\n\nGraduation Awards have included:\nThe Louis Blake Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Louis Blake, a member of the Mathematics Department from 1975 to 1985.\nThe Sherry Blackman Memorial Award is awarded by the faculty of the Mathematics Department to an outstanding graduating student in memory of Sherry Blackman, a member of the Mathematics Department from 1970 to 2007.\nThe CSI Auxiliary Services Corporation Award for Academic Excellence in Mathematics is awarded by the faculty to an outstanding graduating student.\nBenedict Carlat Memorial Award for Outstanding Work in Mathematics. Awarded to an outstanding graduating mathematics major selected by the faculty of the Mathematics Department. The award, established by the Carlat family, honors the memory of Benedict Carlat, a member of the Mathematics Department from 1962 to 1976, chairperson from 1968 to 1976, and who taught the first computer course at CSI.",
-    "crumbs": [
-      "Undergraduate",
-      "Graduation and Departmental Awards"
+      "Advising Resources"
     ]
   },
   {
