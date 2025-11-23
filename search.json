@@ -526,7 +526,7 @@
     "href": "Undergraduate/Courses/calculus-book-guide.html#instructors-using-achieve",
     "title": "Calculus Book/Software Guidelines for Calculus courses",
     "section": "Instructors using Achieve",
-    "text": "Instructors using Achieve\nStudents are required to buy Achieve which comes with a homework system and an online book. Here are the available options to buy Achieve:\nAchieve (1-term): (Bookstore ISBN: 9781319411657)\nAchieve (4-term): (Bookstore ISBN: 9781319438333)\nLoose-leaf + Achieve (1-term): (Bookstore ISBN: 9781319411671)\nLoose-leaf + Achieve (4-term): (Bookstore ISBN: 9781319438357)\n\nStudent Options:\n\nStudents taking only one semester of Calculus are suggested to buy the 1- term access to Achieve.\n\n& Students planning on taking more than one semester of Calculus are sug- gested to buy the 4-term access to Achieve, irrespective of whether students will enroll in Achieve sections or Webwork section in subsequent semesters.\n\n\nNote:\n\nAccess to the online book expires after Achieve subscription expires. If stu- dents want to have a hard copy of the book, students can choose the “Loose- leaf” option above.\nStudents planning on taking more than one semester of Calculus and en- rolled in an Achieve section can use their online book if they enroll in a Calculus Webwork section in subsequent semesters.\nStudents who are taking more than one semester of Calculus, and who have bought a 1-term access to Achieve, will be able to upgrade their Achieve subscriptions to 4-term access by paying the difference. Please contact Alex Markle directly at alex.markle@macmillan.com.",
+    "text": "Instructors using Achieve\nStudents are required to buy Achieve which comes with a homework system and an online book. Here are the available options to buy Achieve:\nAchieve (1-term): (Bookstore ISBN: 9781319411657)\nAchieve (4-term): (Bookstore ISBN: 9781319438333)\nLoose-leaf + Achieve (1-term): (Bookstore ISBN: 9781319411671)\nLoose-leaf + Achieve (4-term): (Bookstore ISBN: 9781319438357)",
     "crumbs": [
       "Undergraduate",
       "Course Materials",
@@ -538,7 +538,19 @@
     "href": "Undergraduate/Courses/calculus-book-guide.html#instructors-using-webwork",
     "title": "Calculus Book/Software Guidelines for Calculus courses",
     "section": "Instructors using WeBWorK:",
-    "text": "Instructors using WeBWorK:\nSince WeBWorK is free, students do not need to buy any homework system. However students are required to obtain the text book either through Achieve (as above) or a used book or rent a book.\note: Students planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.\n\nNote:\nStudents planning on taking more than one semester of Calculus and en- rolled in a Webwork section may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.",
+    "text": "Instructors using WeBWorK:\nSince WeBWorK is free, students do not need to buy any homework system. However students are required to obtain the text book either through Achieve (as above) or a used book or rent a book.",
+    "crumbs": [
+      "Undergraduate",
+      "Course Materials",
+      "Calculus Book/Software Guidelines for Calculus courses"
+    ]
+  },
+  {
+    "objectID": "Undergraduate/Courses/calculus-book-guide.html#student-options",
+    "href": "Undergraduate/Courses/calculus-book-guide.html#student-options",
+    "title": "Calculus Book/Software Guidelines for Calculus courses",
+    "section": "Student Options:",
+    "text": "Student Options:\nStudents taking only one semester of Calculus are suggested to buy the 1- term access to Achieve.\n\nAccess to the online book expires after Achieve subscription expires. If students want to have a hard copy of the book, students can choose the “Loose- leaf” option above.\n\n\n\n\n\n\n\nNoteStudents planning on taking more than one semester of Calculus:\n\n\n\nRecommended to buy the 4-term access to Achieve, irrespective of whether students will enroll in Achieve sections or Webwork sections in subsequent semesters.\n\nIf enrolled in an Achieve section, they can use their online book if they enroll in a Calculus Webwork section in subsequent semesters.\nIf they have bought a 1-term access to Achieve, they will be able to upgrade their Achieve subscriptions to a 4-term access by paying the difference. Please contact Alex Markle directly.\nIf enrolled in a Webwork section, they may be required to buy Achieve if they enroll in a Calculus Achieve section in subsequent semesters.",
     "crumbs": [
       "Undergraduate",
       "Course Materials",
@@ -3478,13 +3490,13 @@
   {
     "objectID": "Undergraduate/Courses/WeBWorK_Instructions/index.html",
     "href": "Undergraduate/Courses/WeBWorK_Instructions/index.html",
-    "title": "WeBWorK Comments",
+    "title": "WeBWorK Resources",
     "section": "",
-    "text": "There is a link to WeBWorK within the links\nPS: to gain access to lab computers on campus, see CSI’s helpdesk for information.\nRead how to enter answers in WeBWorK.",
+    "text": "Find WebWork links for specific math courses here: WeBWorK Courses\nRead How to Enter Answers in WeBWorK to learn how to enter expressions, symbols, functions, etc.\n\n\n\n\n\n\n\nNoteTo gain access to lab computers on campus:\n\n\n\nSee helpdesk for information.",
     "crumbs": [
       "Undergraduate",
       "Course Materials",
-      "WeBWorK Comments"
+      "WeBWorK Resources"
     ]
   },
   {
