@@ -1,21 +1,16 @@
 [
   {
-    "listing": "/People/staff/index.html",
+    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
     "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html",
-      "/People/staff/Carbanaro-Lewis.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/counted-out.html",
-      "/news/fall-games-2025.html",
-      "/news/roberttalk.html",
-      "/news/teha-pi-day.html",
-      "/news/pi-day-2025.html",
-      "/news/math-romance.html"
+      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
     ]
   },
   {
@@ -52,17 +47,23 @@
     ]
   },
   {
-    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
+    "listing": "/index.html",
     "items": [
-      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
+      "/news/pi-day-2026.html",
+      "/news/counted-out.html",
+      "/news/fall-games-2025.html",
+      "/news/roberttalk.html",
+      "/news/pi-day-2025.html",
+      "/news/teha-pi-day.html",
+      "/news/math-romance.html"
+    ]
+  },
+  {
+    "listing": "/People/staff/index.html",
+    "items": [
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html",
+      "/People/staff/Carbanaro-Lewis.html"
     ]
   }
 ]
