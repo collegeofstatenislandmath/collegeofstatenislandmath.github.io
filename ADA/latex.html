@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -74,10 +74,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b494e76108af46691b22740dd93f1e8e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dfa4f82648d256e300e5ff170a37f900.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -271,74 +271,55 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="notes-on-latex" class="level1">
 <h1>Notes on LaTeX</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>The support of tagged PDF within is ongoing. The most up-to-date report is <a href="https://www.latex-project.org/publications/indexbytopic/pdf/">available here</a> (direct link to <a href="https://www.latex-project.org/publications/2024-FMi-DPC-UFi-JAW-doceng24.pdf">2024 PDF</a>).</p>
-<p>The Overleaf team also has an <a href="https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility#Introducing_tagged_PDF">extensive document</a> on this topic; while they don’t give many concrete suggestions for authors, they do provide a lot of info about the challenges and explanations of the internals and PDF standards.</p>
-<p>We value any testing for the advice on this page. Please open a <a href="https://github.com/collegeofstatenislandmath/collegeofstatenislandmath.github.io/issues">Github issue</a> if you have suggestions.</p>
-</div>
-</div>
-<blockquote class="blockquote">
-<p>Because LaTeX was designed as a typesetting program, PDF documents created using LaTeX do not include the document structure and tagging required for accessibility by default. It is possible to create accessible PDF documents using LaTeX but users will need to use additional LaTeX packages and should be aware of accessibility standards. The Accessibility package in LaTeX can be used to add the structure, tagging, and alt text that PDF’s created with LaTeX lack.</p>
-<p>From <a href="https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771">LaTeX Guides</a></p>
-</blockquote>
-<p>Here is a sample preamble with additions for accessibility:</p>
+<p><strong>Updated April, 2026</strong></p>
+<section id="basic-setup" class="level2">
+<h2 class="anchored" data-anchor-id="basic-setup">Basic setup</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode tex code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">\DocumentMetadata</span>{</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    testphase=phase-III, <span class="co">% enables tagging</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    pdfstandard=A-2b     <span class="co">% declares that the pdf supports the A-2b standard</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>                         <span class="co">% note: this is only metadata, it does not enforce</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>                         <span class="co">% nor test anything</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="bu">\documentclass</span>{<span class="ex">article</span>}     <span class="co">% unclear if amsart is supported, needs more testing</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>[utf8]{<span class="ex">inputenc</span>} <span class="co">% unrelated to accessibility</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">hyperref</span>}</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">\hypersetup</span>{</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    pdflang=en-US,</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    pdftitle={&lt;title of PDF&gt;},</span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    pdfauthor={&lt;author&gt;}</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Documentation for supported key/values for <code>\DocumentMetadata</code> <a href="https://texdoc.org/serve/documentmetadata-support/0">is given here</a>.</p>
-</div>
-</div>
-<section id="additional-recommendations" class="level2">
-<h2 class="anchored" data-anchor-id="additional-recommendations">Additional recommendations:</h2>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  lang        = en-US,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  pdfstandard = ua-2,</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  pdfstandard = a-4f, <span class="co">%or a-4</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  tagging=on,</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  tagging-setup={math/setup=mathml-SE}</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="bu">\documentclass</span>{<span class="ex">article</span>}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>[utf8]{<span class="ex">inputenc</span>}</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="bu">\usepackage</span>{<span class="ex">hyperref</span>}</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">\hypersetup</span>{</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    pdflang=en-US,</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    pdftitle={&lt;title of PDF&gt;},</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    pdfauthor={&lt;author&gt;}</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<section id="notes" class="level3">
+<h3 class="anchored" data-anchor-id="notes">Notes</h3>
 <ul>
-<li>Use the most up-to-date version of LuaLaTeX/PDFLaTeX available.</li>
-<li>LuaLaTeX or PDFLaTeX support tagging, other engines (e.g.&nbsp;XeTeX) are untested and may not work</li>
-<li>As with HTML, you should write your document using structured tags (<code>\section</code>, <code>\subsection</code>) so that these can be communicated to e-readers.</li>
-<li>Likewise, pictures should include alt-text, e.g.&nbsp;<code>\includegraphic[alt={Rubber Duck}]{ducky.jpg}</code></li>
-<li>There is also an early prototype for tagging formulas. Use <code>\DocumentMetadata{testphase={phase-III,math}}</code> to load.</li>
-<li>See the <a href="https://www.latex-project.org/publications/indexbytopic/pdf/">LaTeX project’s report</a> for full details</li>
+<li>The <code>hypersetup</code> part sets a title in the PDF’s metadata which Brightspace’s checker flags if this isn’t present.</li>
+<li>Compile with LuaLaTeX</li>
+<li>Use the most up-to-date version of LuaLaTeX available.</li>
 </ul>
+</section>
 </section>
 <section id="further-reading" class="level2">
 <h2 class="anchored" data-anchor-id="further-reading">Further reading</h2>
-<p>Some links of interest (re: accessible LaTeX):</p>
 <ul>
-<li><p><a href="https://www.ams.org/journals/notices/202301/rnoti-p68.pdf">https://www.ams.org/journals/notices/202301/rnoti-p68.pdf</a></p></li>
-<li><p><a href="https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771">https://libguides.lib.msu.edu/c.php?g=995742&amp;p=8207771</a></p></li>
-<li><p><a href="https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files">https://tex.stackexchange.com/questions/261537/a-guide-on-how-to-produce-accessible-pdf-files</a></p></li>
-<li><p><a href="https://shen.hong.io/reproducible-pdfa-compliant-latex/">PDF-A Compliant LaTeX</a></p></li>
+<li><a href="https://docs.overleaf.com/writing-and-editing/creating-accessible-pdfs">Overleaf documentation</a></li>
+<li>based on the <a href="https://latex3.github.io/tagging-project/documentation/usage-instructions">LaTeX Project’s documentation</a></li>
+<li><a href="https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility">Overleaf’s article digging deeper</a></li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Read the Overleaf or LaTeX project for more info on tables, images, document structure, etc.</p>
+</div>
+</div>
 
 
 </section>
