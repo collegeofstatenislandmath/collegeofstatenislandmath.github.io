@@ -6,9 +6,42 @@
       "/news/pi-day-2026.html",
       "/news/fall-games-2025.html",
       "/news/roberttalk.html",
-      "/news/pi-day-2025.html",
       "/news/teha-pi-day.html",
+      "/news/pi-day-2025.html",
       "/news/math-romance.html"
+    ]
+  },
+  {
+    "listing": "/People/faculty/index.html",
+    "items": [
+      "/People/faculty/Balogh-Andras.html",
+      "/People/faculty/Champanerkar-Abhijit.html",
+      "/People/faculty/Conidis-Chris.html",
+      "/People/faculty/Foldes-Antonia.html",
+      "/People/faculty/Fuchs-Gunter.html",
+      "/People/faculty/Gunn-Sera.html",
+      "/People/faculty/Huang-Zheng.html",
+      "/People/faculty/Johnson-Tobias.html",
+      "/People/faculty/Kofman-Ilya.html",
+      "/People/faculty/Lancellotti-Carlo.html",
+      "/People/faculty/Li-Freda.html",
+      "/People/faculty/Li-Wenjuan.html",
+      "/People/faculty/Lucia-Marcello.html",
+      "/People/faculty/Maher-Joseph.html",
+      "/People/faculty/Misra-Prabudh.html",
+      "/People/faculty/OBryant-Kevin.html",
+      "/People/faculty/Poje-Andrew.html",
+      "/People/faculty/Pribitkin-Wladimir.html",
+      "/People/faculty/Quinn-Joseph.html",
+      "/People/faculty/Raychaudhuri-Arundhati.html",
+      "/People/faculty/Rosen-Jay.html",
+      "/People/faculty/Schaefer-Tobias.html",
+      "/People/faculty/Talafha-Mohammad.html",
+      "/People/faculty/Tesdall-Allen.html",
+      "/People/faculty/Vejdemo-Johansson-Mikael.html",
+      "/People/faculty/Verzani-John.html",
+      "/People/faculty/Vukadinovic-Jesenko.html",
+      "/People/faculty/Wollman-Stephen.html"
     ]
   },
   {
@@ -31,39 +64,6 @@
       "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
       "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
       "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
-    ]
-  },
-  {
-    "listing": "/People/faculty/index.html",
-    "items": [
-      "/People/faculty/Balogh-Andras.html",
-      "/People/faculty/Champanerkar-Abhijit.html",
-      "/People/faculty/Conidis-Chris.html",
-      "/People/faculty/Foldes-Antonia.html",
-      "/People/faculty/Fuchs-Gunter.html",
-      "/People/faculty/Gunn-Sera.html",
-      "/People/faculty/Huang-Zheng.html",
-      "/People/faculty/Johnson-Tobias.html",
-      "/People/faculty/Kofman-Ilya.html",
-      "/People/faculty/Lancellotti-Carlo.html",
-      "/People/faculty/Li-Wenjuan.html",
-      "/People/faculty/Li-Freda.html",
-      "/People/faculty/Lucia-Marcello.html",
-      "/People/faculty/Maher-Joseph.html",
-      "/People/faculty/Misra-Prabudh.html",
-      "/People/faculty/OBryant-Kevin.html",
-      "/People/faculty/Poje-Andrew.html",
-      "/People/faculty/Pribitkin-Wladimir.html",
-      "/People/faculty/Quinn-Joseph.html",
-      "/People/faculty/Raychaudhuri-Arundhati.html",
-      "/People/faculty/Rosen-Jay.html",
-      "/People/faculty/Schaefer-Tobias.html",
-      "/People/faculty/Talafha-Mohammad.html",
-      "/People/faculty/Tesdall-Allen.html",
-      "/People/faculty/Vejdemo-Johansson-Mikael.html",
-      "/People/faculty/Verzani-John.html",
-      "/People/faculty/Vukadinovic-Jesenko.html",
-      "/People/faculty/Wollman-Stephen.html"
     ]
   }
 ]
