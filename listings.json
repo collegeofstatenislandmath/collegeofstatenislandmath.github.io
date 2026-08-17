@@ -1,14 +1,9 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/People/staff/index.html",
     "items": [
-      "/news/counted-out.html",
-      "/news/pi-day-2026.html",
-      "/news/fall-games-2025.html",
-      "/news/roberttalk.html",
-      "/news/pi-day-2025.html",
-      "/news/teha-pi-day.html",
-      "/news/math-romance.html"
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html"
     ]
   },
   {
@@ -26,6 +21,18 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/news/counted-out.html",
+      "/news/pi-day-2026.html",
+      "/news/fall-games-2025.html",
+      "/news/roberttalk.html",
+      "/news/pi-day-2025.html",
+      "/news/teha-pi-day.html",
+      "/news/math-romance.html"
+    ]
+  },
+  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Balogh-Andras.html",
@@ -38,8 +45,8 @@
       "/People/faculty/Johnson-Tobias.html",
       "/People/faculty/Kofman-Ilya.html",
       "/People/faculty/Lancellotti-Carlo.html",
-      "/People/faculty/Li-Wenjuan.html",
       "/People/faculty/Li-Freda.html",
+      "/People/faculty/Li-Wenjuan.html",
       "/People/faculty/Lucia-Marcello.html",
       "/People/faculty/Maher-Joseph.html",
       "/People/faculty/Misra-Prabudh.html",
@@ -56,13 +63,6 @@
       "/People/faculty/Verzani-John.html",
       "/People/faculty/Vukadinovic-Jesenko.html",
       "/People/faculty/Wollman-Stephen.html"
-    ]
-  },
-  {
-    "listing": "/People/staff/index.html",
-    "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html"
     ]
   }
 ]
