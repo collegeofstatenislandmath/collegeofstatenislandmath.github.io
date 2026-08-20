@@ -2321,7 +2321,7 @@
     "href": "Undergraduate/Courses/WeBWorK_Instructions/index.html",
     "title": "WeBWorK Resources",
     "section": "",
-    "text": "Find WebWork links for specific math courses here: WeBWorK Courses\nRead How to Enter Answers in WeBWorK to learn how to enter expressions, symbols, functions, etc.\n\n\n\n\n\n\n\nNoteTo gain access to lab computers on campus:\n\n\n\nSee helpdesk for information.",
+    "text": "Find WebWork links for specific math courses here: WeBWorK Courses\nRead How to Enter Answers in WeBWorK to learn how to enter expressions, symbols, functions, etc.\n\n\n\n\n\n\n\nNoteTo gain access to lab computers on campus:\n\n\n\nSee helpdesk for information.\n\n\n\nFor instructors: how to link WeBWorK to Brightspace\n\nThis will automatically create accounts for students when they click the Brightspace link. Their username will be their CUNY login (firstname.lastname##) and they can set a password to enable them to login without having to first go through Brightspace.\nNote: in the third step, if no Context ID is shown, wait a bit and try again. I ran into this issue and it resolved on its own the next time I logged into Brightspace.",
     "crumbs": [
       "Undergraduate",
       "Course Materials",
