@@ -1856,7 +1856,7 @@
     "href": "WeBWorK/courses.html#login-instructions",
     "title": "WebWork at CSI",
     "section": "Login instructions",
-    "text": "Login instructions\nStudent login id’s will be available by first day of class.\n\n\n\n\n\n\nImportantPlease note the new login instructions, starting in Fall 2025 semester:\n\n\n\nYour username and password are your 8-digit Student ID.\nFor example, if your student ID is 12345678, you would simply enter\nusername: 12345678\npassword: 12345678\n\n\nPlease change your password upon first logging in, make a note and keep it in a safe place."
+    "text": "Login instructions\nStudent login id’s will be available by first day of class.\n\n\n\n\n\n\nImportantPlease note the new login instructions, starting in Fall 2026 semester:\n\n\n\nStudents: You will need to access WeBWorK first through Brightspace in order to create an account. After you have done that, you will be able to set a password under Account Settings and then you can bookmark your class’s WeBWorK link and log in with the Username: firstname.lastname## (the same as you log into Brightspace with).\nInstructors: please follow the instructions here to link WeBWorK and Brightspace.\n\n\nPlease change your password upon first logging in, make a note and keep it in a safe place."
   },
   {
     "objectID": "WeBWorK/courses.html#fall-2026",
