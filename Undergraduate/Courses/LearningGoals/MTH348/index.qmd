@@ -1,0 +1,39 @@
+---
+title: Learning goals for MTH348
+order: 348
+---
+
+## Role in Curriculum
+
+Data science, machine learning and AI are increasingly important technologies with major impacts. An effective
+understanding of the underlying algorithms and implementation difficulties requires a deeper understanding of linear
+algebra than that provided by the current linear algebra course MTH 338. The aim of this course is to provide the
+additional foundational concepts needed, with an emphasis on effective computational methods.  In particular, this
+course aims to prepare our majors for further study at the graduate level in data science and AI.
+
+## Learning Goals and Assessment
+
+> Students will be able to find canonical forms for matrices
+
+When the class is being assessed, the final exams will include embedded questions to assess student performance on these topic-specific learning goals.
+
+> Students will be able to find exponentials of matrices.
+
+Same.
+
+> Students will be able to apply factorization algorithms.
+
+Same.
+
+> Students will be able to apply principal component analysis algorithms.
+
+Same.
+
+----
+
+
+When assessment activities are done, the results will be summarized in memorandum form and filed with the department
+chairperson for record keeping purposes.
+
+Information obtained from assessment will be used to assess and self-reflect on the success of the course and to make
+any necessary changes to improve teaching and learning effectiveness.

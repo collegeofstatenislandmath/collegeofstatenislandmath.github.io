@@ -295,7 +295,10 @@ from the following list.
     Goals\]](LearningGoals/MTH347)
 
 -   MTH 348 *Computational Linear Algebra*
-    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses/1584931/general-aoYks)
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20348)
+    [\[Syllabus\]](Syllabi/MTH348-syllabus.pdf)
+    [\[Role/Learning
+    Goals\]](LearningGoals/MTH348)
 
 -   MTH 349 *Cryptology*
     [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20349)

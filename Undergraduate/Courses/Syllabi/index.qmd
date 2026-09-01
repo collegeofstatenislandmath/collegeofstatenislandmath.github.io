@@ -41,6 +41,7 @@ order: 1
 * [MTH341](MTH341-syllabus.pdf)
 * [MTH342](MTH342-syllabus.pdf)
 * [MTH347](MTH347-syllabus.pdf)
+* [MTH348](MTH348-syllabus.pdf)
 * [MTH350](MTH350-syllabus.pdf)
 * [MTH370](MTH370-syllabus.pdf)
 * [MTH415](MTH415-syllabus.pdf)
