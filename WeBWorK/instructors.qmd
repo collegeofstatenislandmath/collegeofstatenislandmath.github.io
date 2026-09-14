@@ -1,6 +1,3 @@
-
------------------------------------
-
 # Notes for instructors using WeBWorK and Brightspace
 
 As of Fall 2026, we will be using Brightspace as a front end for WeBWorK.  Students will not have a 

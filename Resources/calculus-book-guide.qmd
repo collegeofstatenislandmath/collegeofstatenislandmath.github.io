@@ -1,0 +1,25 @@
+---
+title: Calculus Book/Software Guidelines for Calculus courses
+---
+
+Calculus instructors have an option of using Achieve or Webworks for their Calculus sections.
+
+## Instructors using Achieve
+
+Students are required to buy Achieve which comes with a homework system and an online book. Here are the available options to buy Achieve:
+
+Achieve (1-term):  (Bookstore ISBN: 9781319411657)
+
+Achieve (4-term):  (Bookstore ISBN: 9781319438333)
+
+Loose-leaf + Achieve (1-term):  (Bookstore ISBN: 9781319411671)
+
+Loose-leaf + Achieve (4-term): (Bookstore ISBN: 9781319438357)
+
+## Instructors using WeBWorK:
+
+Since WeBWorK is free, students do not need to buy any homework system. However students are required to obtain the text book either through Achieve (as above) or a used book or rent a book.
+
+## For Students
+
+[Purchasing Recommendations](/Undergraduate/Courses/calculus-book-guide.qmd)
