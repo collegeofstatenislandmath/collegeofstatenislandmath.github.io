@@ -5,7 +5,6 @@ title: Resources for Instructors
 ## General
 
 * [Teaching Best practices](BestPracticesTeaching.pdf)
-* [Accessibility](/ADA/)
 * [Advising Documents](/Undergraduate/AdvisingDocuments/)
 
 ### External Links
@@ -25,3 +24,8 @@ title: Resources for Instructors
 * [MTH123](./MTH123/)
 * [MTH125](./MTH125/)
 * [MTH229](./MTH229/)
+
+## Software
+
+* [Accessibility](/ADA/)
+* [How to set up WeBWorK in Brightspace](/WeBWorK/instructors.html)
