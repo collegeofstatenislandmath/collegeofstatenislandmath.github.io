@@ -12,7 +12,6 @@ about:
 
 Differential Geometry and Geometric Analysis
 
-
 ## Contacts
 
 <i class="bi bi-door-open"></i> **Office** | 1S-233 <br/>

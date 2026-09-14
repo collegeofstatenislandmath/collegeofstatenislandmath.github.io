@@ -2,7 +2,7 @@
 title: Jesenko Vukadinovic
 image: ./default.png
 image-alt: Jesenko Vukadinovic
-description: Associate Professor
+description: Professor
 lastname: Vukadinovic
 about:
   template: solana
