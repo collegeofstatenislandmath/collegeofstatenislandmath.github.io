@@ -12,7 +12,6 @@ about:
 
 Nonlinear hyperbolic conservation laws, numerical methods for hyperbolic problems
 
-
 ## Contacts
 
 <i class="bi bi-door-open"></i> **Office** | 1S-210 <br/>

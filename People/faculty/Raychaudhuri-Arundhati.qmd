@@ -12,7 +12,6 @@ about:
 
 Graph Theory and Discrete Mathematics
 
-
 ## Contacts
 
 <i class="bi bi-door-open"></i> **Office** | 1S-211 <br/>

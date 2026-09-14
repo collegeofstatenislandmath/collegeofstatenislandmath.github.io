@@ -12,7 +12,6 @@ about:
 
 Applied Algebraic Topology and Topological Data Analysis
 
-
 ## Contacts
 
 <i class="bi bi-door-open"></i> **Office** | 1S-208 <br/>
