@@ -15,13 +15,6 @@
     ]
   },
   {
-    "listing": "/People/staff/index.html",
-    "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html"
-    ]
-  },
-  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Balogh-Andras.html",
@@ -52,6 +45,13 @@
       "/People/faculty/Verzani-John.html",
       "/People/faculty/Vukadinovic-Jesenko.html",
       "/People/faculty/Wollman-Stephen.html"
+    ]
+  },
+  {
+    "listing": "/People/staff/index.html",
+    "items": [
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html"
     ]
   }
 ]
