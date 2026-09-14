@@ -1,0 +1,63 @@
+:root {
+    --paper: #fafaf8;
+    --ink: #16202b;
+    --ink-muted: #55606b;
+    --rule: #d9d4c6;
+    --raheel: #3f5c46;
+    --ian: #7a4b39;
+    --remote: #8a6a1f;
+    --remote-bg: #fbf3df;
+    --focus: #1d5b8c;
+}
+
+thead th {
+    text-align: left;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--ink-muted);
+    padding: 0 0 0.6rem;
+    border-bottom: 1px solid var(--ink);
+}
+
+tbody th,
+tbody td {
+    text-align: left;
+    vertical-align: top;
+    padding: 1rem 0.6rem 1rem 0;
+    border-bottom: 1px solid var(--rule);
+}
+
+.tutor {
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0.1rem 0.5rem;
+    border-radius: 3px;
+    white-space: nowrap;
+}
+
+.tutor.raheel {
+    color: var(--raheel);
+    background: color-mix(in srgb, var(--raheel) 12%, white);
+}
+
+.tutor.ian {
+    color: var(--ian);
+    background: color-mix(in srgb, var(--ian) 12%, white);
+}
+
+.time {
+    color: var(--ink);
+    font-size: 0.98rem;
+}
+
+.remote-row td {
+    background: var(--remote-bg);
+}
+
+.remote-badge {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--remote);
+    margin-right: 0.5rem;
+}
