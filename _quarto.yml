@@ -28,6 +28,8 @@ website:
           - People/staff/index.qmd
       - text: "Undergraduate"
         href: Undergraduate/index.qmd
+      - text: "Instructor Resources"
+        href: Resources/index.qmd
       - text: "Courses"
         href: Undergraduate/Courses/course_list.qmd
       - text: TEHA

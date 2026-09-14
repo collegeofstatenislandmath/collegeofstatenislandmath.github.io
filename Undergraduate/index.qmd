@@ -15,6 +15,12 @@ The Department of Mathematics has around 70 declared majors at any given time an
 - [Independent study courses (MTH594)](independent-study.qmd)
 - [Advising documents](advising-resources.qmd)
 
+### External Resources
+
+- [Grade Appeal](https://csi-undergraduate.catalog.cuny.edu/pages/8GBeppsHt5vr1bmqpDay)
+- [Registrar FAQ](https://www.csi.cuny.edu/students/registrar/frequently-asked-questions)
+- [Registrar Forms](https://www.csi.cuny.edu/students/registrar/forms-records-update)
+
 ## Opportunities & Resources
 
 - [Career opportunities](Career)

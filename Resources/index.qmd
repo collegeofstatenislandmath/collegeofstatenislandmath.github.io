@@ -1,0 +1,27 @@
+---
+title: Resources for Instructors
+---
+
+## General
+
+* [Teaching Best practices](BestPracticesTeaching.pdf)
+* [Accessibility](/ADA/)
+* [Advising Documents](/Undergraduate/AdvisingDocuments/)
+
+### External Links
+
+* [Registrar Faculty/Staff Resources](https://www.csi.cuny.edu/faculty-staff/facultystaff-resources)
+* [Registrar Faculty/Staff FAQ](https://www.csi.cuny.edu/students/registrar/frequently-asked-questions#faculty)
+
+## Course Info
+
+* [Syllabi](/Undergraduate/Courses/Syllabi/)
+* [Calculus book guide](calculus-book-guide.qmd)
+
+### Selected Course Material/Syllabus Templates
+
+* [MTH113](./MTH113/)
+* [MTH122](./MTH122/)
+* [MTH123](./MTH123/)
+* [MTH125](./MTH125/)
+* [MTH229](./MTH229/)

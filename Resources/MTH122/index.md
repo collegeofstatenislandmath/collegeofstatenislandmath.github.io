@@ -30,4 +30,3 @@ order: 122
 * [LOGS_SUPPLEMENT.pptx](./LOGS_SUPPLEMENT.pptx)
 * [Mth122_Orientation.pdf](./Mth122_Orientation.pdf)
 * [MTH122.pdf](./MTH122.pdf)
-* 
