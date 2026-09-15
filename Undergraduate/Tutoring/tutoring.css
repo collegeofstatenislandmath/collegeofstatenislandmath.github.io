@@ -10,6 +10,14 @@
     --focus: #1d5b8c;
 }
 
+caption {
+    color: var(--ink-muted);
+}
+
+table {
+    width: 100%;
+}
+
 thead th {
     text-align: left;
     font-size: 0.85rem;
@@ -45,6 +53,18 @@ tbody td {
     background: color-mix(in srgb, var(--ian) 12%, white);
 }
 
+.block {
+    display: flex;
+    justify-content: space-between;
+    width: 13rem;
+}
+
+.remote-block {
+    display: flex;
+    justify-content: space-between;
+    width: 15rem;
+}
+
 .time {
     color: var(--ink);
     font-size: 0.98rem;
@@ -52,12 +72,4 @@ tbody td {
 
 .remote-row td {
     background: var(--remote-bg);
-}
-
-.remote-badge {
-    display: inline-block;
-    font-weight: 600;
-    font-size: 0.9rem;
-    color: var(--remote);
-    margin-right: 0.5rem;
 }
