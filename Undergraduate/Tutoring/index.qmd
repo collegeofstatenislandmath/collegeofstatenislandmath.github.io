@@ -18,56 +18,90 @@ The schedule posts here, and on the door of room 1S-214. Please Check back for f
 ## Tutoring
 
 <table>
-    <caption>Weekly tutor availability</caption>
+    <caption>Weekly tutoring schedule by day, tutor, and time</caption>
     <thead>
         <tr>
             <th scope="col">Day</th>
-            <th scope="col">Tutoring hours</th>
+            <th scope="col">Tutor</th>
+            <th scope="col">Time</th>
+            <th scope="col">Mode</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th scope="row">Monday</th>
-            <td>
-                <div class="block"><span class="tutor raheel">Raheel</span><span class="time">9:30 –
-                        12:30</span></div>
-                <div class="block"><span class="tutor ian">Ian</span><span class="time">1:20 – 2:20</span>
-                </div>
-                <div class="block"><span class="tutor raheel">Raheel</span><span class="time">2:30 –
-                        4:30</span></div>
-            </td>
+            <th scope="row" rowspan="3">Monday</th>
+            <td>Raheel</td>
+            <td>9:30&nbsp;AM&ndash;12:30&nbsp;PM</td>
+            <td>In person</td>
         </tr>
-        <tr class="remote-row">
+        <tr>
+            <td>Ian</td>
+            <td>1:20&nbsp;PM&ndash;2:20&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+        <tr>
+            <td>Stivi</td>
+            <td>6:30&nbsp;PM&ndash;8:30&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+
+        <tr>
             <th scope="row">Tuesday</th>
+            <td>Raheel</td>
+            <td>2:30&nbsp;PM&ndash;4:30&nbsp;PM</td>
             <td>
-                <div  class="remote-block"><span class="tutor raheel">Raheel</span><span class="time">2:30 – 4:30 <a href="https://bit.ly/4A3Wda9">(Remote)</a></span>
-                </div>
+                <span class="mode-remote">Remote</span><br>
+                <a href="https://bit.ly/4A3Wda9">https://bit.ly/4A3Wda9</a>
             </td>
         </tr>
+
         <tr>
-            <th scope="row">Wednesday</th>
-            <td>
-                <div class="block"><span class="tutor raheel">Raheel</span><span class="time">9:30 –
-                        12:30</span></div>
-                <div class="block"><span class="tutor ian">Ian</span><span class="time">1:20 – 4:20</span>
-                </div>
-            </td>
+            <th scope="row" rowspan="3">Wednesday</th>
+            <td>Raheel</td>
+            <td>9:30&nbsp;AM&ndash;12:30&nbsp;PM</td>
+            <td>In person</td>
         </tr>
         <tr>
-            <th scope="row">Thursday</th>
-            <td>
-                <div class="block"><span class="tutor raheel">Raheel</span><span class="time">9:30 –
-                        12:30</span></div>
-                <div class="block"><span class="tutor ian">Ian</span><span class="time">12:20 – 4:20</span>
-                </div>
-            </td>
+            <td>Ian</td>
+            <td>1:20&nbsp;PM&ndash;4:20&nbsp;PM</td>
+            <td>In person</td>
         </tr>
         <tr>
-            <th scope="row">Friday</th>
+            <td>Stivi</td>
+            <td>1:30&nbsp;PM&ndash;4:30&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+
+        <tr>
+            <th scope="row" rowspan="3">Thursday</th>
+            <td>Raheel</td>
+            <td>9:30&nbsp;AM&ndash;12:30&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+        <tr>
+            <td>Ian</td>
+            <td>12:20&nbsp;PM&ndash;4:20&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+        <tr>
+            <td>Stivi</td>
+            <td>2:30&nbsp;PM&ndash;4:30&nbsp;PM</td>
             <td>
-                <div class="block"><span class="tutor ian">Ian</span><span class="time">12:20 – 3:50</span>
-                </div>
+                <span class="mode-remote">Remote</span><br>
+                <a href="https://bit.ly/4AdIVrD">https://bit.ly/4AdIVrD</a>
             </td>
+        </tr>
+
+        <tr>
+            <th scope="row" rowspan="2">Friday</th>
+            <td>Ian</td>
+            <td>12:20&nbsp;PM&ndash;3:50&nbsp;PM</td>
+            <td>In person</td>
+        </tr>
+        <tr>
+            <td>Stivi</td>
+            <td>12:30&nbsp;PM&ndash;4:30&nbsp;PM</td>
+            <td>In person</td>
         </tr>
     </tbody>
 </table>
