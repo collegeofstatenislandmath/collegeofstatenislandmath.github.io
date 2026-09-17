@@ -74,8 +74,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
@@ -665,6 +667,12 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header> 
       <div class="about-contents"><main class="content" id="quarto-document-content">
+<script>
+  Sa11y.Lang.addI18n(Sa11yLangEn.strings);
+  const sa11y = new Sa11y.Sa11y({
+    checkRoot: "body",
+  });
+</script>
 <p>Every m by n matrix A leads to two orthogonal subspaces of n-dimensional space (the row space and the nullspace of A) and two orthogonal subspaces of m- dimensional space (the row space and the nullspace of A). Then the five great factorizations of A create better and better bases for these four subspaces. This is pure linear algebra but it has very valuable applications. The winners are orthonormal bases of v’s and u’s such that each Avᵢ = sᵢuᵢ.</p>
 
 

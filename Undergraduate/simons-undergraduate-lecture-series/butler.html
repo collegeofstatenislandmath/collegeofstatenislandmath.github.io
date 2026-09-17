@@ -74,8 +74,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed fullcontent quarto-light">
@@ -665,6 +667,12 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header> 
       <div class="about-contents"><main class="content" id="quarto-document-content">
+<script>
+  Sa11y.Lang.addI18n(Sa11yLangEn.strings);
+  const sa11y = new Sa11y.Sa11y({
+    checkRoot: "body",
+  });
+</script>
 <p>Juggling has been performed for thousands of years, almost as long as mathematics has been studied. Only in the last few decades have these two subjects come together and this has helped to develop new patterns and ideas for juggling. We will cover the basics, and show how to discover new juggling patterns. Steve Received his Ph.D.&nbsp;in Mathematics at University of California, San Diego. His primary mathematical interests are spectral graph theory, enumerative combinatorics, mathematics of juggling, discrete geometry, and generally mathematics of fun things.</p>
 
 

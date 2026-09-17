@@ -73,8 +73,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/combine/gh/ryersondmp/sa11y@4.0.5/dist/js/lang/en.umd.js,gh/ryersondmp/sa11y@4.0.5/dist/js/sa11y.umd.min.js"></script>
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryersondmp/sa11y@4.0.5/dist/css/sa11y.min.css">
 <link rel="stylesheet" href="tutoring.css">
 </head>
 
@@ -643,6 +645,12 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+  Sa11y.Lang.addI18n(Sa11yLangEn.strings);
+  const sa11y = new Sa11y.Sa11y({
+    checkRoot: "body",
+  });
+</script>
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../Undergraduate/index.html">Undergraduate</a></li><li class="breadcrumb-item"><a href="../../Undergraduate/Tutoring/index.html">Tutoring</a></li></ol></nav>
 <div class="quarto-title">
@@ -677,7 +685,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="tutoring">Tutoring</h2>
 <table>
 <caption>
-Weekly tutor availability
+Weekly tutoring schedule by day, tutor, and time
 </caption>
 <thead>
 <tr>
@@ -685,71 +693,162 @@ Weekly tutor availability
 Day
 </th>
 <th scope="col">
-Tutoring hours
+Tutor
+</th>
+<th scope="col">
+Time
+</th>
+<th scope="col">
+Mode
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row">
+<th scope="row" rowspan="3">
 Monday
 </th>
 <td>
-<div class="block">
-<span class="tutor raheel">Raheel</span><span class="time">9:30 – 12:30</span>
-</div>
-<div class="block">
-<span class="tutor ian">Ian</span><span class="time">1:20 – 2:20</span>
-</div>
-<div class="block">
-<span class="tutor raheel">Raheel</span><span class="time">2:30 – 4:30</span>
-</div>
+Raheel
+</td>
+<td>
+9:30&nbsp;AM–12:30&nbsp;PM
+</td>
+<td>
+In person
 </td>
 </tr>
-<tr class="remote-row">
+<tr>
+<td>
+Ian
+</td>
+<td>
+1:20&nbsp;PM–2:20&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
+<td>
+Stivi
+</td>
+<td>
+6:30&nbsp;PM–8:30&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
 <th scope="row">
 Tuesday
 </th>
 <td>
-<div class="remote-block">
-<span class="tutor raheel">Raheel</span><span class="time">2:30 – 4:30 <a href="https://bit.ly/4A3Wda9">(Remote)</a></span>
-</div>
+Raheel
+</td>
+<td>
+2:30&nbsp;PM–4:30&nbsp;PM
+</td>
+<td>
+<span class="mode-remote">Remote</span><br> <a href="https://bit.ly/4A3Wda9">https://bit.ly/4A3Wda9</a>
 </td>
 </tr>
 <tr>
-<th scope="row">
+<th scope="row" rowspan="3">
 Wednesday
 </th>
 <td>
-<div class="block">
-<span class="tutor raheel">Raheel</span><span class="time">9:30 – 12:30</span>
-</div>
-<div class="block">
-<span class="tutor ian">Ian</span><span class="time">1:20 – 4:20</span>
-</div>
+Raheel
+</td>
+<td>
+9:30&nbsp;AM–12:30&nbsp;PM
+</td>
+<td>
+In person
 </td>
 </tr>
 <tr>
-<th scope="row">
+<td>
+Ian
+</td>
+<td>
+1:20&nbsp;PM–4:20&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
+<td>
+Stivi
+</td>
+<td>
+1:30&nbsp;PM–4:30&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
+<th scope="row" rowspan="3">
 Thursday
 </th>
 <td>
-<div class="block">
-<span class="tutor raheel">Raheel</span><span class="time">9:30 – 12:30</span>
-</div>
-<div class="block">
-<span class="tutor ian">Ian</span><span class="time">12:20 – 4:20</span>
-</div>
+Raheel
+</td>
+<td>
+9:30&nbsp;AM–12:30&nbsp;PM
+</td>
+<td>
+In person
 </td>
 </tr>
 <tr>
-<th scope="row">
+<td>
+Ian
+</td>
+<td>
+12:20&nbsp;PM–4:20&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
+<td>
+Stivi
+</td>
+<td>
+2:30&nbsp;PM–4:30&nbsp;PM
+</td>
+<td>
+<span class="mode-remote">Remote</span><br> <a href="https://bit.ly/4AdIVrD">https://bit.ly/4AdIVrD</a>
+</td>
+</tr>
+<tr>
+<th scope="row" rowspan="2">
 Friday
 </th>
 <td>
-<div class="block">
-<span class="tutor ian">Ian</span><span class="time">12:20 – 3:50</span>
-</div>
+Ian
+</td>
+<td>
+12:20&nbsp;PM–3:50&nbsp;PM
+</td>
+<td>
+In person
+</td>
+</tr>
+<tr>
+<td>
+Stivi
+</td>
+<td>
+12:30&nbsp;PM–4:30&nbsp;PM
+</td>
+<td>
+In person
 </td>
 </tr>
 </tbody>
