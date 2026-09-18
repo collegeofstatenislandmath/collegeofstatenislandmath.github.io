@@ -6,7 +6,7 @@ css: tutoring.css
 
 The Mathematics Tutoring Center is located in 1S-214.
 
-## Spring 2026
+## Fall 2026
 
 The Mathematics Tutoring Center has tutoring on campus, as well as Distance-based. 
 The schedule posts here, and on the door of room 1S-214. Please Check back for frequent updates.
