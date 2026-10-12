@@ -1,0 +1,20 @@
+---
+title: "An Introduction to Tropical Mathematics: Turning Polynomials into Polygons"
+date: 2026-10-15
+image: sera-gunn.png
+image-alt: Advertisement poster for the event
+Note: 2:30 pm in 1S-213
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+Speaker: Dr. Sera Gunn
+
+Abstract: We will look at the various ways that the mathematics of curves and
+surfaces is analogous to that of polygons and graphs (networks of vertices and
+edges). This analogy is more than coincidental and we will see not only that
+the same properties that hold for the continuous world also hold for the
+discrete world but how to use each world to obtain results in the other.
+
+**Pizza and snacks will be provided!**
