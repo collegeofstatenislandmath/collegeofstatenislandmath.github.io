@@ -1,5 +1,27 @@
 [
   {
+    "listing": "/People/staff/index.html",
+    "items": [
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html"
+    ]
+  },
+  {
+    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
+    "items": [
+      "/Undergraduate/simons-undergraduate-lecture-series/counted-out.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
+    ]
+  },
+  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Balogh-Andras.html",
@@ -33,13 +55,6 @@
     ]
   },
   {
-    "listing": "/People/staff/index.html",
-    "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/news/gunntalk.html",
@@ -50,21 +65,6 @@
       "/news/teha-pi-day.html",
       "/news/pi-day-2025.html",
       "/news/math-romance.html"
-    ]
-  },
-  {
-    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
-    "items": [
-      "/Undergraduate/simons-undergraduate-lecture-series/counted-out.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
     ]
   }
 ]
