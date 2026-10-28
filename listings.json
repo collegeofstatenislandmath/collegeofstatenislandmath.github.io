@@ -1,27 +1,5 @@
 [
   {
-    "listing": "/People/staff/index.html",
-    "items": [
-      "/People/staff/Coniglio-Annette.html",
-      "/People/staff/Biagini-Colleen.html"
-    ]
-  },
-  {
-    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
-    "items": [
-      "/Undergraduate/simons-undergraduate-lecture-series/counted-out.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
-      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
-    ]
-  },
-  {
     "listing": "/People/faculty/index.html",
     "items": [
       "/People/faculty/Balogh-Andras.html",
@@ -55,8 +33,31 @@
     ]
   },
   {
+    "listing": "/Undergraduate/simons-undergraduate-lecture-series/index.html",
+    "items": [
+      "/Undergraduate/simons-undergraduate-lecture-series/counted-out.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/kawohl.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/segerman.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/strang.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/serriere.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/duchin.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/butler.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/lamb.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/cederbaum.html",
+      "/Undergraduate/simons-undergraduate-lecture-series/morgan.html"
+    ]
+  },
+  {
+    "listing": "/People/staff/index.html",
+    "items": [
+      "/People/staff/Coniglio-Annette.html",
+      "/People/staff/Biagini-Colleen.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/news/halloween2026.html",
       "/news/gunntalk.html",
       "/news/counted-out.html",
       "/news/pi-day-2026.html",
