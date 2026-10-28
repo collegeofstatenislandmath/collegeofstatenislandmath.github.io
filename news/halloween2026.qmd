@@ -1,0 +1,15 @@
+---
+title: "Math Club Halloween Party"
+date: 2026-10-29
+image: halloween2026.png
+image-alt: Advertisement poster for the event
+Note: 2:30 to 4:30 pm in 1S-219
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+Join the Math Club for a fun event where we'll play games, eat food, and
+socialize with other people interested in math!
+
+**Pizza and snacks will be provided!**

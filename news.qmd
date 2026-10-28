@@ -1,17 +1,17 @@
 ## Recent news {.home-heading}
 
-:::: {#news}
-::::
-
-<!-- ::: {.grid} -->
-
-<!-- ::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1} -->
 <!-- :::: {#news} -->
 <!-- :::: -->
-<!-- ::: -->
 
-<!-- ::: {.g-col-8 .g-col-md-4 .order-1 .order-md-2} -->
-<!-- [![](/news/sera-gunn.png){alt="Advertisement poster for October 15 talk at 2:30"}](/news/gunntalk.qmd) -->
-<!-- ::: -->
+::: {.grid}
 
-<!-- ::: -->
+::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
+:::: {#news}
+::::
+:::
+
+::: {.g-col-8 .g-col-md-4 .order-1 .order-md-2}
+[![](/news/halloween2026.png){alt="Advertisement poster for Halloween event"}](/news/halloween2026.qmd)
+:::
+
+:::
