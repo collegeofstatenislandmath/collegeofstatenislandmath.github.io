@@ -1,0 +1,13 @@
+---
+title: "Higher Level Math Info Session"
+date: 2026-11-4
+image: higher-math-session-2026.png
+image-alt: Advertisement poster for the event
+Note: 2:30 to 3:15 pm in 1S-213
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+Join the Math Club to hear professors pitch 300+ level math courses.
+All are welcome!
