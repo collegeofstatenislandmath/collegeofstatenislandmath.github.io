@@ -11,7 +11,7 @@
 :::
 
 ::: {.g-col-8 .g-col-md-4 .order-1 .order-md-2}
-[![](/news/halloween2026.png){alt="Advertisement poster for Halloween event"}](/news/halloween2026.qmd)
+[![](/news/higher-math-session-2026.png){alt="Advertisement poster for Higher Level Math event"}](/news/higher-math-session-2026.qmd)
 :::
 
 :::
