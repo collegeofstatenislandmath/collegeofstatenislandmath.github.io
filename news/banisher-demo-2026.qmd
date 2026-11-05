@@ -1,0 +1,10 @@
+---
+title: Banisher board game demo
+date: 2026-11-17
+Note: 2:30 pm, room TBA
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
+---
+
+Hosted by Dr. Joseph Quinn. Details TBA.

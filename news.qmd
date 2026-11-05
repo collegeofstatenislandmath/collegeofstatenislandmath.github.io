@@ -1,9 +1,9 @@
 ## Recent news {.home-heading}
 
-<!-- :::: {#news} -->
-<!-- :::: -->
+:::: {#news}
+::::
 
-::: {.grid}
+<!-- ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
 :::: {#news}
@@ -14,4 +14,4 @@
 [![](/news/higher-math-session-2026.png){alt="Advertisement poster for Higher Level Math event"}](/news/higher-math-session-2026.qmd)
 :::
 
-:::
+::: -->
