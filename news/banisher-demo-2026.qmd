@@ -1,10 +1,14 @@
 ---
 title: Banisher board game demo
 date: 2026-11-17
-Note: 2:30 pm, room TBA
+Note: 2:30 pm to 4:30 pm in 1S-213
+image: banisher-2026.jpg
+image-alt: Advertisement poster for the event
 about:
   template: solana
   image-width: min(500px, 75vmin)
 ---
 
-Hosted by Dr. Joseph Quinn. Details TBA.
+Come join Math Club to play a game of Banisher!
+Banisher is a game created by Prof. Joe Quinn.
+Banisher is "a psychospiritual boardgame for liberating humanity from sinister forces."

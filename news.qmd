@@ -1,9 +1,9 @@
 ## Recent news {.home-heading}
 
-:::: {#news}
-::::
+<!-- :::: {#news}
+:::: -->
 
-<!-- ::: {.grid}
+::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
 :::: {#news}
@@ -11,7 +11,7 @@
 :::
 
 ::: {.g-col-8 .g-col-md-4 .order-1 .order-md-2}
-[![](/news/higher-math-session-2026.png){alt="Advertisement poster for Higher Level Math event"}](/news/higher-math-session-2026.qmd)
+[![](/news/banisher-2026.jpg){alt="Advertisement poster for Banisher board game demo"}](/news/banisher-demo-2026.qmd)
 :::
 
-::: -->
+:::
