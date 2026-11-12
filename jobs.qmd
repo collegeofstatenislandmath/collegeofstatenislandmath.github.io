@@ -1,5 +1,13 @@
 # Current job opportunities
 
+## Full-time
+
+* Assistant Professor of Mathematics -- [MathJobs](https://www.mathjobs.org/jobs/list/29438)
+    - The Department of Mathematics at The College of Staten Island (CSI) of The City University of New York (CUNY) invites applications for a full-time, tenure-track Assistant Professor position in Mathematics with an anticipated starting date of Fall 2027.
+    - Preferred Qualifications: Postdoctoral or equivalent experience is strongly preferred. Preference will be given to candidates with a robust research record in the mathematical foundations of Artificial Intelligence and Machine Learning. Relevant research areas include, but are not limited to: optimization, computational statistics, probability and statistical physics applied to AI, deep learning theory, automated reasoning, symbolic AI, AI-assisted mathematics (e.g., formal verification, interactive theorem proving), or the intersection of graph theory and machine learning.
+    - Candidates must be able to develop and teach cutting-edge courses in these areas and demonstrate a strong interest in program development and curriculum design. Candidates should demonstrate the potential for securing external funding and a commitment to working effectively with faculty, staff, and students in a diverse, multicultural campus environment.
+    - Apply by **January 2, 2027**
+
 ## Part-time
 
 * Adjunct instructors
