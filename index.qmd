@@ -1,7 +1,7 @@
 ---
 anchor-sections: false
 listing:
-  contents: news
+  contents: "news/*.qmd"
   max-items: 4
   type: table
   fields: [date, title, Note]
