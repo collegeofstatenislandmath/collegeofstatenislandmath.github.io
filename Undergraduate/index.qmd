@@ -19,7 +19,7 @@ The Department of Mathematics has around 70 declared majors at any given time an
 
 - [WebAssign instructions](Courses/WebAssign_Instructions/)
 - [WeBWorK Instructions](Courses/WeBWorK_Instructions/)
-- [Calculus book guide](calculus-book-guide.qmd)
+- [Calculus book guide](Courses/calculus-book-guide.qmd)
 
 ### External Resources
 
