@@ -4,13 +4,13 @@ The website is built using [Quarto](https://quarto.org/), a technical
 publishing system authored in markdown and converted to html via Pandoc.
 
 To build preview in a local browser:
-```{sh}
+```sh
 quarto preview
 ```
 
 To build without previewing:
-```{sh}
-quarto build
+```sh
+quarto render
 ```
 
 Primary maintainer [@seragunn](https://github.com/seragunn).
@@ -45,7 +45,7 @@ Edit `_quarto.yml` for a quick announcement. Shows up as a blue bar underneath t
 `people/faculty/faculty-bios.jl` contains faculty bios.
 
 Edit these files and then run
-```{sh}
+```sh
 julia make_faculty_pages.jl
 ```
 
