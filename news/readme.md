@@ -3,7 +3,7 @@
 * Images can't be pdf here
 * using this template is useful or copy an existing news item
 
-```{md}
+```yaml
 ---
 title: TITLE
 date: DATE
