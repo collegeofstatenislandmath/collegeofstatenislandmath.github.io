@@ -32,6 +32,12 @@ h2.home-heading {
   }
 }
 
+// News date width
+table.quarto-listing-table td .listing-date {
+  min-width: 3.2em;
+  display: inline-block;
+}
+
 .small-h3 h3 {
   font-size: 100%;
   margin: 0;
@@ -51,6 +57,7 @@ h2.home-heading {
 .card {
   border-radius: 0.25rem;
   margin-bottom: 0.5rem;
+  height: fit-content;
 
   .card-header {
     padding: 0;

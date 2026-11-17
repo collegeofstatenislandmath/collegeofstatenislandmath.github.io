@@ -1,12 +1,8 @@
 ---
 title: Banisher board game demo
 date: 2026-11-17
-Note: 2:30 pm to 4:30 pm in 1S-213
 image: banisher-2026.jpg
-image-alt: Advertisement poster for the event
-about:
-  template: solana
-  image-width: min(500px, 75vmin)
+timeroom: 2:30--4:30 in 1S-213
 ---
 
 Come join Math Club to play a game of Banisher!

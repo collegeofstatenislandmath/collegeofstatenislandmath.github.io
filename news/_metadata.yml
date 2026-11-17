@@ -1,0 +1,6 @@
+image-alt: Advertisement poster for the event
+language:
+  title-block-published: "Date"
+about:
+  template: solana
+  image-width: min(500px, 75vmin)
