@@ -32,15 +32,19 @@ listing:
 <!-- Main content -->
 
 :::: {.grid}
-::::: {.g-col-12 .g-col-sm-8 .g-col-md-9}
+::::: {.g-col-12 .g-col-lg-9}
 
 {{< include news.qmd >}}
+
+:::::: {.d-block .d-lg-none}
+{{< include sidebar-inline.qmd >}}
+::::::
+
 {{< include blurbs.qmd >}}
 
 :::::
 
-::::: {.g-col-12  .g-col-sm-4 .g-col-md-3}
-
+::::: {.g-col-lg-3 .d-none .d-lg-block}
 {{< include sidebar.qmd >}}
 :::::
 ::::
