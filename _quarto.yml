@@ -16,7 +16,6 @@ website:
   navbar:
     background: $csi-blue
     pinned: true
-    collapse-below: "md"
     logo: images/favicons/wavelet.svg
     logo-alt: "CSI Math"
     left:
