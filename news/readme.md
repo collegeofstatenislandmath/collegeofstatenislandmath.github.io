@@ -8,15 +8,13 @@
 title: TITLE
 date: DATE
 image: IMAGE
-image-alt: DESCRIBE THE IMAGE
-Note: (e.g. room number/time)
-about:
-  template: solana
-  image-width: 35%
+timeroom: TIME AND ROOM
 ---
 
 MORE DESCRIPTION
 ```
+
+Common metadata (e.g. image alt text, template) is written in `_metadata.yml` but can be overwritten.
 
 Update `/index.qmd` in the root directory to set the number of most recent news
 items to display on the main page. In `/news.qmd` you can comment or uncomment
