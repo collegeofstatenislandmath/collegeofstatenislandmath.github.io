@@ -32,6 +32,12 @@ h2.home-heading {
   }
 }
 
+// News date width
+table.quarto-listing-table td .listing-date {
+  min-width: 3.2em;
+  display: inline-block;
+}
+
 .small-h3 h3 {
   font-size: 100%;
   margin: 0;

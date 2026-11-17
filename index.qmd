@@ -4,12 +4,15 @@ listing:
   contents: "news/*.qmd"
   max-items: 4
   type: table
-  fields: [date, title, Note]
+  fields: [date, timeroom, title]
   image-height: 200px
   sort: "date desc"
   sort-ui: false
   filter-ui: false
   id: news
+  date-format: "MMM D"
+  field-display-names:
+    timeroom: "Time/Room"
 ---
 
 ::: {.container}

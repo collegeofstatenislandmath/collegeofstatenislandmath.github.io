@@ -1,4 +1,4 @@
-## Recent news {.home-heading}
+## News and Events {.home-heading}
 
 <!-- :::: {#news}
 :::: -->
