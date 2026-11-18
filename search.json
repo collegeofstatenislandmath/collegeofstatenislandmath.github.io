@@ -540,29 +540,29 @@
     "text": "It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of 3.1415…, and the joy of discovery. Let’s celebrate with creativity, curiosity, and maybe even dessert!\nFOOD AND REFRESHMENTS PROVIDED!"
   },
   {
-    "objectID": "news/gunntalk.html",
-    "href": "news/gunntalk.html",
-    "title": "An Introduction to Tropical Mathematics: Turning Polynomials into Polygons",
+    "objectID": "news/banisher-demo-2026.html",
+    "href": "news/banisher-demo-2026.html",
+    "title": "Banisher board game demo",
     "section": "",
-    "text": "Speaker: Dr. Sera Gunn\nAbstract: We will look at the various ways that the mathematics of curves and surfaces is analogous to that of polygons and graphs (networks of vertices and edges). This analogy is more than coincidental and we will see not only that the same properties that hold for the continuous world also hold for the discrete world but how to use each world to obtain results in the other.\nPizza and snacks will be provided!"
+    "text": "Come join Math Club to play a game of Banisher! Banisher is a game created by Prof. Joe Quinn. Banisher is “a psychospiritual boardgame for liberating humanity from sinister forces.”"
   },
   {
-    "objectID": "news/math-romance.html",
-    "href": "news/math-romance.html",
-    "title": "The Math of Modern Romance",
+    "objectID": "news/2025/roberttalk.html",
+    "href": "news/2025/roberttalk.html",
+    "title": "Principles of Generative Diffusion Models",
     "section": "",
-    "text": "Math of Modern Romance MathClub event. Thursday, February 13 @ 3 pm in 1S-119"
+    "text": "Abstract: Recent developments in generative diffusion models have contributed to a wide variety of application areas, from image generation to drug discovery and numerical weather prediction. In this talk, we will provide a self-contained introduction to the mathematical principles of diffusion models, driven by what we will refer to as the forward and backward stochastic processes. We will also look at some examples of image generation and examine the dynamical phase transitions evident in the backward process. Students of all levels of mathematical background and interest are encouraged to attend!\nPizza and snacks will be provided!"
   },
   {
-    "objectID": "news/fall-games-2025.html",
-    "href": "news/fall-games-2025.html",
+    "objectID": "news/2025/fall-games-2025.html",
+    "href": "news/2025/fall-games-2025.html",
     "title": "Math Club Fall Games",
     "section": "",
     "text": "The annual Math Club social with math themed board games and fun mathematical discussions"
   },
   {
-    "objectID": "news/teha-pi-day.html",
-    "href": "news/teha-pi-day.html",
+    "objectID": "news/2025/teha-pi-day.html",
+    "href": "news/2025/teha-pi-day.html",
     "title": "Effective Interventions for Students with Mathematics Learning Disabilities",
     "section": "",
     "text": "Thursday March 13, 3:30-4:30pm Math Conference Room (1S-213)\nPresented by Dr. Sridhar Nagubandi\nThis event is brought to you by the Teacher Education Honors Academy."
@@ -3191,11 +3191,18 @@
     "text": "Join the Math Club to hear professors pitch 300+ level math courses. All are welcome!"
   },
   {
-    "objectID": "news/pi-day-2025.html",
-    "href": "news/pi-day-2025.html",
+    "objectID": "news/2025/pi-day-2025.html",
+    "href": "news/2025/pi-day-2025.html",
     "title": "Pi Day 2025",
     "section": "",
     "text": "It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of 3.1415…, and the joy of discovery. Let’s celebrate with creativity, curiosity, and maybe even dessert!\nFOOD AND REFRESHMENTS PROVIDED!"
+  },
+  {
+    "objectID": "news/2025/math-romance.html",
+    "href": "news/2025/math-romance.html",
+    "title": "The Math of Modern Romance",
+    "section": "",
+    "text": "Math of Modern Romance MathClub event. Thursday, February 13 @ 3 pm in 1S-119"
   },
   {
     "objectID": "news/counted-out.html",
@@ -3205,18 +3212,11 @@
     "text": "For more info and to RSVP: https://tinyurl.com/countedoutcsi\nJoin us to see a new doc shining light on math as the foundation of democracy and opportunity & help us find the next generation of teachers\nIn our current information economy, math is everywhere. The people we date, the news we see, the influence of our votes, the education we have access to, the jobs we get—all of it is underwritten by an invisible layer of math that few of us understand, or even notice."
   },
   {
-    "objectID": "news/banisher-demo-2026.html",
-    "href": "news/banisher-demo-2026.html",
-    "title": "Banisher board game demo",
+    "objectID": "news/gunntalk.html",
+    "href": "news/gunntalk.html",
+    "title": "An Introduction to Tropical Mathematics: Turning Polynomials into Polygons",
     "section": "",
-    "text": "Come join Math Club to play a game of Banisher! Banisher is a game created by Prof. Joe Quinn. Banisher is “a psychospiritual boardgame for liberating humanity from sinister forces.”"
-  },
-  {
-    "objectID": "news/roberttalk.html",
-    "href": "news/roberttalk.html",
-    "title": "Principles of Generative Diffusion Models",
-    "section": "",
-    "text": "Abstract: Recent developments in generative diffusion models have contributed to a wide variety of application areas, from image generation to drug discovery and numerical weather prediction. In this talk, we will provide a self-contained introduction to the mathematical principles of diffusion models, driven by what we will refer to as the forward and backward stochastic processes. We will also look at some examples of image generation and examine the dynamical phase transitions evident in the backward process. Students of all levels of mathematical background and interest are encouraged to attend!\nPizza and snacks will be provided!"
+    "text": "Speaker: Dr. Sera Gunn\nAbstract: We will look at the various ways that the mathematics of curves and surfaces is analogous to that of polygons and graphs (networks of vertices and edges). This analogy is more than coincidental and we will see not only that the same properties that hold for the continuous world also hold for the discrete world but how to use each world to obtain results in the other.\nPizza and snacks will be provided!"
   },
   {
     "objectID": "news/readme.html",
