@@ -8,5 +8,3 @@ about:
   template: solana
   image-width: 35%
 ---
-
-<br>
