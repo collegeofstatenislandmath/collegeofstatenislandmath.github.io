@@ -5,3 +5,5 @@ listing:
   type: default
   sort: "date desc"
 ---
+
+## Past Events
