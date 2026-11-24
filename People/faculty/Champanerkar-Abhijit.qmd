@@ -2,7 +2,7 @@
 title: Abhijit Champanerkar
 image: /images/people/champanerkar-headshot.jpg
 image-alt: Abhijit Champanerkar
-description: Professor
+description: Professor and Chair
 lastname: Champanerkar
 about:
   template: solana
