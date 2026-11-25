@@ -1,9 +1,11 @@
 ---
-title: Banisher board game demo
+title: Banisher board game demo **(Cancelled)**
 date: 2026-11-17
 image: banisher-2026.jpg
 timeroom: 2:30--4:30 in 1S-213
 ---
+
+**Cancelled** (to be rescheduled in Spring)
 
 Come join Math Club to play a game of Banisher!
 Banisher is a game created by Prof. Joe Quinn.
