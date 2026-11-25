@@ -1,9 +1,9 @@
 ## News and Events {.home-heading}
 
-<!-- :::: {#news}
-:::: -->
+:::: {#news}
+::::
 
-::: {.grid}
+<!-- ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-8 .order-2 .order-md-1}
 :::: {#news}
@@ -14,4 +14,4 @@
 [![](/news/banisher-2026.jpg){alt="Advertisement poster for Banisher board game demo"}](/news/banisher-demo-2026.qmd)
 :::
 
-:::
+::: -->
